@@ -38,12 +38,12 @@ td {          /* for table */
 
 .paper_title {
   font-weight: 700;
-  font-size: 13px;
+  font-size: 18px;
   /* color: #2a6496 */
   /* color: #428bca */
 }
 .paper_rest {
-  font-size: 13px;
+  font-size: 18px;
 }
 .paper_bottom_space {
   margin-bottom: 20px;
@@ -98,11 +98,11 @@ td {          /* for table */
   font-weight: 700;
 }
 .header-text-email {
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 300;
 }
 .header-text-items {
-  font-size: 19px;
+  font-size: 22px;
   margin-top: -11px;
 }
 
@@ -173,7 +173,7 @@ ul {
     font-size: 34px;
   }
   .header-text-items {
-    font-size: 16px;
+    font-size: 18px;
     margin-top: 1px;
   }
   ul.icons a {
