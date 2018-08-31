@@ -131,10 +131,10 @@ ul {
     -ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
     transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
     text-decoration: none;
-    color: #f1f1f1; /* change this */
+    color: #00356b; /* change this */
   }
   ul.icons a:hover {
-    color: #888; /* change this */
+    color: #286dc0; /* change this */
   }
 
     ul.icons li {
@@ -177,9 +177,9 @@ ul {
     margin-top: 1px;
   }
   ul.icons a {
-    color: #bbb;
+    color: #00356b;
   }
   ul.icons a:hover {
-    color: #666;
+    color: #286dc0;
   }
 }
