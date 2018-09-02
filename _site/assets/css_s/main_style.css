@@ -82,7 +82,7 @@ td {          /* for table */
   width: 90%; /* this is needed to keep the bg image large in smart phone */
 }
 .img-profile {
-  border: 1px white;
+  border: 3px white solid;
   width: 180px;
   height: 180px;
   /*float: left;*/
