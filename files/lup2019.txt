@@ -1,0 +1,10 @@
+@article{article,
+author = {Plunz, Richard and Zhou, Yijia and Carrasco Vintimilla, Maria and McKeown, Kathleen and Yu, Tao and Uguccioni, Laura and Sutto, Maria-Paola},
+year = {2019},
+month = {05},
+pages = {235-246},
+title = {Twitter sentiment in New York City parks as measure of well-being},
+volume = {189},
+journal = {Landscape and Urban Planning},
+doi = {10.1016/j.landurbplan.2019.04.024}
+}
