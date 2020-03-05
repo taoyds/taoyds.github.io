@@ -3,8 +3,8 @@
 body {
   /* font-family: 'Nunito', sans-serif; */
   font-family: "Times New Roman", Times, serif;
-  font-size: 15px;
-  font-weight: 400;
+  font-size: 20px;
+  font-weight: 500;
   color: #444;
 }
 b {
@@ -37,13 +37,13 @@ td {          /* for table */
     }
 
 .paper_title {
-  font-weight: 700;
-  font-size: 15px;
+  font-weight: 600;
+  font-size: 20px;
   /* color: #2a6496 */
   /* color: #428bca */
 }
 .paper_rest {
-  font-size: 14px;
+  font-size: 16px;
 }
 .paper_bottom_space {
   margin-bottom: 20px;
@@ -59,7 +59,7 @@ td {          /* for table */
   /* font-family: 'Trebuchet MS', sans-serif; */
   font-family: "Times New Roman", Times, serif;
   /* font-family: 'Lato', sans-serif; */
-  font-weight: 300;
+  font-weight: 600;
   color: white;
   width: 100%;
   /* max-width: 1150px; */
@@ -115,7 +115,7 @@ td {          /* for table */
 }
 .header-text-name {
   font-size: 36px;
-  font-weight: 700;
+  font-weight: 600;
 }
 .header-text-email {
   font-size: 15px;
