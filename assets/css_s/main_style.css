@@ -3,9 +3,9 @@
 body {
   /* font-family: 'Nunito', sans-serif; */
   font-family: "Times New Roman", Times, serif;
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 500;
-  color: #444;
+  color: black;
 }
 b {
   font-weight: 700;
@@ -38,7 +38,7 @@ td {          /* for table */
 
 .paper_title {
   font-weight: 600;
-  font-size: 20px;
+  font-size: 15px;
   /* color: #2a6496 */
   /* color: #428bca */
 }
@@ -108,8 +108,8 @@ td {          /* for table */
 }
 .header-text {
   color: black;
-  font-size: 26px;
-  font-weight: 400;
+  font-size: 16px;
+  font-weight: 500;
   margin-top: -180px;
   margin-left: 400px;
 }
@@ -118,12 +118,12 @@ td {          /* for table */
   font-weight: 600;
 }
 .header-text-email {
-  font-size: 15px;
-  font-weight: 600;
+  font-size: 16px;
+  font-weight: 500;
   line-height: 15px;
 }
 .header-text-items {
-  font-size: 20px;
+  font-size: 15px;
   margin-top: 0px;
 }
 
@@ -220,7 +220,7 @@ ul {
     color: black;
   }
   .header-text-items {
-    font-size: 15px;
+    font-size: 16px;
     margin-top: 1px;
   }
   ul.icons a {
