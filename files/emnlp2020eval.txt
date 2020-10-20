@@ -1,0 +1,7 @@
+@InProceedings{ruiqi20,
+  author =  {Ruiqi Zhong and Tao Yu and Dan Klein},
+  title =   {Semantic Evaluation for Text-to-SQL with Distilled Test Suite},
+  year =    {2020},
+  booktitle =   {The 2020 Conference on Empirical Methods in Natural Language Processing},
+  publisher = {Association for Computational Linguistics},
+}
