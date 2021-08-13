@@ -1,0 +1,54 @@
+experiences:
+
+- place: "The University of Hong Kong"
+  time: "2021 - now"
+  title: "Assistant Professor, CS"
+  subtitle: "HKU NLP group"
+  category: "work"
+
+- place: "University of Washington"
+  time: "09/2021 - 07/2022"
+  title: "Postdoc in UW NLP group"
+  subtitle: "Working for Noah Smith and Mari Ostendorf"
+  category: "work"
+
+- place: "Yale University"
+  time: "2017 - 2021"
+  title: "Ph.D. Student"
+  subtitle: "Computer Science - Natural Language Processing <br/> Advisors: Dragomir R. Radev <br/> Committee: Kathleen McKeown, Luke Zettlemoyer, Robert Frank, Marynel Vázquez"
+  category: "school"
+
+- place: "Microsoft Research"
+  time: "Summer 2020"
+  title: "NLP Research, Intern"
+  subtitle: "Mentors: Ahmed Hassan Awadallah, Oleksandr Polozov, and Chris Meek"
+  category: "work"
+
+- place: "Salesforce Research"
+  time: "Summer 2019"
+  title: "NLP Research, Intern"
+  subtitle: "Mentors: Victoria Lin and Caiming Xiong"
+  category: "work"
+
+- place: "Samsung Research America"
+  time: "Summer 2018"
+  title: "NLP Research, Intern"
+  category: "work"
+
+- place: "Columbia CCLS & NLP Group"
+  time: "05-10/2016"
+  title: "Research Assistant"
+  subtitle: "Advised by Owen Rambow and Kathleen McKeown"
+  category: "work"
+
+- place: "Columbia University"
+  time: "2015 – 2017"
+  title: "M.S. Student"
+  subtitle: "Data Science"
+  category: "school"
+
+- place: "University of Utah"
+  time: "2012 - 2015"
+  title: "B.S. Student"
+  subtitle: "Mathematics <br/> Economics"
+  category: "school"

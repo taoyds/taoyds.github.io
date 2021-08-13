@@ -1,0 +1,117 @@
+papers:
+
+  - title: "Logic-Consistency Text Generation from Semantic Parses"
+    authors: "Chang Shu, Yusen Zhang, Xiangyu Dong, Peng Shi, <b>Tao Yu</b>, Rui Zhang"
+    venue: "<b>Findings of ACL 2021</b>. Long Paper"
+    paper_pdf: "https://arxiv.org/abs/2108.00577"
+    code: "https://github.com/Ciaranshu/relogic"
+    selected: n
+
+  - title: "QMSum: A New Benchmark for Query-based Multi-domain Meeting Summarization"
+    authors: "Ming Zhong*, Da Yin*, <b>Tao Yu</b>, Ahmad Zaidi, Mutethia Mutuma, Rahul Jha, Ahmed Hassan Awadallah, Asli Celikyilmaz, Yang Liu, Xipeng Qiu and Dragomir Radev"
+    venue: "<b>NAACL 2021</b>. Long Paper"
+    paper_pdf: "https://arxiv.org/abs/2104.05938"
+    code: "https://github.com/Yale-LILY/QMSum"
+    selected: y
+
+  - title: "DART: Open-Domain Structured Data Record to Text Generation"
+    authors: "with Linyong Nan, Dragomir Radev, Rui Zhang, Neha Verma, Xi Victoria Lin, Caiming Xiong, Richard Socher and many authors."
+    venue: "<b>NAACL 2021</b>. Long Paper"
+    paper_pdf: "https://arxiv.org/abs/2007.02871"
+    data: "https://github.com/Yale-LILY/dart"
+    selected: n
+
+  - title: "SCoRe: Pre-Training for Context Representation in Conversational Semantic Parsing"
+    authors: "<b>Tao Yu</b>, Rui Zhang, Alex Polozov, Christopher Meek, Ahmed Hassan Awadallah"
+    venue: "<b>ICLR 2021</b>. Long Paper"
+    paper_pdf: "https://openreview.net/forum?id=oyZxhRI2RiE"
+    code: "https://github.com/microsoft/SCoRE"
+    selected: y
+
+  - title: "GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing"
+    authors: "<b>Tao Yu</b>, Chien-Sheng Wu, Xi Victoria Lin, Bailin Wang, Yi Chern Tan, Xinyi Yang, Dragomir Radev, Richard Socher, Caiming Xiong"
+    venue: "<b>ICLR 2021</b>. Long Paper"
+    paper_pdf: "https://arxiv.org/abs/2009.13845"
+    code: "https://github.com/taoyds/grappa"
+    selected: y
+
+  - title: "Semantic Evaluation for Text-to-SQL with Distilled Test Suites"
+    authors: "Ruiqi Zhong, <b>Tao Yu</b>, Dan Klein"
+    venue: "<b>EMNLP 2020</b>. Long Paper"
+    paper_pdf: "https://arxiv.org/abs/2010.02840"
+    code: "https://github.com/ruiqi-zhong/TestSuiteEval"
+    selected: y
+
+  - title: "Did You Ask a Good Question? A Cross-Domain Question Intention Classification Benchmark for Text-to-SQL"
+    authors: "Yusen Zhang, Xiangyu Dong, Shuaichen Chang, <b>Tao Yu</b>, Peng Shi, Rui Zhang"
+    venue: "<b>EMNLP 2020</b> Workshop on Interactive and Executable Semantic Parsing. Short Paper"
+    paper_pdf: "https://arxiv.org/abs/2010.12634"
+    data: "https://github.com/chatc/TriageSQL"
+    selected: n
+
+  - title: "<i>CoSQL</i>: A Conversational Text-to-SQL Challenge Towards Cross-Domain Natural Language Interfaces to Databases"
+    authors: "<b>Tao Yu</b>, Rui Zhang He Yang Er, Suyi Li, Eric Xue, Bo Pang, Xi Victoria Lin, Yi Chern Tan, Tianze Shi, Zihan Li, Youxuan Jiang, Michihiro Yasunaga, Sungrok Shim, Tao Chen, Alexander Fabbri, Zifan Li, Luyao Chen, Yuwen Zhang, Shreya Dixit, Vincent Zhang, Caiming Xiong, Richard Socher, Walter Lasecki, Dragomir Radev"
+    venue: "<b>EMNLP 2019</b>. Long Paper"
+    paper_pdf: "https://arxiv.org/abs/1909.05378"
+    data: "https://yale-lily.github.io/cosql"
+    selected: n
+
+  - title: "Editing-Based SQL Query Generation for Cross-Domain Context-Dependent Questions"
+    authors: "Rui Zhang, <b>Tao Yu</b>, He Yang Er, Sungrok Shim, Eric Xue, Xi Victoria Lin, Tianze Shi, Caiming Xiong, Richard Socher, Dragomir Radev"
+    venue: "<b>EMNLP 2019</b>. Long Paper"
+    paper_pdf: "https://arxiv.org/abs/1909.00786"
+    code: "https://github.com/ryanzhumich/editsql"
+    selected: n
+
+  - title: "<i>SParC</i>: Cross-Domain Semantic Parsing in Context"
+    authors: "<b>Tao Yu</b>, Rui Zhang, Michihiro Yasunaga, Yi Chern Tan, Xi Victoria Lin, Suyi Li, Heyang Er, Irene Li, Bo Pang, Tao Chen, Emily Ji, Shreya Dixit, David Proctor, Sungrok Shim, Jonathan Kraft, Vincent Zhang, Caiming Xiong, Richard Socher and Dragomir Radev"
+    venue: "<b>ACL 2019</b>. Long Paper"
+    paper_pdf: "https://arxiv.org/abs/1906.02285"
+    code: "https://github.com/taoyds/sparc"
+    data: "https://yale-lily.github.io/sparc"
+    selected: y
+
+  - title: "Twitter Sentiment in New York City Parks as Measure of Well-being"
+    authors: "Richard A Plunz, Yijia Zhou, Maria Isabel Carrasco Vintimilla, Kathleen Mckeown, <b>Tao Yu</b>, Laura Uguccioni, Maria Paola Sutto"
+    venue: "<b>Landscape and Urban Planning 2019</b>. Long Paper"
+    paper_pdf: "https://www.sciencedirect.com/science/article/pii/S0169204618305863"
+    code: "https://github.com/taoyds/nbsvm_pos"
+    data: "http://www.cs.columbia.edu/~kathy/Data/TwitterParks/"
+    selected: n
+
+  - title: "<i>Spider</i>: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task"
+    authors: "<b>Tao Yu</b>, Rui Zhang, Kai Yang, Michihiro Yasunaga, Dongxu Wang, Zifan Li, James Ma, Irene Li, Qingning Yao, Shanelle Roman, Zilin Zhang and Dragomir Radev"
+    venue: "<b>EMNLP 2018</b>. Long Paper"
+    paper_pdf: "https://arxiv.org/abs/1809.08887"
+    code: "https://github.com/taoyds/spider"
+    data: "https://yale-lily.github.io/spider"
+    poster: "https://medium.com/@tao.yu/spider-one-more-step-towards-natural-language-interfaces-to-databases-62298dc6df3c"
+    selected: y
+
+  - title: "<i>SyntaxSQLNet</i>: Syntax Tree Networks for Complex and Cross-Domain Text-to-SQL Task"
+    authors: "<b>Tao Yu</b>, Michihiro Yasunaga, Kai Yang, Rui Zhang, Dongxu Wang, Zifan Li and Dragomir Radev"
+    venue: "<b>EMNLP 2018</b>. Long Paper"
+    paper_pdf: "https://arxiv.org/abs/1810.05237"
+    code: "https://github.com/taoyds/syntaxSQL"
+    selected: n
+
+  - title: "<i>TypeSQL</i>: Knowledge-based Type-Aware Neural Text-to-SQL Generation"
+    authors: "<b>Tao Yu</b>, Zifan Li, Zilin Zhang, Rui Zhang, Dragomir Radev"
+    venue: "<b>NAACL 2018</b>. Short Paper"
+    paper_pdf: "https://arxiv.org/abs/1804.09769"
+    code: "https://github.com/taoyds/typesql"
+    selected: n
+
+  - title: "Cross-lingual Sentiment Transfer with Limited Resources"
+    authors: "Mohammad Sadegh Rasooli, Noura Farra, Axinia Radeva, <b>Tao Yu</b>, and Kathleen McKeown"
+    venue: "<b>Machine Translation 2017</b>. Long Paper"
+    paper_pdf: "https://link.springer.com/article/10.1007/s10590-017-9202-6"
+    code: "https://github.com/rasoolims/senti-lstm"
+    selected: n
+
+  - title: "The Columbia-GWU System at the 2016 TAC KBP BeSt Evaluation"
+    authors: "Owen Rambow, <b>Tao Yu</b>, Axinia Radeva, Sardar Hamidian, Alexander R. Fabbri, Debanjan Ghosh, Christopher Hidey, Tianrui Peng, Mona Diab, Kathleen McKeown, Smaranda Muresan"
+    venue: "<b>NIST TAC</b> KBP Workshop, 2016. Long Paper"
+    paper_pdf: "https://tac.nist.gov/publications/2016/participant.papers/TAC2016.Columbia_GWU.proceedings.pdf"
+    slides: "https://tac.nist.gov/publications/2016/presentations/TAC2016.KBP.BEST.Columbia_GWU.presentation.pdf"
+    selected: n

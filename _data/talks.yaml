@@ -1,0 +1,17 @@
+
+talks:
+    - name: "<br/> NLP Reading Group, Google Research"
+      time: "Apr. 2021"
+      title: "SCoRe: Pre-Training for Context Representation in Conversational Semantic Parsing"
+      category: "current"
+      link: "https://docs.google.com/presentation/d/11S7y57PRSlq_ccQxprdtko1MVgQN--L8yH8H9UPfsfE/edit?usp=sharing"
+    - name: "<br/> The University of Hong Kong (CS) <br/> The National University of Singapore (CS) <br/> The University of Wisconsin-Madison (CS) <br/> Simon Fraser University (CS) <br/> The University of Minnesota Twin Cities (CSE) <br/> City University of Hong Kong (CS) <br/> Fudan University (CS) <br/> Southern University of Science and Technology (CS)"
+      time: "Jan - Mar. 2021"
+      title: "Learning to Build Conversational Natural Language Interfaces"
+      category: "current"
+      link: "https://docs.google.com/presentation/d/1ZyuMKRoXgY9dBmiJeYT8n_3sgFY6aw_EaMbnqZtAt8Y/edit?usp=sharing"
+    - name: "<br/> Microsoft Research AI Breakthroughs Workshop, Redmond"
+      time: "Sep. 2019"
+      title: "SParC: Cross-Domain Semantic Parsing in Context"
+      category: "current"
+      link: "https://yale-lily.github.io/sparc"
