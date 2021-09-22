@@ -1,15 +1,15 @@
 experiences:
 
+- place: "University of Washington"
+  time: "09/2021 - 06/2022"
+  title: "Postdoc in UW NLP group"
+  subtitle: "Working with Noah Smith and Mari Ostendorf"
+  category: "work"
+  
 - place: "The University of Hong Kong"
-  time: "2021 - now"
+  time: "08/2021 - now"
   title: "Assistant Professor, CS"
   subtitle: "HKU NLP group"
-  category: "work"
-
-- place: "University of Washington"
-  time: "09/2021 - 07/2022"
-  title: "Postdoc in UW NLP group"
-  subtitle: "Working for Noah Smith and Mari Ostendorf"
   category: "work"
 
 - place: "Yale University"
