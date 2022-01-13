@@ -5,6 +5,7 @@ papers:
     venue: "Preprint, under submission"
     paper_pdf: "/assets/publications/unifiedskg.pdf"
     code: "https://github.com/hkunlp/unifiedskg"
+    project page: "https://unifiedskg.com/"
     selected: y
 
   - title: "Logic-Consistency Text Generation from Semantic Parses"
