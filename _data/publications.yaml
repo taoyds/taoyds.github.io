@@ -2,7 +2,7 @@ papers:
 
   - title: "UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models"
     authors: "Tianbao Xie*, Chen Henry Wu*, Peng Shi, Ruiqi Zhong, Torsten Scholak, Michihiro Yasunaga, Chien-Sheng Wu, Ming Zhong, Pengcheng Yin, Sida Wang, Victor Zhong, Bailin Wang, Chengzu Li, Connor Boyle, Ansong Ni, Ziyu Yao, Dragomir Radev, Caiming Xiong, Lingpeng Kong, Rui Zhang, Noah A. Smith, Luke Zettlemoyer, <b>Tao Yu</b>"
-    venue: "Preprint"
+    venue: "Preprint 2022"
     paper_pdf: "https://arxiv.org/abs/2201.05966"
     code: "https://github.com/hkunlp/unifiedskg"
     poster: "https://unifiedskg.com/"
