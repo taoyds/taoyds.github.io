@@ -9,7 +9,7 @@ papers:
     selected: y
 
   - title: "In-Context Learning for Few-Shot Dialogue State Tracking"
-    authors: "Yushi Hu, Chia-Hsuan Lee, Tianbao Xie, <b>Tao Yu/b>, Noah A. Smith, Mari Ostendorf"
+    authors: "Yushi Hu, Chia-Hsuan Lee, Tianbao Xie, <b>Tao Yu</b>, Noah A. Smith, Mari Ostendorf"
     venue: "Preprint 2022"
     paper_pdf: "https://arxiv.org/abs/2203.08568"
     selected: y
