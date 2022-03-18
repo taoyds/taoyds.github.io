@@ -8,6 +8,18 @@ papers:
     poster: "https://unifiedskg.com/"
     selected: y
 
+  - title: "In-Context Learning for Few-Shot Dialogue State Tracking"
+    authors: "Yushi Hu, Chia-Hsuan Lee, Tianbao Xie, <b>Tao Yu/b>, Noah A. Smith, Mari Ostendorf"
+    venue: "Preprint 2022"
+    paper_pdf: "https://arxiv.org/abs/2203.08568"
+    selected: y
+
+  - title: "DYLE: Dynamic Latent Extraction for Abstractive Long-Input Summarization"
+    authors: "Ziming Mao*, Chen Henry Wu*, Ansong Ni, Yusen Zhang, Rui Zhang, <b>Tao Yu</b>, Budhaditya Deb, Chenguang Zhu, Ahmed H Awadallah, Dragomir Radev"
+    venue: "<b>ACL 2022</b>. Long Paper"
+    paper_pdf: "https://arxiv.org/abs/2110.08168"
+    selected: y
+
   - title: "An Exploratory Study on Long Dialogue Summarization: What Works and What's Next"
     authors: "Yusen Zhang*, Ansong Ni*, <b>Tao Yu</b>, Rui Zhang, Chenguang Zhu, Budhaditya Deb, Asli Celikyilmaz, Ahmed Hassan Awadallah, Dragomir Radev"
     venue: "<b>Findings of EMNLP 2021</b>. Short Paper"
@@ -23,7 +35,7 @@ papers:
   
   - title: "Testing Cross-Database Semantic Parsers Using Canonical Utterances"
     authors: "Heather Lent, Semih Yavuz, <b>Tao Yu</b>, Tong Niu, Yingbo Zhou, Dragomir Radev, Xi Victoria Lin"
-    venue: "<b>EMNLP 2021 Workshop: Evaluation & Comparison of NLP Systems</b>. Best Paper Award"
+    venue: "EMNLP 2021 Workshop: Evaluation & Comparison of NLP Systems. <b>Best Paper Award</b>"
     paper_pdf: "https://aclanthology.org/2021.eval4nlp-1.8.pdf"
     code: "https://github.com/hclent/BehaviorCheckingSemPar"
     selected: y
