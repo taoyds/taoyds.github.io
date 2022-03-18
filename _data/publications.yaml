@@ -18,12 +18,14 @@ papers:
     authors: "Ziming Mao*, Chen Henry Wu*, Ansong Ni, Yusen Zhang, Rui Zhang, <b>Tao Yu</b>, Budhaditya Deb, Chenguang Zhu, Ahmed H Awadallah, Dragomir Radev"
     venue: "<b>ACL 2022</b>. Long Paper"
     paper_pdf: "https://arxiv.org/abs/2110.08168"
+    code: "https://github.com/yale-lily/dyle"
     selected: y
 
   - title: "An Exploratory Study on Long Dialogue Summarization: What Works and What's Next"
     authors: "Yusen Zhang*, Ansong Ni*, <b>Tao Yu</b>, Rui Zhang, Chenguang Zhu, Budhaditya Deb, Asli Celikyilmaz, Ahmed Hassan Awadallah, Dragomir Radev"
     venue: "<b>Findings of EMNLP 2021</b>. Short Paper"
     paper_pdf: "https://arxiv.org/abs/2109.04609"
+    code: "https://github.com/chatc/LongDialSumm"
     selected: y
 
   - title: "SummerTime: Text Summarization Toolkit for Non-experts"
