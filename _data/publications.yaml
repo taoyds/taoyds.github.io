@@ -12,6 +12,14 @@ papers:
     authors: "Yushi Hu, Chia-Hsuan Lee, Tianbao Xie, <b>Tao Yu</b>, Noah A. Smith, Mari Ostendorf"
     venue: "Preprint 2022"
     paper_pdf: "https://arxiv.org/abs/2203.08568"
+    code: "https://https//github.com/Yushi-Hu/IC-DST"
+    selected: y
+  
+  - title: "ZeroGen: Efficient Zero-shot Learning via Dataset Generation"
+    authors: "Jiacheng Ye, Jiahui Gao, Qintong Li, Hang Xu, Jiangtao Feng, Zhiyong Wu, <b>Tao Yu</b>, Lingpeng Kong"
+    venue: "Preprint 2022"
+    paper_pdf: "https://arxiv.org/abs/2202.07922"
+    code: "https://github.com/jiacheng-ye/ZeroGen"
     selected: y
 
   - title: "DYLE: Dynamic Latent Extraction for Abstractive Long-Input Summarization"
