@@ -1,5 +1,9 @@
 
 talks:
+    - name: "<br/> AllState Tech Talk"
+      time: "Jun. 2022"
+      title: "Few-shot In-context Learning with Huge Language Models"
+      category: "current"
     - name: "<br/> ServiceNow Research (Prev. ElementAI)"
       time: "Feb. 2022"
       title: "UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models"
