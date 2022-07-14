@@ -1,13 +1,9 @@
 
 service:
-    - name: "<br/> SUKI: Structured and Unstructured Knowledge Integration Workshop@NAACL 2022"
+    - name: "<br/> SUKI: Structured and Unstructured Knowledge Integration Workshop@NAACL 2022 <br/> IntEx-SemPar: Interactive and Executable Semantic Parsing Workshop@EMNLP 2020"
       title: "Organizing Committee"
       category: "current"
       url: https://suki-workshop.github.io/
-    - name: "<br/> IntEx-SemPar: Interactive and Executable Semantic Parsing Workshop@EMNLP 2020"
-      title: "Organizing Committee"
-      category: "current"
-      url: https://intex-sempar.github.io/
     - name: "<br/> ACL Rolling Review <br/> ACL: 2020, 2021, 2022 <br/> EMNLP: 2019, 2020, 2021, 2022 <br/> ICLR: 2022, <br/> NeurIPS: 2022 <br/> NAACL: 2019, 2021 <br/> COLING: 2020, 2022 <br/> AACL-IJCNLP: 2020"
       title: "Program Committee/Reviewer"
       category: "current"
