@@ -57,6 +57,20 @@ papers:
       paper_pdf: "https://arxiv.org/abs/2209.08834"
       selected: y
       
+  - title: "Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models"
+      authors: "with the BIG-bench team (442 authors)"
+      venue: "Preprint, 2022"
+      paper_pdf: "https://arxiv.org/abs/2206.04615"
+      code: "https://github.com/google/BIG-bench"
+      selected: y
+      
+  - title: "FOLIO: Natural Language Reasoning with First-Order Logic"
+      authors: "with Simeng Han, Rui Zhang, Alexander R Fabbri, Xi Victoria Lin, Caiming Xiong, Dragomir Radev and many authors"
+      venue: "Preprint, 2022"
+      paper_pdf: "https://arxiv.org/abs/2209.00840"
+      code: "https://github.com/Yale-LILY/FOLIO"
+      selected: y
+      
   - title: "DYLE: Dynamic Latent Extraction for Abstractive Long-Input Summarization"
     authors: "Ziming Mao*, Chen Henry Wu*, Ansong Ni, Yusen Zhang, Rui Zhang, <b>Tao Yu</b>, Budhaditya Deb, Chenguang Zhu, Ahmed H Awadallah, Dragomir Radev"
     venue: "<b>ACL 2022</b>. Long Paper"
