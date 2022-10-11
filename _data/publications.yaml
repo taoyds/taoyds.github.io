@@ -1,27 +1,62 @@
 papers:
-
+  - title: "Binding Language Models in Symbolic Languages"
+    authors: "Zhoujun Cheng*, Tianbao Xie*, Peng Shi, Chengzu Li, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A Smith, <b>Tao Yu</b>"
+    venue: "Preprint, 2022"
+    paper_pdf: "https://arxiv.org/abs/2210.02875"
+    code: "https://github.com/HKUNLP/Binder"
+    poster: "https://huggingface.co/spaces/hkunlp/Binder"
+    selected: y
+  
+  - title: "Selective Annotation Makes Language Models Better Few-Shot Learners"
+    authors: "Hongjin Su, Jungo Kasai, Chen Henry Wu, Weijia Shi, Tianlu Wang, Jiayi Xin, Rui Zhang, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, <b>Tao Yu</b>"
+    venue: "Preprint, 2022"
+    paper_pdf: "https://arxiv.org/abs/2209.01975"
+    code: "https://github.com/HKUNLP/icl-selective-annotation"
+    poster: "https://twitter.com/wittgen_ball/status/1568302230490730497"
+    selected: y
+    
   - title: "UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models"
     authors: "Tianbao Xie*, Chen Henry Wu*, Peng Shi, Ruiqi Zhong, Torsten Scholak, Michihiro Yasunaga, Chien-Sheng Wu, Ming Zhong, Pengcheng Yin, Sida Wang, Victor Zhong, Bailin Wang, Chengzu Li, Connor Boyle, Ansong Ni, Ziyu Yao, Dragomir Radev, Caiming Xiong, Lingpeng Kong, Rui Zhang, Noah A. Smith, Luke Zettlemoyer, <b>Tao Yu</b>"
-    venue: "Preprint 2022"
+    venue: "<b>EMNLP 2022</b>. Long Paper"
     paper_pdf: "https://arxiv.org/abs/2201.05966"
     code: "https://github.com/hkunlp/unifiedskg"
     poster: "https://unifiedskg.com/"
     selected: y
-
+    
   - title: "In-Context Learning for Few-Shot Dialogue State Tracking"
     authors: "Yushi Hu, Chia-Hsuan Lee, Tianbao Xie, <b>Tao Yu</b>, Noah A. Smith, Mari Ostendorf"
-    venue: "Preprint 2022"
+    venue: "<b>Findings of EMNLP 2022</b>. Long Paper"
     paper_pdf: "https://arxiv.org/abs/2203.08568"
     code: "https://https//github.com/Yushi-Hu/IC-DST"
     selected: y
-  
+    
   - title: "ZeroGen: Efficient Zero-shot Learning via Dataset Generation"
-    authors: "Jiacheng Ye, Jiahui Gao, Qintong Li, Hang Xu, Jiangtao Feng, Zhiyong Wu, <b>Tao Yu</b>, Lingpeng Kong"
-    venue: "Preprint 2022"
-    paper_pdf: "https://arxiv.org/abs/2202.07922"
-    code: "https://github.com/jiacheng-ye/ZeroGen"
-    selected: y
-
+      authors: "Jiacheng Ye*, Jiahui Gao*, Qintong Li, Hang Xu, Jiangtao Feng, Zhiyong Wu, <b>Tao Yu</b>, Lingpeng Kong"
+      venue: "<b>EMNLP 2022</b>. Long Paper"
+      paper_pdf: "https://arxiv.org/abs/2202.07922"
+      code: "https://github.com/jiacheng-ye/ZeroGen"
+      selected: y
+      
+  - title: "ProGen: Progressive Zero-shot Dataset Generation via In-context Feedback"
+      authors: "Jiacheng Ye, Jiahui Gao, Zhiyong Wu, Jiangtao Feng, <b>Tao Yu</b>, and Lingpeng Kong"
+      venue: "<b>Findings of EMNLP 2022</b>. Long Paper"
+      paper_pdf: ""
+      code: ""
+      selected: y
+      
+  - title: "Augmenting Multi-Turn Text-to-SQL Datasets with Self-Play"
+      authors: "Qi Liu, Zihuiwen Ye, <b>Tao Yu</b>, Phil Blunsom, Linfeng Song"
+      venue: "<b>Findings of EMNLP 2022</b>. Long Paper"
+      paper_pdf: ""
+      code: ""
+      selected: y
+  
+  - title: "NL2INTERFACE: Interactive Visualization Interface Generation from Natural Language Queries"
+      authors: "Yiru Chen, Ryan Li, Austin Mac, Tianbao Xie, <b>Tao Yu</b>, Eugene Wu"
+      venue: "IEEE Visualization Conference NLVIZ Workshop, 2022"
+      paper_pdf: "https://arxiv.org/abs/2209.08834"
+      selected: y
+      
   - title: "DYLE: Dynamic Latent Extraction for Abstractive Long-Input Summarization"
     authors: "Ziming Mao*, Chen Henry Wu*, Ansong Ni, Yusen Zhang, Rui Zhang, <b>Tao Yu</b>, Budhaditya Deb, Chenguang Zhu, Ahmed H Awadallah, Dragomir Radev"
     venue: "<b>ACL 2022</b>. Long Paper"
