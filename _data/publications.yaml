@@ -32,45 +32,45 @@ papers:
     selected: y
     
   - title: "ZeroGen: Efficient Zero-shot Learning via Dataset Generation"
-      authors: "Jiacheng Ye*, Jiahui Gao*, Qintong Li, Hang Xu, Jiangtao Feng, Zhiyong Wu, <b>Tao Yu</b>, Lingpeng Kong"
-      venue: "<b>EMNLP 2022</b>. Long Paper"
-      paper_pdf: "https://arxiv.org/abs/2202.07922"
-      code: "https://github.com/jiacheng-ye/ZeroGen"
-      selected: y
+    authors: "Jiacheng Ye*, Jiahui Gao*, Qintong Li, Hang Xu, Jiangtao Feng, Zhiyong Wu, <b>Tao Yu</b>, Lingpeng Kong"
+    venue: "<b>EMNLP 2022</b>. Long Paper"
+    paper_pdf: "https://arxiv.org/abs/2202.07922"
+    code: "https://github.com/jiacheng-ye/ZeroGen"
+    selected: y
       
   - title: "ProGen: Progressive Zero-shot Dataset Generation via In-context Feedback"
-      authors: "Jiacheng Ye, Jiahui Gao, Zhiyong Wu, Jiangtao Feng, <b>Tao Yu</b>, and Lingpeng Kong"
-      venue: "<b>Findings of EMNLP 2022</b>. Long Paper"
-      paper_pdf: ""
-      code: ""
-      selected: y
+    authors: "Jiacheng Ye, Jiahui Gao, Zhiyong Wu, Jiangtao Feng, <b>Tao Yu</b>, and Lingpeng Kong"
+    venue: "<b>Findings of EMNLP 2022</b>. Long Paper"
+    paper_pdf: ""
+    code: ""
+    selected: y
       
   - title: "Augmenting Multi-Turn Text-to-SQL Datasets with Self-Play"
-      authors: "Qi Liu, Zihuiwen Ye, <b>Tao Yu</b>, Phil Blunsom, Linfeng Song"
-      venue: "<b>Findings of EMNLP 2022</b>. Long Paper"
-      paper_pdf: ""
-      code: ""
-      selected: y
+    authors: "Qi Liu, Zihuiwen Ye, <b>Tao Yu</b>, Phil Blunsom, Linfeng Song"
+    venue: "<b>Findings of EMNLP 2022</b>. Long Paper"
+    paper_pdf: ""
+    code: ""
+    selected: y
   
   - title: "NL2INTERFACE: Interactive Visualization Interface Generation from Natural Language Queries"
-      authors: "Yiru Chen, Ryan Li, Austin Mac, Tianbao Xie, <b>Tao Yu</b>, Eugene Wu"
-      venue: "IEEE Visualization Conference NLVIZ Workshop, 2022"
-      paper_pdf: "https://arxiv.org/abs/2209.08834"
-      selected: y
+    authors: "Yiru Chen, Ryan Li, Austin Mac, Tianbao Xie, <b>Tao Yu</b>, Eugene Wu"
+    venue: "IEEE Visualization Conference NLVIZ Workshop, 2022"
+    paper_pdf: "https://arxiv.org/abs/2209.08834"
+    selected: y
       
   - title: "Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models"
-      authors: "with the BIG-bench team (442 authors)"
-      venue: "Preprint, 2022"
-      paper_pdf: "https://arxiv.org/abs/2206.04615"
-      code: "https://github.com/google/BIG-bench"
-      selected: y
-      
+    authors: "with the BIG-bench team (442 authors)"
+    venue: "Preprint, 2022"
+    paper_pdf: "https://arxiv.org/abs/2206.04615"
+    code: "https://github.com/google/BIG-bench"
+    selected: y
+
   - title: "FOLIO: Natural Language Reasoning with First-Order Logic"
-      authors: "with Simeng Han, Rui Zhang, Alexander R Fabbri, Xi Victoria Lin, Caiming Xiong, Dragomir Radev and many authors"
-      venue: "Preprint, 2022"
-      paper_pdf: "https://arxiv.org/abs/2209.00840"
-      code: "https://github.com/Yale-LILY/FOLIO"
-      selected: y
+    authors: "with Simeng Han, Rui Zhang, Alexander R Fabbri, Xi Victoria Lin, Caiming Xiong, Dragomir Radev and many authors"
+    venue: "Preprint, 2022"
+    paper_pdf: "https://arxiv.org/abs/2209.00840"
+    code: "https://github.com/Yale-LILY/FOLIO"
+    selected: y
       
   - title: "DYLE: Dynamic Latent Extraction for Abstractive Long-Input Summarization"
     authors: "Ziming Mao*, Chen Henry Wu*, Ansong Ni, Yusen Zhang, Rui Zhang, <b>Tao Yu</b>, Budhaditya Deb, Chenguang Zhu, Ahmed H Awadallah, Dragomir Radev"
