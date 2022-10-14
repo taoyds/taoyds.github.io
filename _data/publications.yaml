@@ -4,8 +4,8 @@ papers:
     authors: "Zhoujun Cheng*, Tianbao Xie*, Peng Shi, Chengzu Li, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A Smith, <b>Tao Yu</b>"
     venue: "Preprint, 2022"
     paper_pdf: "https://arxiv.org/abs/2210.02875"
-    code: "https://github.com/HKUNLP/Binder"
-    poster: "https://huggingface.co/spaces/hkunlp/Binder"
+    code: "https://lm-code-binder.github.io/"
+    poster: "https://lm-code-binder.github.io/"
     selected: y
   
   - title: "Selective Annotation Makes Language Models Better Few-Shot Learners"
