@@ -1,6 +1,6 @@
 
 service:
-    - name: "<br/> SUKI: Structured and Unstructured Knowledge Integration Workshop@NAACL 2022 <br/> IntEx-SemPar: Interactive and Executable Semantic Parsing Workshop@EMNLP 2020"
+    - name: "<br/> ACL 2023 <br/> SUKI: Structured and Unstructured Knowledge Integration Workshop@NAACL 2022 <br/> IntEx-SemPar: Interactive and Executable Semantic Parsing Workshop@EMNLP 2020"
       title: "Organizing Committee"
       category: "current"
       url: https://suki-workshop.github.io/
