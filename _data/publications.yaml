@@ -28,7 +28,7 @@ papers:
     authors: "Yushi Hu, Chia-Hsuan Lee, Tianbao Xie, <b>Tao Yu</b>, Noah A. Smith, Mari Ostendorf"
     venue: "<b>Findings of EMNLP 2022</b>. Long Paper"
     paper_pdf: "https://arxiv.org/abs/2203.08568"
-    code: "https://https//github.com/Yushi-Hu/IC-DST"
+    code: "https://github.com/Yushi-Hu/IC-DST"
     selected: y
     
   - title: "ZeroGen: Efficient Zero-shot Learning via Dataset Generation"
