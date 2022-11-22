@@ -1,5 +1,13 @@
 papers:
 
+  - title: "DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation"
+    authors: "Yuhang Lai*, Chengxi Li*, Yiming Wang*, Tianyi Zhang*, Ruiqi Zhong*, Luke Zettlemoyer, Scott Wen-tau Yih, Daniel Fried, Sida Wang, <b>Tao Yu</b>"
+    venue: "Preprint, 2022"
+    paper_pdf: "https://arxiv.org/abs/2211.11501"
+    code: "https://github.com/HKUNLP/DS-1000"
+    poster: "https://ds1000-code-gen.github.io/"
+    selected: y
+    
   - title: "Binding Language Models in Symbolic Languages"
     authors: "Zhoujun Cheng*, Tianbao Xie*, Peng Shi, Chengzu Li, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A Smith, <b>Tao Yu</b>"
     venue: "Preprint, 2022"
@@ -41,85 +49,85 @@ papers:
   - title: "ProGen: Progressive Zero-shot Dataset Generation via In-context Feedback"
     authors: "Jiacheng Ye, Jiahui Gao, Zhiyong Wu, Jiangtao Feng, <b>Tao Yu</b>, and Lingpeng Kong"
     venue: "<b>Findings of EMNLP 2022</b>. Long Paper"
-    paper_pdf: ""
-    code: ""
-    selected: y
+    paper_pdf: "https://arxiv.org/abs/2210.12329"
+    code: "https://github.com/HKUNLP/ProGen"
+    selected: n
       
   - title: "Augmenting Multi-Turn Text-to-SQL Datasets with Self-Play"
     authors: "Qi Liu, Zihuiwen Ye, <b>Tao Yu</b>, Phil Blunsom, Linfeng Song"
     venue: "<b>Findings of EMNLP 2022</b>. Long Paper"
-    paper_pdf: ""
-    code: ""
-    selected: y
+    paper_pdf: "https://arxiv.org/abs/2210.12096"
+    code: "https://github.com/leuchine/self_play_picard"
+    selected: n
   
   - title: "NL2INTERFACE: Interactive Visualization Interface Generation from Natural Language Queries"
     authors: "Yiru Chen, Ryan Li, Austin Mac, Tianbao Xie, <b>Tao Yu</b>, Eugene Wu"
     venue: "IEEE Visualization Conference NLVIZ Workshop, 2022"
     paper_pdf: "https://arxiv.org/abs/2209.08834"
-    selected: y
+    selected: n
       
   - title: "Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models"
     authors: "with the BIG-bench team (442 authors)"
     venue: "Preprint, 2022"
     paper_pdf: "https://arxiv.org/abs/2206.04615"
     code: "https://github.com/google/BIG-bench"
-    selected: y
+    selected: n
 
   - title: "FOLIO: Natural Language Reasoning with First-Order Logic"
     authors: "with Simeng Han, Rui Zhang, Alexander R Fabbri, Xi Victoria Lin, Caiming Xiong, Dragomir Radev and many authors"
     venue: "Preprint, 2022"
     paper_pdf: "https://arxiv.org/abs/2209.00840"
     code: "https://github.com/Yale-LILY/FOLIO"
-    selected: y
+    selected: n
       
   - title: "DYLE: Dynamic Latent Extraction for Abstractive Long-Input Summarization"
     authors: "Ziming Mao*, Chen Henry Wu*, Ansong Ni, Yusen Zhang, Rui Zhang, <b>Tao Yu</b>, Budhaditya Deb, Chenguang Zhu, Ahmed H Awadallah, Dragomir Radev"
     venue: "<b>ACL 2022</b>. Long Paper"
     paper_pdf: "https://arxiv.org/abs/2110.08168"
     code: "https://github.com/yale-lily/dyle"
-    selected: y
+    selected: n
 
   - title: "An Exploratory Study on Long Dialogue Summarization: What Works and What's Next"
     authors: "Yusen Zhang*, Ansong Ni*, <b>Tao Yu</b>, Rui Zhang, Chenguang Zhu, Budhaditya Deb, Asli Celikyilmaz, Ahmed Hassan Awadallah, Dragomir Radev"
     venue: "<b>Findings of EMNLP 2021</b>. Short Paper"
     paper_pdf: "https://arxiv.org/abs/2109.04609"
     code: "https://github.com/chatc/LongDialSumm"
-    selected: y
+    selected: n
 
   - title: "SummerTime: Text Summarization Toolkit for Non-experts"
     authors: "Ansong Ni, Zhangir Azerbayev, Mutethia Mutuma, Troy Feng, Yusen Zhang, <b>Tao Yu</b>, Ahmed Hassan Awadallah, Dragomir Radev"
     venue: "<b>EMNLP 2021</b>. Demo Track"
     paper_pdf: "https://arxiv.org/abs/2108.12738"
     code: "https://github.com/Yale-LILY/SummerTime"
-    selected: y
+    selected: n
   
   - title: "Testing Cross-Database Semantic Parsers Using Canonical Utterances"
     authors: "Heather Lent, Semih Yavuz, <b>Tao Yu</b>, Tong Niu, Yingbo Zhou, Dragomir Radev, Xi Victoria Lin"
     venue: "EMNLP 2021 Workshop: Evaluation & Comparison of NLP Systems. <b>Best Paper Award</b>"
     paper_pdf: "https://aclanthology.org/2021.eval4nlp-1.8.pdf"
     code: "https://github.com/hclent/BehaviorCheckingSemPar"
-    selected: y
+    selected: n
     
   - title: "Logic-Consistency Text Generation from Semantic Parses"
     authors: "Chang Shu, Yusen Zhang, Xiangyu Dong, Peng Shi, <b>Tao Yu</b>, Rui Zhang"
     venue: "<b>Findings of ACL 2021</b>. Long Paper"
     paper_pdf: "https://arxiv.org/abs/2108.00577"
     code: "https://github.com/Ciaranshu/relogic"
-    selected: y
+    selected: n
 
   - title: "QMSum: A New Benchmark for Query-based Multi-domain Meeting Summarization"
     authors: "Ming Zhong*, Da Yin*, <b>Tao Yu</b>, Ahmad Zaidi, Mutethia Mutuma, Rahul Jha, Ahmed Hassan Awadallah, Asli Celikyilmaz, Yang Liu, Xipeng Qiu and Dragomir Radev"
     venue: "<b>NAACL 2021</b>. Long Paper"
     paper_pdf: "https://arxiv.org/abs/2104.05938"
     code: "https://github.com/Yale-LILY/QMSum"
-    selected: y
+    selected: n
 
   - title: "DART: Open-Domain Structured Data Record to Text Generation"
     authors: "with Linyong Nan, Dragomir Radev, Rui Zhang, Neha Verma, Xi Victoria Lin, Caiming Xiong, Richard Socher and many authors."
     venue: "<b>NAACL 2021</b>. Long Paper"
     paper_pdf: "https://arxiv.org/abs/2007.02871"
     data: "https://github.com/Yale-LILY/dart"
-    selected: y
+    selected: n
 
   - title: "SCoRe: Pre-Training for Context Representation in Conversational Semantic Parsing"
     authors: "<b>Tao Yu</b>, Rui Zhang, Alex Polozov, Christopher Meek, Ahmed Hassan Awadallah"
@@ -147,21 +155,21 @@ papers:
     venue: "<b>EMNLP 2020</b> Workshop on Interactive and Executable Semantic Parsing. Short Paper"
     paper_pdf: "https://arxiv.org/abs/2010.12634"
     data: "https://github.com/chatc/TriageSQL"
-    selected: y
+    selected: n
 
   - title: "<i>CoSQL</i>: A Conversational Text-to-SQL Challenge Towards Cross-Domain Natural Language Interfaces to Databases"
     authors: "<b>Tao Yu</b>, Rui Zhang He Yang Er, Suyi Li, Eric Xue, Bo Pang, Xi Victoria Lin, Yi Chern Tan, Tianze Shi, Zihan Li, Youxuan Jiang, Michihiro Yasunaga, Sungrok Shim, Tao Chen, Alexander Fabbri, Zifan Li, Luyao Chen, Yuwen Zhang, Shreya Dixit, Vincent Zhang, Caiming Xiong, Richard Socher, Walter Lasecki, Dragomir Radev"
     venue: "<b>EMNLP 2019</b>. Long Paper"
     paper_pdf: "https://arxiv.org/abs/1909.05378"
     data: "https://yale-lily.github.io/cosql"
-    selected: y
+    selected: n
 
   - title: "Editing-Based SQL Query Generation for Cross-Domain Context-Dependent Questions"
     authors: "Rui Zhang, <b>Tao Yu</b>, He Yang Er, Sungrok Shim, Eric Xue, Xi Victoria Lin, Tianze Shi, Caiming Xiong, Richard Socher, Dragomir Radev"
     venue: "<b>EMNLP 2019</b>. Long Paper"
     paper_pdf: "https://arxiv.org/abs/1909.00786"
     code: "https://github.com/ryanzhumich/editsql"
-    selected: y
+    selected: n
 
   - title: "<i>SParC</i>: Cross-Domain Semantic Parsing in Context"
     authors: "<b>Tao Yu</b>, Rui Zhang, Michihiro Yasunaga, Yi Chern Tan, Xi Victoria Lin, Suyi Li, Heyang Er, Irene Li, Bo Pang, Tao Chen, Emily Ji, Shreya Dixit, David Proctor, Sungrok Shim, Jonathan Kraft, Vincent Zhang, Caiming Xiong, Richard Socher and Dragomir Radev"
@@ -177,7 +185,7 @@ papers:
     paper_pdf: "https://www.sciencedirect.com/science/article/pii/S0169204618305863"
     code: "https://github.com/taoyds/nbsvm_pos"
     data: "http://www.cs.columbia.edu/~kathy/Data/TwitterParks/"
-    selected: y
+    selected: n
 
   - title: "<i>Spider</i>: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task"
     authors: "<b>Tao Yu</b>, Rui Zhang, Kai Yang, Michihiro Yasunaga, Dongxu Wang, Zifan Li, James Ma, Irene Li, Qingning Yao, Shanelle Roman, Zilin Zhang and Dragomir Radev"
@@ -193,25 +201,25 @@ papers:
     venue: "<b>EMNLP 2018</b>. Long Paper"
     paper_pdf: "https://arxiv.org/abs/1810.05237"
     code: "https://github.com/taoyds/syntaxSQL"
-    selected: y
+    selected: n
 
   - title: "<i>TypeSQL</i>: Knowledge-based Type-Aware Neural Text-to-SQL Generation"
     authors: "<b>Tao Yu</b>, Zifan Li, Zilin Zhang, Rui Zhang, Dragomir Radev"
     venue: "<b>NAACL 2018</b>. Short Paper"
     paper_pdf: "https://arxiv.org/abs/1804.09769"
     code: "https://github.com/taoyds/typesql"
-    selected: y
+    selected: n
 
   - title: "Cross-lingual Sentiment Transfer with Limited Resources"
     authors: "Mohammad Sadegh Rasooli, Noura Farra, Axinia Radeva, <b>Tao Yu</b>, and Kathleen McKeown"
     venue: "<b>Machine Translation 2017</b>. Long Paper"
     paper_pdf: "https://link.springer.com/article/10.1007/s10590-017-9202-6"
     code: "https://github.com/rasoolims/senti-lstm"
-    selected: y
+    selected: n
 
   - title: "The Columbia-GWU System at the 2016 TAC KBP BeSt Evaluation"
     authors: "Owen Rambow, <b>Tao Yu</b>, Axinia Radeva, Sardar Hamidian, Alexander R. Fabbri, Debanjan Ghosh, Christopher Hidey, Tianrui Peng, Mona Diab, Kathleen McKeown, Smaranda Muresan"
     venue: "<b>NIST TAC</b> KBP Workshop, 2016. Long Paper"
     paper_pdf: "https://tac.nist.gov/publications/2016/participant.papers/TAC2016.Columbia_GWU.proceedings.pdf"
     slides: "https://tac.nist.gov/publications/2016/presentations/TAC2016.KBP.BEST.Columbia_GWU.presentation.pdf"
-    selected: y
+    selected: n
