@@ -6,6 +6,7 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2211.11501"
     code: "https://github.com/HKUNLP/DS-1000"
     poster: "https://ds1000-code-gen.github.io/"
+    data: "https://github.com/HKUNLP/DS-1000/tree/main/ds1000_example"
     selected: y
     
   - title: "Binding Language Models in Symbolic Languages"
