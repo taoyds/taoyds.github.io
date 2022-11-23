@@ -1,8 +1,13 @@
 
 talks:
-    - name: "<br/> AllState Tech Talk"
+    - name: "<br/> Amazon NLP Talks"
+      time: "Nov. 2022"
+      title: "Building Natural Language Interfaces with Large Language Models"
+      category: "current"
+      link: "https://docs.google.com/presentation/d/1jsfb6foc3XCcfO9mVC4IkCoG9mQ0N3adlISj86Mauig/edit?usp=sharing&resourcekey=0-9oawun4RgUnSh_UWJ64U9g"
+    - name: "<br/> AllState Tech Talks"
       time: "Jun. 2022"
-      title: "Few-shot In-context Learning with Huge Language Models"
+      title: "Few-shot In-context Learning with Large Language Models"
       category: "current"
     - name: "<br/> ServiceNow Research (Prev. ElementAI)"
       time: "Feb. 2022"
