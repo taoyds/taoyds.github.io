@@ -135,7 +135,7 @@ papers:
     venue: "<b>ICLR 2021</b>. Long Paper"
     paper_pdf: "https://openreview.net/forum?id=oyZxhRI2RiE"
     code: "https://github.com/microsoft/SCoRE"
-    selected: y
+    selected: n
 
   - title: "GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing"
     authors: "<b>Tao Yu</b>, Chien-Sheng Wu, Xi Victoria Lin, Bailin Wang, Yi Chern Tan, Xinyi Yang, Dragomir Radev, Richard Socher, Caiming Xiong"
@@ -178,7 +178,7 @@ papers:
     paper_pdf: "https://arxiv.org/abs/1906.02285"
     code: "https://github.com/taoyds/sparc"
     data: "https://yale-lily.github.io/sparc"
-    selected: y
+    selected: n
 
   - title: "Twitter Sentiment in New York City Parks as Measure of Well-being"
     authors: "Richard A Plunz, Yijia Zhou, Maria Isabel Carrasco Vintimilla, Kathleen Mckeown, <b>Tao Yu</b>, Laura Uguccioni, Maria Paola Sutto"
