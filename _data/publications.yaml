@@ -27,7 +27,7 @@ papers:
     
   - title: "Binding Language Models in Symbolic Languages"
     authors: "Zhoujun Cheng*, Tianbao Xie*, Peng Shi, Chengzu Li, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A Smith, <b>Tao Yu</b>"
-    venue: "ICLR, 2023"
+    venue: "<b>ICLR, 2023</b>"
     paper_pdf: "https://arxiv.org/abs/2210.02875"
     code: "https://lm-code-binder.github.io/"
     poster: "https://lm-code-binder.github.io/"
@@ -35,7 +35,7 @@ papers:
   
   - title: "Selective Annotation Makes Language Models Better Few-Shot Learners"
     authors: "Hongjin Su, Jungo Kasai, Chen Henry Wu, Weijia Shi, Tianlu Wang, Jiayi Xin, Rui Zhang, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, <b>Tao Yu</b>"
-    venue: "ICLR, 2023"
+    venue: "<b>ICLR, 2023</b>"
     paper_pdf: "https://arxiv.org/abs/2209.01975"
     code: "https://github.com/HKUNLP/icl-selective-annotation"
     poster: "https://twitter.com/wittgen_ball/status/1568302230490730497"
