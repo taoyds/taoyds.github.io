@@ -188,6 +188,16 @@ title: Home
 </div>
 -->
 
+<!-- ========== STUDENTS ========== -->
+<div class="docs-section" id="students">
+  <h4>Students</h4>
+  {% assign current_students = site.data.students.students | where: "category", "current" %}
+  {% for student in current_students %}
+  <div class="student">
+    <p class="title"> <a href={{student.link}} target="_blank">{{ student.name }}</a>, {{ student.title }}, {{ student.time }} </p>
+  </div>
+  {% endfor %}
+</div>
 
 <!-- ========== TALKS ========== -->
 <div class="docs-section" id="talks">
