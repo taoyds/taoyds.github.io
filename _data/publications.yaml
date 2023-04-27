@@ -24,6 +24,13 @@ papers:
     poster: "https://ds1000-code-gen.github.io/"
     data: "https://github.com/HKUNLP/DS-1000/tree/main/ds1000_example"
     selected: y
+
+  - title: "Compositional Exemplars for In-context Learning"
+    authors: "Jiacheng Ye, Zhiyong Wu, Jiangtao Feng, <b>Tao Yu</b>, and Lingpeng Kong"
+    venue: "ICML, 2023"
+    paper_pdf: "https://arxiv.org/abs/2302.05698"
+    code: "https://github.com/HKUNLP/icl-ceil"
+    selected: n
     
   - title: "Binding Language Models in Symbolic Languages"
     authors: "Zhoujun Cheng*, Tianbao Xie*, Peng Shi, Chengzu Li, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A Smith, <b>Tao Yu</b>"
