@@ -11,14 +11,14 @@ papers:
     
   - title: "Coder Reviewer Reranking for Code Generation"
     authors: "Tianyi Zhang, <b>Tao Yu</b>, Tatsunori B Hashimoto, Mike Lewis, Wen-tau Yih, Daniel Fried, Sida I Wang"
-    venue: "Preprint, 2022"
+    venue: "ICML, 2023"
     paper_pdf: "https://arxiv.org/abs/2211.16490"
     code: "https://github.com/facebookresearch/coder_reviewer_reranking"
     selected: n
     
   - title: "DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation"
     authors: "Yuhang Lai*, Chengxi Li*, Yiming Wang*, Tianyi Zhang*, Ruiqi Zhong*, Luke Zettlemoyer, Scott Wen-tau Yih, Daniel Fried, Sida Wang, <b>Tao Yu</b>"
-    venue: "Preprint, 2022"
+    venue: "ICML, 2023"
     paper_pdf: "https://arxiv.org/abs/2211.11501"
     code: "https://github.com/HKUNLP/DS-1000"
     poster: "https://ds1000-code-gen.github.io/"
