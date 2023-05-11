@@ -1,5 +1,10 @@
 
 talks:
+    - name: "<br/> Columbia NLP seminar <br/> Cornell DB seminar"
+      time: "Apr.- May 2023"
+      title: "Building Natural Language Interfaces through Grounding Language Models into Executable Actions"
+      category: "current"
+      link: ""
     - name: "<br/> Amazon NLP Talks"
       time: "Nov. 2022"
       title: "Building Natural Language Interfaces with Large Language Models"
