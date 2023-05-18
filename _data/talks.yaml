@@ -1,11 +1,11 @@
 
 talks:
-    - name: "<br/> Columbia NLP seminar <br/> Cornell DB seminar"
+    - name: "<br/> Columbia NLP seminar <br/> Cornell DB seminar <br/> Microsoft Research Asia"
       time: "Apr.- May 2023"
       title: "Building Natural Language Interfaces through Grounding Language Models into Executable Actions"
       category: "current"
       link: ""
-    - name: "<br/> Amazon NLP Talks"
+    - name: "<br/> Amazon AWS"
       time: "Nov. 2022"
       title: "Building Natural Language Interfaces with Large Language Models"
       category: "current"
