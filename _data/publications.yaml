@@ -14,7 +14,7 @@ papers:
     venue: "<b>ICML 2023</b>"
     paper_pdf: "https://arxiv.org/abs/2211.16490"
     code: "https://github.com/facebookresearch/coder_reviewer_reranking"
-    selected: n
+    selected: y
     
   - title: "DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation"
     authors: "Yuhang Lai*, Chengxi Li*, Yiming Wang*, Tianyi Zhang*, Ruiqi Zhong*, Luke Zettlemoyer, Scott Wen-tau Yih, Daniel Fried, Sida Wang, <b>Tao Yu</b>"
