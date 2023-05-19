@@ -2,7 +2,7 @@ papers:
 
   - title: "One Embedder, Any Task: Instruction-Finetuned Text Embeddings"
     authors: "Hongjin Su*, Weijia Shi*, Jungo Kasai, Yizhong Wang, Yushi Hu, Mari Ostendorf, Wen-tau Yih, Noah A Smith, Luke Zettlemoyer, <b>Tao Yu</b>"
-    venue: "<b>ACL Findings 2022</b>"
+    venue: "<b>ACL Findings 2023</b>"
     paper_pdf: "https://arxiv.org/abs/2212.09741"
     code: "https://github.com/HKUNLP/instructor-embedding"
     poster: "https://instructor-embedding.github.io"
