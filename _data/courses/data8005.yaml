@@ -1,0 +1,20 @@
+schedule:
+  - heading: Part 1 Advanced NLP
+  - date: Monday Jan 9
+    week: Week 1
+    topic: Introduction
+    slides: https://taoyds.github.io/
+    material:
+    event: Assignment 1 Out
+    due:
+  - date: Wednesday Jan 11
+    week:
+    topic: Text Classification and Language Modeling
+    slides: https://taoyds.github.io/
+    material:
+      description: Paper Presentation
+      list:
+        - Paper 1
+        - Paper 2
+    event:
+    due: Assignment 1 <font color="red"><b>Due</b></font>
