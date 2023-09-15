@@ -1,20 +1,43 @@
 schedule:
-  - heading: Part 1 Advanced NLP
-  - date: Monday Jan 9
+  # - heading: Part 1 Advanced NLP
+  - date: Sep 1
     week: Week 1
-    topic: Introduction
-    slides: https://taoyds.github.io/
+    topic: Canceled due to bad weather
     material:
-    event: Assignment 1 Out
+    event: 
     due:
-  - date: Wednesday Jan 11
-    week:
-    topic: Text Classification and Language Modeling
-    slides: https://taoyds.github.io/
+  - date: Sep 8
+    week: Week 2
+    topic: Canceled due to bad weather
+    material:
+    event: 
+    due:
+  - date: Sep 15
+    week: Week 3
+    topic: Introduction
+    slides: 
+    material:
+    event: Project registration Out
+    due:
+  - date: Sep 22
+    week: Week 4
+    topic: Pretraining
+    slides: 
     material:
       description: Paper Presentation
       list:
         - Paper 1
         - Paper 2
     event:
-    due: Assignment 1 <font color="red"><b>Due</b></font>
+    due: 
+  - date: Sep 29
+    week: Week 5
+    topic: Prompting, in-context learning
+    slides: 
+    material:
+      description: Paper Presentation
+      list:
+        - Paper 1
+        - Paper 2
+    event:
+    due: Project registration <font color="red"><b>Due</b></font>
