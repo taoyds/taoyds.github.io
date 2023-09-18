@@ -15,7 +15,7 @@ schedule:
   - date: Sep 15
     week: Week 3
     topic: Introduction
-    slides: 
+    slides: ../../assets/courses/DATA8005-Fall-2023-ANLP-L1.pdf
     material:
     event: Project registration Out
     due:
