@@ -15,7 +15,7 @@ schedule:
   - date: Sep 15
     week: Week 3
     topic: Introduction
-    slides: ../../assets/courses/DATA8005-Fall-2023-ANLP-L1.pdf
+    slides: /assets/courses/DATA8005-Fall-2023-ANLP-L1.pdf
     material:
     event: Project registration Out
     due:
@@ -26,8 +26,16 @@ schedule:
     material:
       description: Paper Presentation
       list:
-        - Paper 1
-        - Paper 2
+        - <a href="https://arxiv.org/abs/2005.14165">Language Models are Few-Shot Learners</a>
+        - <a href="https://arxiv.org/abs/2307.09288">Llama 2: Open Foundation and Fine-Tuned Chat Models</a>
+      description: Additional Readings
+      list:
+        - <a href="https://arxiv.org/abs/1706.03762">Attention Is All You Need</a>
+        - <a href="https://jalammar.github.io/illustrated-transformer/">The Illustrated Transformer</a>
+        - <a href="http://nlp.seas.harvard.edu/annotated-transformer/">The Annotated Transformer</a>
+        - <a href="https://huggingface.co/learn/nlp-course/chapter1/1">HuggingFace's course on Transformers</a>
+        - <a href="https://arxiv.org/abs/2204.02311">PaLM: Scaling Language Modeling with Pathways</a>
+        - <a href="https://arxiv.org/abs/1810.04805">BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</a>
     event:
     due: 
   - date: Sep 29
@@ -41,3 +49,103 @@ schedule:
         - Paper 2
     event:
     due: Project registration <font color="red"><b>Due</b></font>
+  - date: Oct 6 
+    week: Week 6
+    topic: 
+    slides: 
+    material:
+      description: Paper Presentation
+      list:
+        - Paper 1
+        - Paper 2
+    event:
+    due:
+  - date: Oct 13
+    week: Week 7
+    topic: 
+    slides: 
+    material:
+      description: Paper Presentation
+      list:
+        - Paper 1
+        - Paper 2
+    event:
+    due: 
+  - date: Oct 20
+    week: Week 8
+    topic: No class
+    slides: 
+    material:
+      description: Paper Presentation
+      list:
+        - Paper 1
+        - Paper 2
+    event:
+    due: 
+  - date: Oct 27
+    week: Week 9
+    topic: 
+    slides: 
+    material:
+      description: Paper Presentation
+      list:
+        - Paper 1
+        - Paper 2
+    event:
+    due: 
+  - date: Nov 3
+    week: Week 10
+    topic: 
+    slides: 
+    material:
+      description: Paper Presentation
+      list:
+        - Paper 1
+        - Paper 2
+    event:
+    due: 
+  - date: Nov 10
+    week: Week 11
+    topic: 
+    slides: 
+    material:
+      description: Paper Presentation
+      list:
+        - Paper 1
+        - Paper 2
+    event:
+    due: 
+  - date: Nov 17
+    week: Week 12
+    topic: 
+    slides: 
+    material:
+      description: Paper Presentation
+      list:
+        - Paper 1
+        - Paper 2
+    event:
+    due: 
+  - date: Nov 24
+    week: Week 13
+    topic: 
+    slides: 
+    material:
+      description: Paper Presentation
+      list:
+        - Paper 1
+        - Paper 2
+    event:
+    due: 
+  - date: Dec 1
+    week: Week 14
+    topic: No class
+    slides: 
+    material:
+      description: Paper Presentation
+      list:
+        - Paper 1
+        - Paper 2
+    event:
+    due: 
+  
