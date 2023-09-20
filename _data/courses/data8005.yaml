@@ -21,32 +21,39 @@ schedule:
     due:
   - date: Sep 22
     week: Week 4
-    topic: Pretraining (Shansan Gong)
+    topic: Pretraining (Shansan Gong) <br/> Prompting, in-context learning (Lei Li)
     slides:
     material:
       - description: Paper Presentation
         list:
+          - <a href="https://arxiv.org/abs/1910.10683">Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer</a>
           - <a href="https://arxiv.org/abs/2005.14165">Language Models are Few-Shot Learners</a>
-          - <a href="https://arxiv.org/abs/2307.09288">Llama 2&#58; Open Foundation and Fine-Tuned Chat Models</a>
-      - description: Additional Readings
+          - <a href="https://arxiv.org/abs/2201.11903">Chain-of-Thought Prompting Elicits Reasoning in Large Language Models</a>
+          - <a href="https://arxiv.org/abs/2202.12837">Rethinking the Role of Demonstrations&#58; What Makes In-Context Learning Work?</a>
+      - description: Recommended Readings
         list:
           - <a href="https://arxiv.org/abs/1706.03762">Attention Is All You Need</a>
           - <a href="https://jalammar.github.io/illustrated-transformer/">The Illustrated Transformer</a>
           - <a href="http://nlp.seas.harvard.edu/annotated-transformer/">The Annotated Transformer</a>
           - <a href="https://huggingface.co/learn/nlp-course/chapter1/1">HuggingFace's course on Transformers</a>
-          - <a href="https://arxiv.org/abs/2204.02311">"PaLM&#58; Scaling Language Modeling with Pathways"</a>
-          - <a href="https://arxiv.org/abs/1810.04805">"BERT&#58; Pre-training of Deep Bidirectional Transformers for Language Understanding"</a>
+          - <a href="https://arxiv.org/abs/2307.09288">Llama 2&#58; Open Foundation and Fine-Tuned Chat Models</a>
+          - <a href="https://cs.brynmawr.edu/Courses/cs372/spring2012/slides/02_IntelligentAgents.pdf">Intelligent Agents Russell & Norvig Chapter 2</a>
     event:
     due:
   - date: Sep 29
     week: Week 5
-    topic: Prompting, in-context learning
+    topic: Prompting, in-context learning  <br/>Instruction tuning
     slides:
     material:
       - description: Paper Presentation
         list:
-          - Paper 1
-          - Paper 2
+          - <a href="https://arxiv.org/abs/2102.09690">Calibrate Before Use&#58; Improving Few-Shot Performance of Language Models</a>
+          - <a href="https://arxiv.org/abs/2209.01975">Selective Annotation Makes Language Models Better Few-Shot Learners</a>
+          - <a href="https://arxiv.org/abs/2110.08207">Multitask Prompted Training Enables Zero-Shot Task Generalization</a>
+          - <a href="https://arxiv.org/abs/2212.10560">Self-Instruct&#58; Aligning Language Model with Self-Generated Instructions</a>
+      - description: Recommended Readings
+        list:
+          - <a href="https://arxiv.org/abs/2306.04751">How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources</a>
     event:
     due: Project registration <font color="red"><b>Due</b></font>
   - date: Oct 6
