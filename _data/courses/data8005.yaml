@@ -37,111 +37,126 @@ schedule:
           - <a href="http://nlp.seas.harvard.edu/annotated-transformer/">The Annotated Transformer</a>
           - <a href="https://huggingface.co/learn/nlp-course/chapter1/1">HuggingFace's course on Transformers</a>
           - <a href="https://arxiv.org/abs/2307.09288">Llama 2&#58; Open Foundation and Fine-Tuned Chat Models</a>
+          - <a href="https://arxiv.org/abs/2102.09690">Calibrate Before Use&#58; Improving Few-Shot Performance of Language Models</a>
           - <a href="https://cs.brynmawr.edu/Courses/cs372/spring2012/slides/02_IntelligentAgents.pdf">Intelligent Agents Russell & Norvig Chapter 2</a>
     event:
     due:
   - date: Sep 29
     week: Week 5
-    topic: Prompting, in-context learning  <br/>Instruction tuning
+    topic: Reasoning, in-context learning <br/>Instruction tuning
     slides:
     material:
       - description: Paper Presentation
         list:
-          - <a href="https://arxiv.org/abs/2102.09690">Calibrate Before Use&#58; Improving Few-Shot Performance of Language Models</a>
-          - <a href="https://arxiv.org/abs/2209.01975">Selective Annotation Makes Language Models Better Few-Shot Learners</a>
+          - <a href="https://arxiv.org/abs/2203.11171">Self-Consistency Improves Chain of Thought Reasoning in Language Models</a>
+          - <a href="https://arxiv.org/abs/2206.07682">Emergent Abilities of Large Language Models</a>
           - <a href="https://arxiv.org/abs/2110.08207">Multitask Prompted Training Enables Zero-Shot Task Generalization</a>
           - <a href="https://arxiv.org/abs/2212.10560">Self-Instruct&#58; Aligning Language Model with Self-Generated Instructions</a>
       - description: Recommended Readings
         list:
+          - <a href="https://arxiv.org/abs/2209.01975">Selective Annotation Makes Language Models Better Few-Shot Learners</a>
+          - <a href="https://arxiv.org/abs/2211.10435">PAL&#58; Program-aided Language Models</a>
           - <a href="https://arxiv.org/abs/2306.04751">How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources</a>
+          - <a href="https://instructor-embedding.github.io/">One Embedder, Any Task&#58; Instruction-Finetuned Text Embeddings</a>
     event:
     due: <a href="https://docs.google.com/spreadsheets/d/1rZSBtxw2r01X4bWQjffx8PAWzn8UNDZX-dIoUFhBxIk/edit?usp=sharing">Project registration</a> <font color="red"><b>Due</b></font>
   - date: Oct 6
     week: Week 6
-    topic:
+    topic: LM evaluation, data, and benchmarking <br/>Alignment/RLHF
     slides:
     material:
       - description: Paper Presentation
         list:
-          - Paper 1
-          - Paper 2
+          - <a href="https://arxiv.org/abs/2206.04615">Beyond the Imitation Game&#58; Quantifying and extrapolating the capabilities of language models</a>
+          - <a href="https://arxiv.org/abs/2101.00027">The Pile&#58; An 800GB Dataset of Diverse Text for Language Modeling</a>
+          - <a href="https://arxiv.org/abs/2203.02155">Training language models to follow instructions with human feedback</a>
+          - <a href="https://arxiv.org/abs/2204.05862">Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback</a>
+      - description: Recommended Readings
+        list:
+          - <a href="https://lmsys.org/blog/2023-06-22-leaderboard/">Vicuna leaderboard</a>
+          - <a href="https://huyenchip.com/2023/05/02/rlhf.html">RLHF&#58; Reinforcement Learning from Human Feedback</a>
+          - <a href="https://mediusdownload.event.microsoft.com/video-51378/ea11c3c20e/BRK216HFS_v1.mp4?sv=2018-03-28&sr=c&sig=tlIPwp2z6q8TNAEig%2BOQGh4lL8o8hAHcdw33msvikXY%3D&se=2028-05-24T06%3A23%3A01Z&sp=r">State of GPT and RLHF LLMs - Andrej Karpathy, OpenAI</a>
     event:
     due:
   - date: Oct 13
     week: Week 7
-    topic:
+    topic: Robustness, interpretability, explainability <br/>Bias, toxicity, and privacy in LM
     slides:
     material:
       - description: Paper Presentation
         list:
-          - Paper 1
-          - Paper 2
+          - <a href="https://arxiv.org/abs/2207.05221">Language Models (Mostly) Know What They Know</a>
+          - <a href="https://arxiv.org/abs/2211.13892">Complementary Explanations for Effective In-Context Learning</a>
+          - <a href="https://arxiv.org/abs/2012.07805">Extracting Training Data from Large Language Models</a>
+          - <a href="https://arxiv.org/abs/2009.11462">RealToxicityPrompts&#58; Evaluating Neural Toxic Degeneration in Language Models</a>
     event:
     due: Project proposal <font color="red"><b>Due</b></font>
   - date: Oct 20
     week: Week 8
     topic: No class
     slides:
-    material:
-      - description: Paper Presentation
-        list:
-          - Paper 1
-          - Paper 2
     event:
     due:
   - date: Oct 27
     week: Week 9
-    topic:
+    topic: Sparse/Retrieval-based LMs <br/>Code LM
     slides:
     material:
       - description: Paper Presentation
         list:
-          - Paper 1
-          - Paper 2
+          - <a href="https://arxiv.org/abs/2208.03306">Branch-Train-Merge&#58; Embarrassingly Parallel Training of Expert Language Models</a>
+          - <a href="https://arxiv.org/abs/2112.04426">Improving language models by retrieving from trillions of tokens</a>
+          - <a href="https://arxiv.org/abs/2107.03374">Evaluating Large Language Models Trained on Code</a>
+          - <a href="https://ds1000-code-gen.github.io/">DS-1000&#58; A Natural and Reliable Benchmark for Data Science Code Generation</a>
+      - description: Recommended Readings
+        list:
+          - <a href="https://acl2023-retrieval-lm.github.io/">Tutorial&#58; Retrieval-based Language Models and Applications</a>
     event:
     due:
   - date: Nov 3
     week: Week 10
-    topic:
+    topic: Multimodal LM <br/>LM agent, language grounding
     slides:
     material:
       - description: Paper Presentation
         list:
-          - Paper 1
-          - Paper 2
+          - <a href="https://arxiv.org/abs/2204.14198">Flamingo&#58; a Visual Language Model for Few-Shot Learning</a>
+          - <a href="https://arxiv.org/abs/2103.00020">Learning Transferable Visual Models From Natural Language Supervision </a>
+          - <a href="https://arxiv.org/abs/2210.03629">ReAct&#58; Synergizing Reasoning and Acting in Language Models</a>
+      - description: Recommended Readings
+        list:
+          - <a href="https://lilianweng.github.io/posts/2023-06-23-agent/">LLM Powered Autonomous Agents</a>
     event:
     due:
   - date: Nov 10
     week: Week 11
-    topic:
+    topic: Tool use for agents <br/>Agent methods and applications
     slides:
     material:
       - description: Paper Presentation
         list:
-          - Paper 1
-          - Paper 2
+          - <a href="https://arxiv.org/abs/2302.07842">Augmented Language Models&#58; A Survey</a>
+          - <a href="https://arxiv.org/abs/2302.04761">Toolformer&#58; Language Models Can Teach Themselves to Use Tools</a>
+          - <a href="https://lm-code-binder.github.io/">Binding Language Models in Symbolic Languages</a>
+          - <a href="https://arxiv.org/abs/2307.13854">WebArena&#58; A Realistic Web Environment for Building Autonomous Agents</a>
+          - <a href="https://arxiv.org/abs/2303.11366">Reflexion&#58; Language Agents with Verbal Reinforcement Learning</a>
     event:
     due:
   - date: Nov 17
     week: Week 12
-    topic:
+    topic: Robotics and embodied interaction
     slides:
     material:
       - description: Paper Presentation
         list:
-          - Paper 1
-          - Paper 2
+          - <a href="https://arxiv.org/abs/2209.11302">ProgPrompt&#58; Generating Situated Robot Task Plans using Large Language Models</a>
+          - <a href="https://arxiv.org/abs/2305.16291">Voyager&#58; An Open-Ended Embodied Agent with Large Language Models</a>
     event:
     due:
   - date: Nov 24
     week: Week 13
-    topic:
+    topic: guest lectures
     slides:
-    material:
-      - description: Paper Presentation
-        list:
-          - Paper 1
-          - Paper 2
     event:
     due:
   - date: Dec 1
