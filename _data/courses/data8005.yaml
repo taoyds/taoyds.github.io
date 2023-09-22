@@ -17,7 +17,7 @@ schedule:
     topic: Introduction (Tao Yu)
     slides: /assets/courses/DATA8005-Fall-2023-ANLP-L1.pdf
     material:
-    event: Project registration Out
+    event: <a href="https://docs.google.com/spreadsheets/d/1rZSBtxw2r01X4bWQjffx8PAWzn8UNDZX-dIoUFhBxIk/edit?usp=sharing">Project registration</a> Out
     due:
   - date: Sep 22
     week: Week 4
@@ -55,7 +55,7 @@ schedule:
         list:
           - <a href="https://arxiv.org/abs/2306.04751">How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources</a>
     event:
-    due: Project registration <font color="red"><b>Due</b></font>
+    due: <a href="https://docs.google.com/spreadsheets/d/1rZSBtxw2r01X4bWQjffx8PAWzn8UNDZX-dIoUFhBxIk/edit?usp=sharing">Project registration</a> <font color="red"><b>Due</b></font>
   - date: Oct 6
     week: Week 6
     topic:
@@ -77,7 +77,7 @@ schedule:
           - Paper 1
           - Paper 2
     event:
-    due:
+    due: Project proposal <font color="red"><b>Due</b></font>
   - date: Oct 20
     week: Week 8
     topic: No class
@@ -154,4 +154,5 @@ schedule:
           - Paper 1
           - Paper 2
     event:
-    due:
+    due: 
+  
