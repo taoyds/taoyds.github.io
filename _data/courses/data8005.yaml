@@ -2,27 +2,35 @@ schedule:
   # - heading: Part 1 Advanced NLP
   - date: Sep 1
     week: Week 1
-    topic: Canceled due to bad weather
+    topic:
+      - title: Canceled due to bad weather
+        slides:
     material:
     event:
     due:
   - date: Sep 8
     week: Week 2
-    topic: Canceled due to bad weather
+    topic:
+      - title: Canceled due to bad weather
+        slides:
     material:
     event:
     due:
   - date: Sep 15
     week: Week 3
-    topic: Introduction (Tao Yu)
-    slides: /assets/courses/DATA8005-Fall-2023-ANLP-L1.pdf
+    topic:
+      - title: Introduction (Tao Yu)
+        slides: /assets/courses/DATA8005-Fall-2023-ANLP-L1.pdf
     material:
     event: <a href="https://docs.google.com/spreadsheets/d/1rZSBtxw2r01X4bWQjffx8PAWzn8UNDZX-dIoUFhBxIk/edit?usp=sharing">Project registration</a> Out
     due:
   - date: Sep 22
     week: Week 4
-    topic: Pretraining (Shansan Gong) <br/> Prompting, in-context learning (Lei Li)
-    slides:
+    topic:
+      - title: Pretraining (Shansan Gong)
+        slides: /assets/courses/DATA8005-lec01.pdf
+      - title: Prompting, in-context learning (Lei Li)
+        slides: /assets/courses/DATA8005-lec02.pdf
     material:
       - description: Paper Presentation
         list:
@@ -43,8 +51,11 @@ schedule:
     due:
   - date: Sep 29
     week: Week 5
-    topic: Reasoning, in-context learning <br/>Instruction tuning
-    slides:
+    topic:
+      - title: Reasoning, in-context learning
+        slides:
+      - title: Instruction tuning
+        slides:
     material:
       - description: Paper Presentation
         list:
@@ -62,8 +73,11 @@ schedule:
     due: <a href="https://docs.google.com/spreadsheets/d/1rZSBtxw2r01X4bWQjffx8PAWzn8UNDZX-dIoUFhBxIk/edit?usp=sharing">Project registration</a> <font color="red"><b>Due</b></font>
   - date: Oct 6
     week: Week 6
-    topic: LM evaluation, data, and benchmarking <br/>Alignment/RLHF
-    slides:
+    topic:
+      - title: LM evaluation, data, and benchmarkin
+        slides:
+      - title: Alignment/RLHF
+        slides:
     material:
       - description: Paper Presentation
         list:
@@ -80,8 +94,11 @@ schedule:
     due:
   - date: Oct 13
     week: Week 7
-    topic: Robustness, interpretability, explainability <br/>Bias, toxicity, and privacy in LM
-    slides:
+    topic:
+      - title: Robustness, interpretability, explainability
+        slides:
+      - title: Bias, toxicity, and privacy in LM
+        slides:
     material:
       - description: Paper Presentation
         list:
@@ -93,14 +110,18 @@ schedule:
     due: Project proposal <font color="red"><b>Due</b></font>
   - date: Oct 20
     week: Week 8
-    topic: No class
-    slides:
+    topic:
+      - title: No class
+        slides:
     event:
     due:
   - date: Oct 27
     week: Week 9
-    topic: Sparse/Retrieval-based LMs <br/>Code LM
-    slides:
+    topic:
+      - title: Sparse/Retrieval-based LMs
+        slides:
+      - title: Code LM
+        slides:
     material:
       - description: Paper Presentation
         list:
@@ -115,8 +136,11 @@ schedule:
     due:
   - date: Nov 3
     week: Week 10
-    topic: Multimodal LM <br/>LM agent, language grounding
-    slides:
+    topic:
+      - title: Multimodal LM
+        slides:
+      - title: LM agent, language grounding
+        slides:
     material:
       - description: Paper Presentation
         list:
@@ -130,8 +154,11 @@ schedule:
     due:
   - date: Nov 10
     week: Week 11
-    topic: Tool use for agents <br/>Agent methods and applications
-    slides:
+    topic:
+      - title: Tool use for agents
+        slides:
+      - title: Agent methods and applications
+        slides:
     material:
       - description: Paper Presentation
         list:
@@ -144,8 +171,9 @@ schedule:
     due:
   - date: Nov 17
     week: Week 12
-    topic: Robotics and embodied interaction
-    slides:
+    topic:
+      - title: Robotics and embodied interaction
+        slides:
     material:
       - description: Paper Presentation
         list:
@@ -155,8 +183,9 @@ schedule:
     due:
   - date: Nov 24
     week: Week 13
-    topic: guest lectures
-    slides:
+    topic:
+      - title: guest lectures
+        slides:
     event:
     due:
   - date: Dec 1
@@ -169,5 +198,4 @@ schedule:
           - Paper 1
           - Paper 2
     event:
-    due: 
-  
+    due:
