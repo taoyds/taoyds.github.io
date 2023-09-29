@@ -76,9 +76,9 @@ schedule:
   - date: Oct 6
     week: Week 6
     topic:
-      - title: LM evaluation, data, and benchmarking (A: Yuanpeng Tu, Zhuoling Li)
+      - title: 'LM evaluation, data, and benchmarking (A: Yuanpeng Tu, Zhuoling Li)'
         slides:
-      - title: Alignment/RLHF (B: Tonghuan Xiao, Yangtuan Sun, Guichao Zhu)
+      - title: 'Alignment/RLHF (B: Tonghuan Xiao, Yangtuan Sun, Guichao Zhu)'
         slides:
     material:
       - description: Paper Presentation
@@ -99,9 +99,9 @@ schedule:
   - date: Oct 13
     week: Week 7
     topic:
-      - title: Robustness, interpretability, explainability (A: Yunchao Zhang, Li Sun)
+      - title: 'Robustness, interpretability, explainability (A: Yunchao Zhang, Li Sun)'
         slides:
-      - title: Bias, toxicity, and privacy in LM (B: Mengkang Hu, Likai Peng)
+      - title: 'Bias, toxicity, and privacy in LM (B: Mengkang Hu, Likai Peng)'
         slides:
     material:
       - description: Paper Presentation
@@ -129,9 +129,9 @@ schedule:
   - date: Oct 27
     week: Week 9
     topic:
-      - title: Parameter-efficient LM tuning (A: Qihang Fang, Jiannan Wang)
+      - title: 'Parameter-efficient LM tuning (A: Qihang Fang, Jiannan Wang)'
         slides:
-      - title: Efficient LM methods and Infrastructure (B: Chenxin An, Yazheng Yang)
+      - title: 'Efficient LM methods and Infrastructure (B: Chenxin An, Yazheng Yang)'
         slides:
     material:
       - description: Paper Presentation
@@ -152,9 +152,9 @@ schedule:
   - date: Nov 3
     week: Week 10
     topic:
-      - title: Sparse/Retrieval-based LM (A: Lihe Yang, Meng Wei)
+      - title: 'Sparse/Retrieval-based LM (A: Lihe Yang, Meng Wei)'
         slides:
-      - title: Code LM (B: Ge Qu, Jinyang Li)
+      - title: 'Code LM (B: Ge Qu, Jinyang Li)'
         slides:
     material:
       - description: Paper Presentation
@@ -172,9 +172,9 @@ schedule:
   - date: Nov 10
     week: Week 11
     topic:
-      - title: Multimodal LM (A: Yuqing Wang, Jintao Lin)
+      - title: 'Multimodal LM (A: Yuqing Wang, Jintao Lin)'
         slides:
-      - title: LM agent, language grounding (B: Yao Teng, Kaiyue Sun)
+      - title: 'LM agent, language grounding (B: Yao Teng, Kaiyue Sun)'
         slides:
     material:
       - description: Paper Presentation
@@ -193,9 +193,9 @@ schedule:
   - date: Nov 17
     week: Week 12
     topic:
-      - title: Tool use for agents (A: Yuer Yang, Li Maomao)
+      - title: 'Tool use for agents (A: Yuer Yang, Li Maomao)'
         slides:
-      - title: Agent methods and applications (B: Jiabin Tang, Junchen Yan)
+      - title: 'Agent methods and applications (B: Jiabin Tang, Junchen Yan)'
         slides:
     material:
       - description: Paper Presentation
