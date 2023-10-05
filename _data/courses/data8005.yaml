@@ -93,6 +93,7 @@ schedule:
           - <a href="https://lmsys.org/blog/2023-06-22-leaderboard/">Vicuna leaderboard</a> (A)
           - <a href="https://stanford-cs324.github.io/winter2022/lectures/data/">Data for Training LLMs</a> (A)
           - <a href="https://huyenchip.com/2023/05/02/rlhf.html">RLHF&#58; Reinforcement Learning from Human Feedback</a> (B)
+          - <a href="https://web.stanford.edu/class/cs224n/slides/cs224n-2023-lecture11-prompting-rlhf.pdf">Prompting, Instruction Finetuning, and RLHF</a> (B)
           - <a href="https://mediusdownload.event.microsoft.com/video-51378/ea11c3c20e/BRK216HFS_v1.mp4?sv=2018-03-28&sr=c&sig=tlIPwp2z6q8TNAEig%2BOQGh4lL8o8hAHcdw33msvikXY%3D&se=2028-05-24T06%3A23%3A01Z&sp=r">State of GPT and RLHF LLMs - Andrej Karpathy, OpenAI</a> (B)
     event:
     due:
