@@ -55,9 +55,9 @@ schedule:
     week: Week 5
     topic:
       - title: Reasoning, prompting (Tao Yu)
-        slides:
+        slides: /assets/courses/DATA8005-Fall-2023-ANLP-L3.pdf
       - title: Instruction tuning (Xubin Ren, Yiming Zhang)
-        slides:
+        slides: /assets/courses/DATA8005-lec03.pdf
     material:
       - description: Paper Presentation
         list:
