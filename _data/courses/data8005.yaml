@@ -115,6 +115,7 @@ schedule:
           - <a href="https://arxiv.org/abs/2110.05679">Large Language Models Can Be Strong Differentially Private Learners</a> (B)
       - description: Recommended Readings
         list:
+          - <a href="https://transformer-circuits.pub/2023/monosemantic-features/index.html">Towards Monosemanticity&#58 Decomposing Language Models With Dictionary Learning</a> (A)
           - <a href="https://stanford-cs324.github.io/winter2022/lectures/harms-1/">Harms From Data (Part 1)</a> (B)
           - <a href="https://stanford-cs324.github.io/winter2022/lectures/harms-2/">Harms From Data (Part 2)</a> (B)
           - <a href="https://stanford-cs324.github.io/winter2022/assets/pdfs/Privacy%20pdf.pdf">Security and Privacy</a> (B)
