@@ -77,9 +77,9 @@ schedule:
     week: Week 6
     topic:
       - title: 'LM evaluation, data, and benchmarking (A: Yuanpeng Tu, Zhuoling Li)'
-        slides:
+        slides: /assets/courses/DATA8005-lec04.pdf
       - title: 'Alignment/RLHF (B: Tonghuan Xiao, Yangtuan Sun, Guichao Zhu)'
-        slides:
+        slides: /assets/courses/DATA8005-lec05.pdf
     material:
       - description: Paper Presentation
         list:
