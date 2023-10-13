@@ -101,9 +101,9 @@ schedule:
     week: Week 7
     topic:
       - title: 'Robustness, interpretability, explainability (A: Yunchao Zhang, Li Sun)'
-        slides:
+        slides: /assets/courses/DATA8005-lec06.pdf
       - title: 'Bias, toxicity, and privacy in LM (B: Mengkang Hu, Likai Peng)'
-        slides:
+        slides: /assets/courses/DATA8005-lec07.pdf
     material:
       - description: Paper Presentation
         list:
