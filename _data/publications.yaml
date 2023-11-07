@@ -1,5 +1,29 @@
 papers:
 
+  - title: "OpenAgents: An Open Platform for Language Agents in the Wild"
+    authors: "Tianbao Xie*, Fan Zhou*, Zhoujun Cheng*, Peng Shi*, Luoxuan Weng*, Yitao Liu*, Toh Jing Hua, Junning Zhao, Qian Liu, Che Liu, Leo Z. Liu, Yiheng Xu, Hongjin Su, Dongchan Shin, Caiming Xiong, <b>Tao Yu</b>"
+    venue: "<b>Preprint 2023</b>"
+    paper_pdf: "https://arxiv.org/abs/2310.10634"
+    code: "https://github.com/xlang-ai/OpenAgents"
+    poster: "https://www.xlang.ai/blog/xlang-intro"
+    selected: y
+
+  - title: "Lemur: Harmonizing Natural Language and Code for Language Agents"
+    authors: "Yiheng Xu*, Hongjin Su*, Chen Xing*, Boyu Mi, Qian Liu, Weijia Shi, Binyuan Hui, Fan Zhou, Yitao Liu, Tianbao Xie, Zhoujun Cheng, Siheng Zhao, Lingpeng Kong, Bailin Wang, Caiming Xiong, <b>Tao Yu</b>"
+    venue: "<b>Preprint 2023</b>"
+    paper_pdf: "https://arxiv.org/abs/2310.06830"
+    code: "https://github.com/OpenLemur/lemur"
+    poster: "https://www.xlang.ai/blog/openlemur"
+    selected: y
+
+ - title: "Text2Reward: Automated Dense Reward Function Generation for Reinforcement Learning"
+    authors: "Tianbao Xie*, Siheng Zhao*, Chen Henry Wu, Yitao Liu, Qian Luo, Victor Zhong, Yanchao Yang, <b>Tao Yu</b>"
+    venue: "<b>Preprint 2023</b>"
+    paper_pdf: "https://arxiv.org/abs/2309.11489"
+    code: "https://github.com/xlang-ai/text2reward"
+    poster: "https://text-to-reward.github.io/"
+    selected: y
+
   - title: "One Embedder, Any Task: Instruction-Finetuned Text Embeddings"
     authors: "Hongjin Su*, Weijia Shi*, Jungo Kasai, Yizhong Wang, Yushi Hu, Mari Ostendorf, Wen-tau Yih, Noah A Smith, Luke Zettlemoyer, <b>Tao Yu</b>"
     venue: "<b>ACL Findings 2023</b>"
