@@ -1,4 +1,5 @@
 papers:
+
   - title: "OpenAgents: An Open Platform for Language Agents in the Wild"
     authors: "Tianbao Xie*, Fan Zhou*, Zhoujun Cheng*, Peng Shi*, Luoxuan Weng*, Yitao Liu*, Toh Jing Hua, Junning Zhao, Qian Liu, Che Liu, Leo Z. Liu, Yiheng Xu, Hongjin Su, Dongchan Shin, Caiming Xiong, <b>Tao Yu</b>"
     venue: "<b>Preprint 2023</b>"
@@ -15,7 +16,7 @@ papers:
     poster: "https://www.xlang.ai/blog/openlemur"
     selected: y
 
- - title: "Text2Reward: Automated Dense Reward Function Generation for Reinforcement Learning"
+  - title: "Text2Reward: Automated Dense Reward Function Generation for Reinforcement Learning"
     authors: "Tianbao Xie*, Siheng Zhao*, Chen Henry Wu, Yitao Liu, Qian Luo, Victor Zhong, Yanchao Yang, <b>Tao Yu</b>"
     venue: "<b>Preprint 2023</b>"
     paper_pdf: "https://arxiv.org/abs/2309.11489"
