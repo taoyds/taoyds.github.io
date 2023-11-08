@@ -132,9 +132,9 @@ schedule:
     week: Week 9
     topic:
       - title: 'Parameter-efficient LM tuning (A: Qihang Fang, Jiannan Wang)'
-        slides:
+        slides: /assets/courses/DATA8005-lec08.pdf
       - title: 'Efficient LM methods and Infrastructure (B: Chenxin An, Yazheng Yang)'
-        slides:
+        slides: /assets/courses/DATA8005-lec09.pdf
     material:
       - description: Paper Presentation
         list:
@@ -155,9 +155,9 @@ schedule:
     week: Week 10
     topic:
       - title: 'Sparse/Retrieval-based LM (A: Lihe Yang, Meng Wei)'
-        slides:
+        slides: /assets/courses/DATA8005-lec10.pdf
       - title: 'Code LM (B: Ge Qu, Jinyang Li)'
-        slides:
+        slides: /assets/courses/DATA8005-lec11.pdf
     material:
       - description: Paper Presentation
         list:
