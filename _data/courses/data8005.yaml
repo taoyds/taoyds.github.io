@@ -175,9 +175,9 @@ schedule:
     week: Week 11
     topic:
       - title: 'Multimodal LM (A: Yuqing Wang, Jintao Lin)'
-        slides:
+        slides: /assets/courses/DATA8005-lec12.pdf
       - title: 'LM agent, language grounding (B: Yao Teng, Kaiyue Sun)'
-        slides:
+        slides: /assets/courses/DATA8005-lec13.pdf
     material:
       - description: Paper Presentation
         list:
