@@ -203,13 +203,15 @@ schedule:
       - description: Paper Presentation
         list:
           - <a href="https://arxiv.org/abs/2302.07842">Augmented Language Models&#58; A Survey</a> (A)
-          - <a href="https://lm-code-binder.github.io/">Binding Language Models in Symbolic Languages</a> (A)
-          - <a href="https://arxiv.org/abs/2307.13854">WebArena&#58; A Realistic Web Environment for Building Autonomous Agents</a> (B)
-          - <a href="https://arxiv.org/abs/2303.11366">Reflexion&#58; Language Agents with Verbal Reinforcement Learning</a> (B)
+          - <a href="https://openreview.net/forum?id=hSyW5go0v8">Self-RAG&#58; Learning to Retrieve, Generate, and Critique through Self-Reflection</a> (A)
+          - <a href="https://openreview.net/forum?id=B6pQxqUcT8">ToolChain*&#58; Efficient Action Space Navigation in Large Language Models with A* Search</a> (A)
+          - <a href="https://openreview.net/forum?id=GEcwtMk1uA">Identifying the Risks of LM Agents with an LM-Emulated Sandbox</a> (B)
+          - <a href="https://arxiv.org/abs/2311.07562">GPT-4V in Wonderland&#58; Large Multimodal Models for Zero-Shot Smartphone GUI Navigation</a> (B)
+          - <a href="https://openreview.net/forum?id=hNhwSmtXRh">Lemur&#58; Harmonizing Natural Language and Code for Language Agents</a> (B)
       - description: Recommended Readings
         list:
           - <a href="https://arxiv.org/abs/2302.04761">Toolformer&#58; Language Models Can Teach Themselves to Use Tools</a> (A)
-          - <a href="https://arxiv.org/abs/2206.08853">Android in the Wild&#58; A Large-Scale Dataset for Android Device Control </a> (B)
+          - <a href="https://openreview.net/forum?id=fibxvahvs3">GAIA&#58; a benchmark for General AI Assistants</a> (B)
     event:
     due:
   - date: Nov 24
@@ -220,9 +222,10 @@ schedule:
     material:
       - description: Paper Presentation
         list:
+          - <a href="https://openreview.net/forum?id=OI3RoHoWAN">GenSim&#58; Generating Robotic Simulation Tasks via Large Language Models</a>
+          - <a href="https://openreview.net/forum?id=9pKtcJcMP3">Video Language Planning</a>
           - <a href="https://arxiv.org/abs/2209.07753">Code as Policies&#58; Language Model Programs for Embodied Control</a>
           - <a href="https://arxiv.org/abs/2204.01691">Do As I Can, Not As I Say&#58; Grounding Language in Robotic Affordances</a>
-          - <a href="https://arxiv.org/abs/2303.03378">PaLM-E&#58; An Embodied Multimodal Language Model</a>
           - <a href="https://arxiv.org/abs/2307.15818">RT-2&#58; Vision-Language-Action Models Transfer Web Knowledge to Robotic Control</a>
           - <a href="https://arxiv.org/abs/2305.16291">Voyager&#58; An Open-Ended Embodied Agent with Large Language Models</a>
       - description: Recommended Readings
