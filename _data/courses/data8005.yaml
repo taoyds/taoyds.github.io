@@ -233,14 +233,21 @@ schedule:
           - <a href="https://www.annualreviews.org/doi/pdf/10.1146/annurev-control-101119-071628">Robots That Use Language</a>
           - <a href="https://arxiv.org/abs/2206.08853">MineDojo&#58; Building Open-Ended Embodied Agents with Internet-Scale Knowledge</a>
     event:
-  - date: Dec 1
-    week: Week 14
-    topic: No class
+  - date: Dec 4
+    week: Week 15
+    topic: Invited talk <a href="https://yrf1.github.io/">Yi Ren Fung</a>
     slides:
-    material:
-      - description: Paper Presentation
-        list:
-          - Paper 1
-          - Paper 2
+    event:
+    due:
+  - date: Dec 11
+    week: Week 16
+    topic: Invited talk <a href="https://cs.stanford.edu/~diyiy/">Diyi Yang</a>
+    slides:
+    event:
+    due:
+  - date: Jan 30
+    week: Week N/A
+    topic: Invited talk <a href="https://dennyzhou.github.io/">Denny Zhou</a>
+    slides:
     event:
     due:
