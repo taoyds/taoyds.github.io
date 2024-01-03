@@ -196,9 +196,9 @@ schedule:
     week: Week 12
     topic:
       - title: 'Tool use for agents (A: Yuer Yang, Li Maomao)'
-        slides:
+        slides: /assets/courses/DATA8005-lec14.pdf
       - title: 'Agent methods and applications (B: Jiabin Tang, Junchen Yan)'
-        slides:
+        slides: /assets/courses/DATA8005-lec15.pdf
     material:
       - description: Paper Presentation
         list:
@@ -218,7 +218,7 @@ schedule:
     week: Week 13
     topic:
       - title: Robotics and embodied interaction (Chirui Chang, Yihua Huang)
-        slides:
+        slides: /assets/courses/DATA8005-lec16.pdf
     material:
       - description: Paper Presentation
         list:
