@@ -1,0 +1,256 @@
+schedule:
+  # - heading: Part 1 Advanced NLP
+  - date: Sep 1
+    week: Week 1
+    topic:
+      - title: Canceled due to bad weather
+        slides:
+    material:
+    event:
+    due:
+  - date: Sep 8
+    week: Week 2
+    topic:
+      - title: Canceled due to bad weather
+        slides:
+    material:
+    event:
+    due:
+  - date: Sep 15
+    week: Week 3
+    topic:
+      - title: Introduction (Tao Yu)
+        slides: /assets/courses/DATA8005-Fall-2023-ANLP-L1.pdf
+    material:
+    event: <a href="https://docs.google.com/spreadsheets/d/1rZSBtxw2r01X4bWQjffx8PAWzn8UNDZX-dIoUFhBxIk/edit?usp=sharing">Project registration</a> Out
+    due:
+  - date: Sep 22
+    week: Week 4
+    topic:
+      - title: Introduction (Tao Yu)
+        slides: /assets/courses/DATA8005-Fall-2023-ANLP-L2.pdf
+      - title: Pretraining (Shansan Gong)
+        slides: /assets/courses/DATA8005-lec01.pdf
+      - title: Prompting, in-context learning (Lei Li)
+        slides: /assets/courses/DATA8005-lec02.pdf
+    material:
+      - description: Paper Presentation
+        list:
+          - <a href="https://arxiv.org/abs/1910.10683">Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer</a>
+          - <a href="https://arxiv.org/abs/2005.14165">Language Models are Few-Shot Learners</a>
+          - <a href="https://arxiv.org/abs/2201.11903">Chain-of-Thought Prompting Elicits Reasoning in Large Language Models</a>
+          - <a href="https://arxiv.org/abs/2202.12837">Rethinking the Role of Demonstrations&#58; What Makes In-Context Learning Work?</a>
+      - description: Recommended Readings
+        list:
+          - <a href="https://arxiv.org/abs/1706.03762">Attention Is All You Need</a>
+          - <a href="https://jalammar.github.io/illustrated-transformer/">The Illustrated Transformer</a>
+          - <a href="http://nlp.seas.harvard.edu/annotated-transformer/">The Annotated Transformer</a>
+          - <a href="https://huggingface.co/learn/nlp-course/chapter1/1">HuggingFace's course on Transformers</a>
+          - <a href="https://arxiv.org/abs/2307.09288">Llama 2&#58; Open Foundation and Fine-Tuned Chat Models</a>
+          - <a href="https://arxiv.org/abs/2102.09690">Calibrate Before Use&#58; Improving Few-Shot Performance of Language Models</a>
+          - <a href="https://cs.brynmawr.edu/Courses/cs372/spring2012/slides/02_IntelligentAgents.pdf">Intelligent Agents Russell & Norvig Chapter 2</a>
+    event:
+    due:
+  - date: Sep 29
+    week: Week 5
+    topic:
+      - title: Reasoning, prompting (Tao Yu)
+        slides: /assets/courses/DATA8005-Fall-2023-ANLP-L3.pdf
+      - title: Instruction tuning (Xubin Ren, Yiming Zhang)
+        slides: /assets/courses/DATA8005-lec03.pdf
+    material:
+      - description: Paper Presentation
+        list:
+          - <a href="https://arxiv.org/abs/2203.11171">Self-Consistency Improves Chain of Thought Reasoning in Language Models</a>
+          - <a href="https://arxiv.org/abs/2206.07682">Emergent Abilities of Large Language Models</a>
+          - <a href="https://arxiv.org/abs/2110.08207">Multitask Prompted Training Enables Zero-Shot Task Generalization</a>
+          - <a href="https://arxiv.org/abs/2212.10560">Self-Instruct&#58; Aligning Language Model with Self-Generated Instructions</a>
+      - description: Recommended Readings
+        list:
+          - <a href="https://arxiv.org/abs/2209.01975">Selective Annotation Makes Language Models Better Few-Shot Learners</a>
+          - <a href="https://arxiv.org/abs/2211.10435">PAL&#58; Program-aided Language Models</a>
+          - <a href="https://arxiv.org/abs/2306.04751">How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources</a>
+          - <a href="https://instructor-embedding.github.io/">One Embedder, Any Task&#58; Instruction-Finetuned Text Embeddings</a>
+    event:
+    due: <a href="https://docs.google.com/spreadsheets/d/1rZSBtxw2r01X4bWQjffx8PAWzn8UNDZX-dIoUFhBxIk/edit?usp=sharing">Project registration</a> <font color="red"><b>Due</b></font>
+  - date: Oct 6
+    week: Week 6
+    topic:
+      - title: 'LM evaluation, data, and benchmarking (A: Yuanpeng Tu, Zhuoling Li)'
+        slides: /assets/courses/DATA8005-lec04.pdf
+      - title: 'Alignment/RLHF (B: Tonghuan Xiao, Yangtuan Sun, Guichao Zhu)'
+        slides: /assets/courses/DATA8005-lec05.pdf
+    material:
+      - description: Paper Presentation
+        list:
+          - <a href="https://arxiv.org/abs/2206.04615">Beyond the Imitation Game&#58; Quantifying and extrapolating the capabilities of language models</a> (A)
+          - <a href="https://arxiv.org/abs/2101.00027">The Pile&#58; An 800GB Dataset of Diverse Text for Language Modeling</a> (A)
+          - <a href="https://arxiv.org/abs/2205.10487">Scaling Laws and Interpretability of Learning from Repeated Data</a> (A)
+          - <a href="https://arxiv.org/abs/2203.02155">Training language models to follow instructions with human feedback</a> (B)
+          - <a href="https://arxiv.org/abs/2204.05862">Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback</a> (B)
+      - description: Recommended Readings
+        list:
+          - <a href="https://lmsys.org/blog/2023-06-22-leaderboard/">Vicuna leaderboard</a> (A)
+          - <a href="https://stanford-cs324.github.io/winter2022/lectures/data/">Data for Training LLMs</a> (A)
+          - <a href="https://huyenchip.com/2023/05/02/rlhf.html">RLHF&#58; Reinforcement Learning from Human Feedback</a> (B)
+          - <a href="https://web.stanford.edu/class/cs224n/slides/cs224n-2023-lecture11-prompting-rlhf.pdf">Prompting, Instruction Finetuning, and RLHF</a> (B)
+          - <a href="https://mediusdownload.event.microsoft.com/video-51378/ea11c3c20e/BRK216HFS_v1.mp4?sv=2018-03-28&sr=c&sig=tlIPwp2z6q8TNAEig%2BOQGh4lL8o8hAHcdw33msvikXY%3D&se=2028-05-24T06%3A23%3A01Z&sp=r">State of GPT and RLHF LLMs - Andrej Karpathy, OpenAI</a> (B)
+    event:
+    due:
+  - date: Oct 13
+    week: Week 7
+    topic:
+      - title: 'Robustness, interpretability, explainability (A: Yunchao Zhang, Li Sun)'
+        slides: /assets/courses/DATA8005-lec06.pdf
+      - title: 'Bias, toxicity, and privacy in LM (B: Mengkang Hu, Likai Peng)'
+        slides: /assets/courses/DATA8005-lec07.pdf
+    material:
+      - description: Paper Presentation
+        list:
+          - <a href="https://arxiv.org/abs/2207.05221">Language Models (Mostly) Know What They Know</a> (A)
+          - <a href="https://arxiv.org/abs/2211.13892">Complementary Explanations for Effective In-Context Learning</a> (A)
+          - <a href="https://arxiv.org/abs/2208.14271">Faithful Reasoning Using Large Language Models</a> (A)
+          - <a href="https://arxiv.org/abs/2012.07805">Extracting Training Data from Large Language Models</a> (B)
+          - <a href="https://arxiv.org/abs/2009.11462">RealToxicityPrompts&#58; Evaluating Neural Toxic Degeneration in Language Models</a> (B)
+          - <a href="https://arxiv.org/abs/2110.05679">Large Language Models Can Be Strong Differentially Private Learners</a> (B)
+      - description: Recommended Readings
+        list:
+          - <a href="https://transformer-circuits.pub/2023/monosemantic-features/index.html">Towards Monosemanticity&#58 Decomposing Language Models With Dictionary Learning</a> (A)
+          - <a href="https://stanford-cs324.github.io/winter2022/lectures/harms-1/">Harms From Data (Part 1)</a> (B)
+          - <a href="https://stanford-cs324.github.io/winter2022/lectures/harms-2/">Harms From Data (Part 2)</a> (B)
+          - <a href="https://stanford-cs324.github.io/winter2022/assets/pdfs/Privacy%20pdf.pdf">Security and Privacy</a> (B)
+    event:
+    due: Project proposal <font color="red"><b>Due</b></font>
+  - date: Oct 20
+    week: Week 8
+    topic:
+      - title: No class
+        slides:
+    event:
+    due:
+  - date: Oct 27
+    week: Week 9
+    topic:
+      - title: 'Parameter-efficient LM tuning (A: Qihang Fang, Jiannan Wang)'
+        slides: /assets/courses/DATA8005-lec08.pdf
+      - title: 'Efficient LM methods and Infrastructure (B: Chenxin An, Yazheng Yang)'
+        slides: /assets/courses/DATA8005-lec09.pdf
+    material:
+      - description: Paper Presentation
+        list:
+          - <a href="https://arxiv.org/abs/2106.09685">LoRA&#58; Low-Rank Adaptation of Large Language Models</a> (A)
+          - <a href="https://arxiv.org/abs/2305.14314">QLoRA&#58; Efficient Finetuning of Quantized LLMs</a> (A)
+          - <a href="https://arxiv.org/abs/2210.17323">GPTQ&#58; Accurate Post-Training Quantization for Generative Pre-trained Transformers</a> (B)
+          - <a href="https://arxiv.org/abs/2208.07339">LLM.int8()&#58; 8-bit Matrix Multiplication for Transformers at Scale</a> (B)
+          - <a href="https://arxiv.org/abs/2205.14135">FlashAttention&#58; Fast and Memory-Efficient Exact Attention with IO-Awareness</a> (B)
+      - description: Recommended Readings
+        list:
+          - <a href="https://arxiv.org/abs/2110.04366">Towards a Unified View of Parameter-Efficient Transfer Learning</a> (A)
+          - <a href="https://arxiv.org/abs/2110.04366">The Power of Scale for Parameter-Efficient Prompt Tuning</a> (A)
+          - <a href="https://arxiv.org/abs/2309.06180">Efficient Memory Management for Large Language Model Serving with PagedAttention</a> (B)
+          - <a href="https://arxiv.org/abs/1909.08053">Megatron-LM&#58; Training Multi-Billion Parameter Language Models Using Model Parallelism</a> (B)
+    event:
+    due:
+  - date: Nov 3
+    week: Week 10
+    topic:
+      - title: 'Sparse/Retrieval-based LM (A: Lihe Yang, Meng Wei)'
+        slides: /assets/courses/DATA8005-lec10.pdf
+      - title: 'Code LM (B: Ge Qu, Jinyang Li)'
+        slides: /assets/courses/DATA8005-lec11.pdf
+    material:
+      - description: Paper Presentation
+        list:
+          - <a href="https://arxiv.org/abs/2208.03306">Branch-Train-Merge&#58; Embarrassingly Parallel Training of Expert Language Models</a> (A)
+          - <a href="https://arxiv.org/abs/2112.04426">Improving language models by retrieving from trillions of tokens</a> (A)
+          - <a href="https://arxiv.org/abs/2107.03374">Evaluating Large Language Models Trained on Code</a> (B)
+          - <a href="https://ds1000-code-gen.github.io/">DS-1000&#58; A Natural and Reliable Benchmark for Data Science Code Generation</a> (B)
+      - description: Recommended Readings
+        list:
+          - <a href="https://acl2023-retrieval-lm.github.io/">Tutorial&#58; Retrieval-based Language Models and Applications</a> (A)
+          - <a href="https://arxiv.org/abs/2304.05128">Teaching Large Language Models to Self-Debug</a> (B)
+    event:
+    due:
+  - date: Nov 10
+    week: Week 11
+    topic:
+      - title: 'Multimodal LM (A: Yuqing Wang, Jintao Lin)'
+        slides: /assets/courses/DATA8005-lec12.pdf
+      - title: 'LM agent, language grounding (B: Yao Teng, Kaiyue Sun)'
+        slides: /assets/courses/DATA8005-lec13.pdf
+    material:
+      - description: Paper Presentation
+        list:
+          - <a href="https://arxiv.org/abs/2204.14198">Flamingo&#58; a Visual Language Model for Few-Shot Learning</a> (A)
+          - <a href="https://arxiv.org/abs/2103.00020">Learning Transferable Visual Models From Natural Language Supervision </a> (A)
+          - <a href="https://arxiv.org/abs/2210.03629">ReAct&#58; Synergizing Reasoning and Acting in Language Models</a> (B)
+          - <a href="https://arxiv.org/abs/2004.10151">Experience Grounds Language</a> (B)
+      - description: Recommended Readings
+        list:
+          - <a href="https://arxiv.org/abs/2301.12597">BLIP-2&#58; Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models</a> (A)
+          - <a href="https://arxiv.org/abs/2304.08485">Visual Instruction Tuning</a> (A)
+          - <a href="https://lilianweng.github.io/posts/2023-06-23-agent/">LLM Powered Autonomous Agents</a> (B)
+    event:
+    due:
+  - date: Nov 17
+    week: Week 12
+    topic:
+      - title: 'Tool use for agents (A: Yuer Yang, Li Maomao)'
+        slides: /assets/courses/DATA8005-lec14.pdf
+      - title: 'Agent methods and applications (B: Jiabin Tang, Junchen Yan)'
+        slides: /assets/courses/DATA8005-lec15.pdf
+    material:
+      - description: Paper Presentation
+        list:
+          - <a href="https://arxiv.org/abs/2302.07842">Augmented Language Models&#58; A Survey</a> (A)
+          - <a href="https://openreview.net/forum?id=hSyW5go0v8">Self-RAG&#58; Learning to Retrieve, Generate, and Critique through Self-Reflection</a> (A)
+          - <a href="https://openreview.net/forum?id=B6pQxqUcT8">ToolChain*&#58; Efficient Action Space Navigation in Large Language Models with A* Search</a> (A)
+          - <a href="https://openreview.net/forum?id=GEcwtMk1uA">Identifying the Risks of LM Agents with an LM-Emulated Sandbox</a> (B)
+          - <a href="https://arxiv.org/abs/2311.07562">GPT-4V in Wonderland&#58; Large Multimodal Models for Zero-Shot Smartphone GUI Navigation</a> (B)
+          - <a href="https://openreview.net/forum?id=hNhwSmtXRh">Lemur&#58; Harmonizing Natural Language and Code for Language Agents</a> (B)
+      - description: Recommended Readings
+        list:
+          - <a href="https://arxiv.org/abs/2302.04761">Toolformer&#58; Language Models Can Teach Themselves to Use Tools</a> (A)
+          - <a href="https://openreview.net/forum?id=fibxvahvs3">GAIA&#58; a benchmark for General AI Assistants</a> (B)
+    event:
+    due:
+  - date: Nov 24
+    week: Week 13
+    topic:
+      - title: Robotics and embodied interaction (Chirui Chang, Yihua Huang)
+        slides: /assets/courses/DATA8005-lec16.pdf
+    material:
+      - description: Paper Presentation
+        list:
+          - <a href="https://openreview.net/forum?id=OI3RoHoWAN">GenSim&#58; Generating Robotic Simulation Tasks via Large Language Models</a>
+          - <a href="https://openreview.net/forum?id=9pKtcJcMP3">Video Language Planning</a>
+          - <a href="https://arxiv.org/abs/2209.07753">Code as Policies&#58; Language Model Programs for Embodied Control</a>
+          - <a href="https://arxiv.org/abs/2204.01691">Do As I Can, Not As I Say&#58; Grounding Language in Robotic Affordances</a>
+          - <a href="https://arxiv.org/abs/2307.15818">RT-2&#58; Vision-Language-Action Models Transfer Web Knowledge to Robotic Control</a>
+          - <a href="https://arxiv.org/abs/2305.16291">Voyager&#58; An Open-Ended Embodied Agent with Large Language Models</a>
+      - description: Recommended Readings
+        list:
+          - <a href="https://www.annualreviews.org/doi/pdf/10.1146/annurev-control-101119-071628">Robots That Use Language</a>
+          - <a href="https://arxiv.org/abs/2206.08853">MineDojo&#58; Building Open-Ended Embodied Agents with Internet-Scale Knowledge</a>
+    event:
+  - date: Dec 4
+    week: Week 15
+    topic: 
+      - title: Invited talk <a href="https://yrf1.github.io/">Yi Ren Fung</a>
+        slides:
+    event:
+    due:
+  - date: Dec 11
+    week: Week 16
+    topic: 
+      - title: Invited talk <a href="https://cs.stanford.edu/~diyiy/">Diyi Yang</a>
+        slides:
+    event:
+    due:
+  - date: Jan 30
+    week: Week N/A
+    topic: 
+      - title: Invited talk <a href="https://dennyzhou.github.io/">Denny Zhou</a>
+        slides:
+    event:
+    due:
