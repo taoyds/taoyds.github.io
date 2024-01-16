@@ -3,7 +3,7 @@ schedule:
     week: Week 1
     topic:
       - title: Introduction
-        slides:
+        slides: /assets/courses/COMP3361-lec01.pdf
     material:
     event:
     due:
