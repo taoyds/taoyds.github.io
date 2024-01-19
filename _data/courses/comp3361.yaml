@@ -5,13 +5,20 @@ schedule:
       - title: Introduction
         slides: /assets/courses/COMP3361-lec01.pdf
     material:
+      - description: Readings
+        list:
+          - <a href="https://www.amacad.org/publication/human-language-understanding-reasoning">Human Language Understanding & Reasoning</a>
     event:
     due:
   - date: Jan 19
     week:
     topic:
-      - title: 
+      - title: Language modeling (n-gram language models)
         slides:
     material:
+      - description: Readings
+        list:
+          - <a href="https://www.cs.columbia.edu/~mcollins/lm-spring2013.pdf">M. Collins, Notes 1</a>
+          - <a href="https://web.stanford.edu/~jurafsky/slp3/7.pdf">J&M Ch. 7</a>
     event:
     due:
