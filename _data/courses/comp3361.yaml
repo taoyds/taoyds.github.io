@@ -14,7 +14,7 @@ schedule:
     week:
     topic:
       - title: Language modeling (n-gram language models)
-        slides:
+        slides: /assets/courses/COMP3361-lec02.pdf
     material:
       - description: Readings
         list:
