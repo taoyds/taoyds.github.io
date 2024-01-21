@@ -50,3 +50,219 @@ schedule:
           - <a href="https://aclanthology.org/D14-1162/">GloVe paper</a>
     event:
     due:
+  - date: Jan 30
+    week: Week 3
+    topic:
+      - title: 'Neural language models: Tokenization'
+        slides:
+    material:
+    event:
+    due:
+  - date: Feb 2
+    week:
+    topic:
+      - title: 'Neural language models: RNNs and Transformers'
+        slides:
+    material:
+    event:
+    due:
+  - date: Feb 6
+    week: Week 4
+    topic:
+      - title: Tutorial on PyTorch and Transformers
+        slides:
+    material:
+    event:
+    due:
+  - date: Feb 9
+    week:
+    topic: 
+      - title: No class
+        slides:
+    material:
+    event:
+    due:
+  - date: Feb 13
+    week: Week 5
+    topic: 
+      - title: No class
+        slides:
+    material:
+    event:
+    due:
+  - date: Feb 16
+    week: 
+    topic:
+      - title: No class
+        slides:
+    material:
+    event:
+    due:
+  - date: Feb 20
+    week: Week 6
+    topic:
+      - title: 'Neural language models: Pretraining'
+        slides:
+    material:
+    event: <a href="">A2</a> out
+    due: A1 <font color="red"><b>due</b></font>
+  - date: Feb 23
+    week:
+    topic:
+      - title: 'Neural language models: Pretraining'
+        slides:
+    material:
+    event:
+    due:
+  - date: Feb 27
+    week: Week 7
+    topic:
+      - title: LLM prompting, in-context learning, scaling laws, emergent capacities 1
+        slides:
+    material:
+    event:
+    due:
+  - date: Mar 1
+    week:
+    topic:
+      - title: LLM prompting, in-context learning, scaling laws, emergent capacities 2
+        slides:
+    material:
+    event:
+    due:
+  - date: Mar 5
+    week: Week 8
+    topic:
+      - title: No class
+        slides:
+    material:
+    event:
+    due:
+  - date: Mar 8
+    week: 
+    topic:
+      - title: No class
+        slides:
+    material:
+    event:
+    due:
+  - date: Mar 12
+    week: Week 9
+    topic:
+      - title: LLM data and evaluation
+        slides:
+    material:
+    event:
+    due:
+  - date: Mar 15
+    week:
+    topic:
+      - title: Instruction tuning for LLMs 
+        slides:
+    material:
+    event:
+    due:
+  - date: Mar 19
+    week: Week 10
+    topic:
+      - title: Course project
+        slides:
+    material:
+    event: <a href="">Course project</a> out
+    due: A2 <font color="red"><b>due</b></font>
+  - date: Mar 22
+    week:
+    topic:
+      - title: 'LLM alignment/RLHF'
+        slides:
+    material:
+    event:
+    due:
+  - date: Mar 26
+    week: Week 11
+    topic:
+      - title: Commonsense reasoning, question answering, text generation
+        slides:
+    material:
+    event:
+    due:
+  - date: Mar 29
+    week:
+    topic:
+      - title: No class
+        slides:
+    material:
+    event:
+    due:
+  - date: Apr 2
+    week: Week 12
+    topic:
+      - title: Code language models
+        slides:
+    material:
+    event:
+    due:
+  - date: Apr 5
+    week:
+    topic:
+      - title: LM agent, language grounding
+        slides:
+    material:
+    event:
+    due:
+  - date: Apr 9
+    week: Week 13
+    topic:
+      - title: 'Retrieval-augmented LMs'
+        slides:
+    material:
+    event:
+    due:
+  - date: Apr 12
+    week:
+    topic:
+      - title: Bias, toxicity, and privacy in LLMs
+        slides:
+    material:
+    event:
+    due:
+  - date: Apr 16
+    week: Week 14
+    topic:
+      - title: Efficient LM methods
+        slides:
+    material:
+    event:
+    due:
+  - date: Apr 19
+    week:
+    topic:
+      - title: Multimodal LLMs
+        slides:
+    material:
+    event:
+    due:
+  - date: Apr 23
+    week: Week 15
+    topic:
+      - title: LLMs in robotics and embodied interaction
+        slides:
+    material:
+    event:
+    due:
+  - date: Apr 26
+    week:
+    topic:
+      - title: Guest lecture 
+        slides:
+    material:
+    event:
+    due:
+  - date: Apr 30
+    week: Week 16
+    topic: 
+      - title: 'No class (Revision)'
+        slides:
+    material:
+    event:
+    due: Course project <font color="red"><b>due</b></font
