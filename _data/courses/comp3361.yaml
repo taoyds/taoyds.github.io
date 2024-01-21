@@ -25,23 +25,35 @@ schedule:
   - date: Jan 23
     week: Week 2
     topic:
-      - title:
+      - title: Text classification and word embeddings
         slides:
     material:
-    event:
+      - description: Readings
+        list:
+          - <a href="https://www.cs.columbia.edu/~mcollins/ff2.pdf">M. Collins, Notes 2</a>
+          - <a href="https://web.stanford.edu/~jurafsky/slp3/6.pdf">J&M Ch. 6</a>
+      - description: Others
+        list:
+          - <a href="https://docs.google.com/document/d/1LlnXoOblXwW3YX-0yG_5seTXJsb3kRdMMRYqs8Qqum4/edit?usp=sharing">Working with Google Colab</a>
+    event: <a href="https://github.com/ranpox/comp3361-spring2024/tree/main/assignments/A1">A1</a> out
     due:
   - date: Jan 26
     week:
     topic:
-      - title:
+      - title: Word embeddings
         slides:
     material:
+      - description: Readings
+        list:
+          - <a href="https://web.stanford.edu/~jurafsky/slp3/6.pdf">J&M Ch. 6</a>
+          - <a href="https://papers.nips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf">word2vec paper</a>
+          - <a href="https://aclanthology.org/D14-1162/">GloVe paper</a>
     event:
     due:
   - date: Jan 30
     week: Week 3
     topic:
-      - title:
+      - title: Neural language models: Tokenization
         slides:
     material:
     event:
@@ -49,7 +61,7 @@ schedule:
   - date: Feb 2
     week:
     topic:
-      - title:
+      - title: Neural language models: RNNs and Transformers
         slides:
     material:
     event:
@@ -57,14 +69,14 @@ schedule:
   - date: Feb 6
     week: Week 4
     topic:
-      - title:
+      - title: Tutorial on PyTorch and Transformers
         slides:
     material:
     event:
     due:
   - date: Feb 9
     week:
-    topic:
+    topic: 
       - title: No class
         slides:
     material:
@@ -72,16 +84,16 @@ schedule:
     due:
   - date: Feb 13
     week: Week 5
-    topic:
+    topic: 
       - title: No class
         slides:
     material:
     event:
     due:
   - date: Feb 16
-    week: No class
+    week: 
     topic:
-      - title:
+      - title: No class
         slides:
     material:
     event:
@@ -89,15 +101,15 @@ schedule:
   - date: Feb 20
     week: Week 6
     topic:
-      - title:
+      - title: Neural language models: Pretraining
         slides:
     material:
-    event:
-    due:
+    event: <a href="">A2</a> out
+    due: A1 <font color="red"><b>due</b></font>
   - date: Feb 23
     week:
     topic:
-      - title:
+      - title: Neural language models: Pretraining
         slides:
     material:
     event:
@@ -105,7 +117,7 @@ schedule:
   - date: Feb 27
     week: Week 7
     topic:
-      - title:
+      - title: LLM prompting, in-context learning, scaling laws, emergent capacities 1
         slides:
     material:
     event:
@@ -113,7 +125,7 @@ schedule:
   - date: Mar 1
     week:
     topic:
-      - title:
+      - title: LLM prompting, in-context learning, scaling laws, emergent capacities 2
         slides:
     material:
     event:
@@ -121,15 +133,15 @@ schedule:
   - date: Mar 5
     week: Week 8
     topic:
-      - title:  No class
+      - title: No class
         slides:
     material:
     event:
     due:
   - date: Mar 8
-    week:
+    week: 
     topic:
-      - title:  No class
+      - title: No class
         slides:
     material:
     event:
@@ -137,7 +149,7 @@ schedule:
   - date: Mar 12
     week: Week 9
     topic:
-      - title:
+      - title: LLM data and evaluation
         slides:
     material:
     event:
@@ -145,7 +157,7 @@ schedule:
   - date: Mar 15
     week:
     topic:
-      - title:
+      - title: Instruction tuning for LLMs 
         slides:
     material:
     event:
@@ -153,15 +165,15 @@ schedule:
   - date: Mar 19
     week: Week 10
     topic:
-      - title:
+      - title: Course project
         slides:
     material:
-    event:
-    due:
+    event: <a href="">Course project</a> out
+    due: A2 <font color="red"><b>due</b></font>
   - date: Mar 22
     week:
     topic:
-      - title:
+      - title: LLM alignment/RLHF
         slides:
     material:
     event:
@@ -169,7 +181,7 @@ schedule:
   - date: Mar 26
     week: Week 11
     topic:
-      - title:
+      - title: Commonsense reasoning, question answering, text generation
         slides:
     material:
     event:
@@ -185,7 +197,7 @@ schedule:
   - date: Apr 2
     week: Week 12
     topic:
-      - title:
+      - title: Code language models
         slides:
     material:
     event:
@@ -193,7 +205,7 @@ schedule:
   - date: Apr 5
     week:
     topic:
-      - title:
+      - title: LM agent, language grounding
         slides:
     material:
     event:
@@ -201,7 +213,7 @@ schedule:
   - date: Apr 9
     week: Week 13
     topic:
-      - title:
+      - title: Retrieval-augmented LMs
         slides:
     material:
     event:
@@ -209,7 +221,7 @@ schedule:
   - date: Apr 12
     week:
     topic:
-      - title:
+      - title: Bias, toxicity, and privacy in LLMs
         slides:
     material:
     event:
@@ -217,7 +229,7 @@ schedule:
   - date: Apr 16
     week: Week 14
     topic:
-      - title:
+      - title: Efficient LM methods
         slides:
     material:
     event:
@@ -225,7 +237,7 @@ schedule:
   - date: Apr 19
     week:
     topic:
-      - title:
+      - title: Multimodal LLMs
         slides:
     material:
     event:
@@ -233,7 +245,7 @@ schedule:
   - date: Apr 23
     week: Week 15
     topic:
-      - title:
+      - title: LLMs in robotics and embodied interaction
         slides:
     material:
     event:
@@ -241,19 +253,16 @@ schedule:
   - date: Apr 26
     week:
     topic:
-      - title:
+      - title: Guest lecture 
         slides:
     material:
     event:
     due:
   - date: Apr 30
     week: Week 16
-    topic:
-      - title:  No class (Revision)
+    topic: 
+      - title: No class (Revision)
         slides:
     material:
     event:
-    due:
-    
-    
-    
+    due: Course project <font color="red"><b>due</b></font>
