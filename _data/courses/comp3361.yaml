@@ -64,16 +64,16 @@ schedule:
     due:
   - date: Feb 9
     week:
-    topic: No class
-      - title:
+    topic:
+      - title: No class
         slides:
     material:
     event:
     due:
   - date: Feb 13
     week: Week 5
-    topic: No class
-      - title:
+    topic:
+      - title: No class
         slides:
     material:
     event:
@@ -120,16 +120,16 @@ schedule:
     due:
   - date: Mar 5
     week: Week 8
-    topic: No class
-      - title:
+    topic:
+      - title:  No class
         slides:
     material:
     event:
     due:
   - date: Mar 8
-    week: No class
+    week:
     topic:
-      - title:
+      - title:  No class
         slides:
     material:
     event:
@@ -176,8 +176,8 @@ schedule:
     due:
   - date: Mar 29
     week:
-    topic: No class
-      - title:
+    topic:
+      - title: No class
         slides:
     material:
     event:
@@ -248,8 +248,8 @@ schedule:
     due:
   - date: Apr 30
     week: Week 16
-    topic: No class (Revision)
-      - title:
+    topic:
+      - title:  No class (Revision)
         slides:
     material:
     event:
