@@ -30,6 +30,8 @@ schedule:
     material:
       - description: Readings
         list:
+          - <a href="https://web.stanford.edu/~jurafsky/slp3/4.pdf">J&M Ch. 4.1-4.6</a>
+          - <a href="https://web.stanford.edu/~jurafsky/slp3/5.pdf">J&M Ch. 5.1-5.8</a>
           - <a href="https://www.cs.columbia.edu/~mcollins/ff2.pdf">M. Collins, Notes 2</a>
           - <a href="https://web.stanford.edu/~jurafsky/slp3/6.pdf">J&M Ch. 6</a>
       - description: Others
