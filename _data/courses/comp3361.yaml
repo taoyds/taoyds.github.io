@@ -25,8 +25,8 @@ schedule:
   - date: Jan 23
     week: Week 2
     topic:
-      - title: Text classification and word embeddings
-        slides:
+      - title: Text classification
+        slides: /assets/courses/COMP3361-lec03.pdf
     material:
       - description: Readings
         list:
