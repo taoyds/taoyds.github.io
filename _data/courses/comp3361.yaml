@@ -43,7 +43,7 @@ schedule:
     week:
     topic:
       - title: Word embeddings
-        slides:
+        slides: /assets/courses/COMP3361-lec04.pdf
     material:
       - description: Readings
         list:
