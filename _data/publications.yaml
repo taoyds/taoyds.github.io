@@ -10,7 +10,7 @@ papers:
 
   - title: "Lemur: Harmonizing Natural Language and Code for Language Agents"
     authors: "Yiheng Xu*, Hongjin Su*, Chen Xing*, Boyu Mi, Qian Liu, Weijia Shi, Binyuan Hui, Fan Zhou, Yitao Liu, Tianbao Xie, Zhoujun Cheng, Siheng Zhao, Lingpeng Kong, Bailin Wang, Caiming Xiong, <b>Tao Yu</b>"
-    venue: "<b>Preprint 2023</b>"
+    venue: "<b>ICLR 2024</b>"
     paper_pdf: "https://arxiv.org/abs/2310.06830"
     code: "https://github.com/OpenLemur/lemur"
     poster: "https://www.xlang.ai/blog/openlemur"
@@ -18,7 +18,7 @@ papers:
 
   - title: "Text2Reward: Automated Dense Reward Function Generation for Reinforcement Learning"
     authors: "Tianbao Xie*, Siheng Zhao*, Chen Henry Wu, Yitao Liu, Qian Luo, Victor Zhong, Yanchao Yang, <b>Tao Yu</b>"
-    venue: "<b>Preprint 2023</b>"
+    venue: "<b>ICLR 2024</b>"
     paper_pdf: "https://arxiv.org/abs/2309.11489"
     code: "https://github.com/xlang-ai/text2reward"
     poster: "https://text-to-reward.github.io/"
