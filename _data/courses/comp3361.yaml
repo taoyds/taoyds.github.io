@@ -66,33 +66,36 @@ schedule:
   - date: Feb 2
     week:
     topic:
-      - title: 'Neural language models: Tokenization, RNNs'
+      - title: 'Neural language models: Overview, tokenization'
+        slides:
+    material:
+      - description: Readings
+        list:
+          - <a href="https://web.stanford.edu/~jurafsky/slp3/7.pdf">J & M 7.3-7.5</a>
+          - <a href="https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/">Running example of using BERT</a>
+          - <a href="https://arxiv.org/abs/1508.07909">Byte-pair encoding paper</a>
+      - description: Others
+        list:
+          - <a href="https://huggingface.co/docs/transformers/tokenizer_summary">Summary of the tokenizers with HuggingFace</a>
+    event:
+    due:
+  - date: Feb 6
+    week: Week 4
+    topic:
+      - title: 'Neural language models: RNNs'
         slides:
     material:
       - description: Readings
         list:
           - <a href="https://web.stanford.edu/~jurafsky/slp3/7.pdf">J & M 7.3-7.5</a>
           - <a href="https://web.stanford.edu/~jurafsky/slp3/9.pdf">J & M 9.1-9.3</a>
-          - <a href="https://arxiv.org/abs/1508.07909">Byte-pair encoding paper</a>
-      - description: Others
-        list:
-          - <a href="https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/">Running example of using BERT</a>
-          - <a href="https://huggingface.co/docs/transformers/tokenizer_summary">Summary of the tokenizers with HuggingFace</a>
           - <a href="https://colah.github.io/posts/2015-08-Understanding-LSTMs">Understanding LSTM Networks</a>
-    event:
-    due:
-  - date: Feb 6
-    week: Week 4
-    topic:
-      - title: Tutorial on PyTorch and Transformers
-        slides:
-    material:
     event:
     due:
   - date: Feb 9
     week:
     topic: 
-      - title: No class
+      - title: Tutorial on PyTorch and Transformers
         slides:
     material:
     event:
@@ -116,7 +119,7 @@ schedule:
   - date: Feb 20
     week: Week 6
     topic:
-      - title: 'Neural language models: Pretraining'
+      - title: 'Neural language models: Transformers, pretraining'
         slides:
     material:
     event: <a href="">A2</a> out
