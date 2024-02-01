@@ -76,6 +76,7 @@ schedule:
           - <a href="https://arxiv.org/abs/1508.07909">Byte-pair encoding paper</a>
       - description: Others
         list:
+          - <a href="https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/">Running example of using BERT</a>
           - <a href="https://huggingface.co/docs/transformers/tokenizer_summary">Summary of the tokenizers with HuggingFace</a>
           - <a href="https://colah.github.io/posts/2015-08-Understanding-LSTMs">Understanding LSTM Networks</a>
     event:
