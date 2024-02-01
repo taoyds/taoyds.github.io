@@ -69,6 +69,15 @@ schedule:
       - title: 'Neural language models: Tokenization, RNNs'
         slides:
     material:
+      - description: Readings
+        list:
+          - <a href="https://web.stanford.edu/~jurafsky/slp3/7.pdf">J & M 7.3-7.5</a>
+          - <a href="https://web.stanford.edu/~jurafsky/slp3/9.pdf">J & M 9.1-9.3</a>
+          - <a href="https://arxiv.org/abs/1508.07909">Byte-pair encoding paper</a>
+      - description: Others
+        list:
+          - <a href="https://huggingface.co/docs/transformers/tokenizer_summary">Summary of the tokenizers with HuggingFace</a>
+          - <a href="https://colah.github.io/posts/2015-08-Understanding-LSTMs">Understanding LSTM Networks</a>
     event:
     due:
   - date: Feb 6
