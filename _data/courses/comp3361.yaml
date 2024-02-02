@@ -67,7 +67,7 @@ schedule:
     week:
     topic:
       - title: 'Neural language models: Overview, tokenization'
-        slides:
+        slides: /assets/courses/COMP3361-lec06.pdf
     material:
       - description: Readings
         list:
