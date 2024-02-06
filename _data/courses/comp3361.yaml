@@ -83,7 +83,7 @@ schedule:
     week: Week 4
     topic:
       - title: 'Neural language models: RNNs'
-        slides:
+        slides: /assets/courses/COMP3361-lec07.pdf
     material:
       - description: Readings
         list:
