@@ -96,7 +96,7 @@ schedule:
     week:
     topic: 
       - title: <a href="https://drive.google.com/file/d/1mRKeIkqyir7tDQVnCo3NgSyJf0ARp3hu/view?usp=sharing">Tutorial on PyTorch and Transformers</a>
-        slides: <a href="https://colab.research.google.com/drive/1VHyYjDPzO-5fqJuyBzBThwr_no6vV0J_?usp=sharing">Notebook</a>
+        slides: https://colab.research.google.com/drive/1VHyYjDPzO-5fqJuyBzBThwr_no6vV0J_?usp=sharing
     material:
       - description: Other resources
         list:
