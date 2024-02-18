@@ -88,8 +88,6 @@ schedule:
       - description: Readings
         list:
           - <a href="https://web.stanford.edu/~jurafsky/slp3/7.pdf">J & M 7.3-7.5</a>
-          - <a href="https://web.stanford.edu/~jurafsky/slp3/9.pdf">J & M 9.1-9.3</a>
-          - <a href="https://colah.github.io/posts/2015-08-Understanding-LSTMs">Understanding LSTM Networks</a>
     event:
     due:
   - date: Feb 9
@@ -124,23 +122,34 @@ schedule:
   - date: Feb 20
     week: Week 6
     topic:
-      - title: 'Neural language models: Transformers, pretraining'
+      - title: 'Neural language models: RNNs and LSTM'
         slides:
     material:
+      - description: Readings
+        list:
+          - <a href="https://web.stanford.edu/~jurafsky/slp3/9.pdf">J & M 9.1-9.3, 9.5</a>
+          - <a href="https://karpathy.github.io/2015/05/21/rnn-effectiveness/">The Unreasonable Effectiveness of Recurrent Neural Networks</a>
+          - <a href="https://colah.github.io/posts/2015-08-Understanding-LSTMs">Understanding LSTM Networks</a>
     event: <a href="">A2</a> out
     due: A1 <font color="red"><b>due</b></font>
   - date: Feb 23
     week:
-    topic:
-      - title: 'Neural language models: Pretraining'
+    topic: 'Neural language models: Transformers'
+      - title: 
         slides:
     material:
+      - description: Readings
+        list:
+          - <a href="https://web.stanford.edu/~jurafsky/slp3/10.pdf">J & M 10.1</a>
+          - <a href="https://arxiv.org/pdf/1706.03762.pdf">Attention Is All You Need</a>
+          - <a href="https://nlp.seas.harvard.edu/2018/04/03/attention.html">The Annotated Transformer</a>
+          - <a href="https://jalammar.github.io/illustrated-transformer/">The Illustrated Transformer</a>
     event:
     due:
   - date: Feb 27
     week: Week 7
     topic:
-      - title: LLM prompting, in-context learning, scaling laws, emergent capacities 1
+      - title: 'Neural language models: Pretraining'
         slides:
     material:
     event:
@@ -148,7 +157,7 @@ schedule:
   - date: Mar 1
     week:
     topic:
-      - title: LLM prompting, in-context learning, scaling laws, emergent capacities 2
+      - title: LLM prompting, in-context learning, scaling laws, emergent capacities
         slides:
     material:
     event:
