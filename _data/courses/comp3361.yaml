@@ -134,8 +134,8 @@ schedule:
     due: A1 <font color="red"><b>due</b></font>
   - date: Feb 23
     week:
-    topic: 'Neural language models: Transformers'
-      - title: 
+    topic: 
+      - title: 'Neural language models: Transformers'
         slides:
     material:
       - description: Readings
