@@ -123,7 +123,7 @@ schedule:
     week: Week 6
     topic:
       - title: 'Neural language models: RNNs and LSTM'
-        slides:
+        slides: /assets/courses/COMP3361-lec08.pdf
     material:
       - description: Readings
         list:
