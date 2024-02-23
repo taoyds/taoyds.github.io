@@ -136,7 +136,7 @@ schedule:
     week:
     topic: 
       - title: 'Neural language models: Transformers'
-        slides:
+        slides: /assets/courses/COMP3361-lec09.pdf
     material:
       - description: Readings
         list:
