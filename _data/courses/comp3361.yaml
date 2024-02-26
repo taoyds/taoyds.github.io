@@ -76,6 +76,7 @@ schedule:
           - <a href="https://arxiv.org/abs/1508.07909">Byte-pair encoding paper</a>
       - description: Others
         list:
+          - <a href="https://www.youtube.com/watch?v=zduSFxRajkE">Talk on the GPT Tokenizer by Andrej Karpathy</a>
           - <a href="https://huggingface.co/docs/transformers/tokenizer_summary">Summary of the tokenizers with HuggingFace</a>
     event:
     due:
@@ -149,17 +150,32 @@ schedule:
   - date: Feb 27
     week: Week 7
     topic:
-      - title: 'Neural language models: Pretraining'
+      - title: 'Neural language models: Pretraining 1'
         slides:
     material:
+      - description: Readings
+        list:
+          - <a href="https://arxiv.org/pdf/1810.04805.pdf">BERT&#58; Pre-training of Deep Bidirectional Transformers for
+Language Understanding</a>
+          - <a href="https://jalammar.github.io/illustrated-bert/">The Illustrated BERT, ELMo, and co.</a>
     event:
     due:
   - date: Mar 1
     week:
     topic:
-      - title: LLM prompting, in-context learning, scaling laws, emergent capacities
+      - title: 'Neural language models: Pretraining 2'
         slides:
     material:
+      - description: Readings
+        list:
+          - <a href="https://arxiv.org/pdf/1910.10683.pdf">Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (T5)</a>
+          - <a href="https://arxiv.org/pdf/2005.14165.pdf">Language Models are Few-Shot Learners (GPT-3)</a>
+          - <a href="https://arxiv.org/abs/2307.09288">Llama 2&#58; Open Foundation and Fine-Tuned Chat Models</a>
+          - <a href="https://www.youtube.com/watch?v=kCc8FmEb1nY">Talk on building GPT&#58; from scratch, in code, spelled out by Andrej Karpathy</a>
+      - description: Others
+        list:
+          - <a href="https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing#scrollTo=Q3k1Czf7LuA9">Colab on building GPT&#58; from scratch, in code, spelled out by Andrej Karpathy</a>
+          - <a href="https://jalammar.github.io/illustrated-gpt2/">The Illustrated GPT-2</a>
     event:
     due:
   - date: Mar 5
@@ -181,9 +197,17 @@ schedule:
   - date: Mar 12
     week: Week 9
     topic:
-      - title: LLM data and evaluation
+      - title: LLM prompting, in-context learning, scaling laws, emergent capacities
         slides:
     material:
+      - description: Readings
+        list:
+          - <a href="https://arxiv.org/abs/2109.01652">Finetuned Language Models Are Zero-Shot Learners</a>
+          - <a href="https://arxiv.org/abs/2201.11903">Chain-of-Thought Prompting Elicits Reasoning in Large Language Models</a>
+          - <a href="https://www.youtube.com/watch?v=tVtOevLrt5U">Talk on Emergent Abilities and Scaling in LLMs by Jason Wei</a>
+      - description: Others
+        list:
+          - <a href="https://www.youtube.com/watch?v=bZQun8Y4L2A">State of GPT by Andrej Karpathy</a>
     event:
     due:
   - date: Mar 15
