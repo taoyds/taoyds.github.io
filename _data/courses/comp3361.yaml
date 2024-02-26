@@ -155,8 +155,7 @@ schedule:
     material:
       - description: Readings
         list:
-          - <a href="https://arxiv.org/pdf/1810.04805.pdf">BERT&#58; Pre-training of Deep Bidirectional Transformers for
-Language Understanding</a>
+          - <a href="https://arxiv.org/pdf/1810.04805.pdf">BERT&#58; Pre-training of Deep Bidirectional Transformers for Language Understanding</a>
           - <a href="https://jalammar.github.io/illustrated-bert/">The Illustrated BERT, ELMo, and co.</a>
     event:
     due:
