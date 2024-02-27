@@ -151,7 +151,7 @@ schedule:
     week: Week 7
     topic:
       - title: 'Neural language models: Pretraining 1'
-        slides:
+        slides: /assets/courses/COMP3361-lec10.pdf
     material:
       - description: Readings
         list:
