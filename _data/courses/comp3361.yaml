@@ -163,7 +163,7 @@ schedule:
     week:
     topic:
       - title: 'Neural language models: Pretraining 2'
-        slides:
+        slides: /assets/courses/COMP3361-lec11.pdf
     material:
       - description: Readings
         list:
