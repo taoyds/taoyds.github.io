@@ -197,7 +197,7 @@ schedule:
     week: Week 9
     topic:
       - title: LLM prompting, in-context learning, scaling laws, emergent capacities
-        slides:
+        slides: /assets/courses/COMP3361-lec12.pdf
     material:
       - description: Readings
         list:
