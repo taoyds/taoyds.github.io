@@ -196,7 +196,7 @@ schedule:
   - date: Mar 12
     week: Week 9
     topic:
-      - title: LLM prompting, in-context learning, scaling laws, emergent capacities
+      - title: LLM prompting, in-context learning, scaling laws, emergent capacities 1
         slides: /assets/courses/COMP3361-lec12.pdf
     material:
       - description: Readings
@@ -214,7 +214,7 @@ schedule:
   - date: Mar 15
     week:
     topic:
-      - title: Natural language generation with LLMs
+      - title: LLM prompting, in-context learning, scaling laws, emergent capacities 2
         slides: /assets/courses/COMP3361-lec13.pdf
     material:
       - description: Others
@@ -225,7 +225,7 @@ schedule:
   - date: Mar 19
     week: Week 10
     topic:
-      - title: Course project
+      - title: Coding tutorial
         slides:
     material:
     event:
@@ -233,8 +233,8 @@ schedule:
   - date: Mar 22
     week:
     topic:
-      - title: 'LLM alignment/RLHF'
-        slides:
+      - title: Natural language generation with LLMs
+        slides: /assets/courses/COMP3361-lec14.pdf
     material:
     event: <a href="">Course project</a> out
     due: A2 <font color="red"><b>due</b></font>
