@@ -170,7 +170,6 @@ schedule:
           - <a href="https://arxiv.org/pdf/1910.10683.pdf">Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (T5)</a>
           - <a href="https://arxiv.org/pdf/2005.14165.pdf">Language Models are Few-Shot Learners (GPT-3)</a>
           - <a href="https://arxiv.org/abs/2307.09288">Llama 2&#58; Open Foundation and Fine-Tuned Chat Models</a>
-          - <a href="https://www.youtube.com/watch?v=kCc8FmEb1nY">Talk on building GPT&#58; from scratch, in code, spelled out by Andrej Karpathy</a>
       - description: Others
         list:
           - <a href="https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing#scrollTo=Q3k1Czf7LuA9">Colab on building GPT&#58; from scratch, in code, spelled out by Andrej Karpathy</a>
@@ -217,9 +216,6 @@ schedule:
       - title: LLM prompting, in-context learning, scaling laws, emergent capacities 2
         slides: /assets/courses/COMP3361-lec13.pdf
     material:
-      - description: Others
-        list:
-          - <a href="https://arxiv.org/abs/1904.09751">The Curious Case of Neural Text Degeneration</a>
     event:
     due:
   - date: Mar 19
@@ -228,6 +224,10 @@ schedule:
       - title: Coding tutorial
         slides:
     material:
+      - description: Readings
+        list:
+          - <a href="https://nlp.seas.harvard.edu/2018/04/03/attention.html">The Annotated Transformer</a>
+          - <a href="https://www.youtube.com/watch?v=kCc8FmEb1nY">Talk on building GPT&#58; from scratch, in code, spelled out by Andrej Karpathy</a>
     event:
     due:
   - date: Mar 22
@@ -236,6 +236,9 @@ schedule:
       - title: Natural language generation with LLMs
         slides: /assets/courses/COMP3361-lec14.pdf
     material:
+      - description: Others
+        list:
+          - <a href="https://arxiv.org/abs/1904.09751">The Curious Case of Neural Text Degeneration</a>
     event: <a href="">Course project</a> out
     due: A2 <font color="red"><b>due</b></font>
   - date: Mar 26
