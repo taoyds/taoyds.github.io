@@ -201,13 +201,9 @@ schedule:
       - description: Readings
         list:
           - <a href="https://arxiv.org/abs/2201.11903">Chain-of-Thought Prompting Elicits Reasoning in Large Language Models</a>
-          - <a href="https://arxiv.org/abs/2001.08361">Scaling Laws for Neural Language Models</a>
-          - <a href="https://arxiv.org/abs/2206.07682">Emergent Abilities of Large Language Models</a>
       - description: Others
         list:
           - <a href="https://www.youtube.com/watch?v=bZQun8Y4L2A">State of GPT by Andrej Karpathy</a>
-          - <a href="https://www.youtube.com/watch?v=tVtOevLrt5U">Talk on Emergent Abilities and Scaling in LLMs by Jason Wei</a>
-          - <a href="https://arxiv.org/abs/2304.15004">Are Emergent Abilities of Large Language Models a Mirage?</a>
     event:
     due:
   - date: Mar 15
@@ -216,6 +212,13 @@ schedule:
       - title: LLM prompting, in-context learning, scaling laws, emergent capacities 2
         slides: /assets/courses/COMP3361-lec13.pdf
     material:
+      - description: Readings
+        list:
+          - <a href="https://arxiv.org/abs/2001.08361">Scaling Laws for Neural Language Models</a>
+          - <a href="https://arxiv.org/abs/2206.07682">Emergent Abilities of Large Language Models</a>
+      - description: Others
+        list:
+          - <a href="https://arxiv.org/abs/2304.15004">Are Emergent Abilities of Large Language Models a Mirage?</a>
     event:
     due:
   - date: Mar 19
