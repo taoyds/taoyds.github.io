@@ -214,11 +214,12 @@ schedule:
   - date: Mar 15
     week:
     topic:
-      - title: Neural language generation with LLMs
-        slides:
+      - title: Natural language generation with LLMs
+        slides: /assets/courses/COMP3361-lec13.pdf
     material:
-      - description: Readings
+      - description: Others
         list:
+          - <a href="https://arxiv.org/abs/1904.09751">The Curious Case of Neural Text Degeneration</a>
     event:
     due:
   - date: Mar 19
@@ -227,16 +228,16 @@ schedule:
       - title: Course project
         slides:
     material:
-    event: <a href="">Course project</a> out
-    due: A2 <font color="red"><b>due</b></font>
+    event:
+    due:
   - date: Mar 22
     week:
     topic:
       - title: 'LLM alignment/RLHF'
         slides:
     material:
-    event:
-    due:
+    event: <a href="">Course project</a> out
+    due: A2 <font color="red"><b>due</b></font>
   - date: Mar 26
     week: Week 11
     topic:
