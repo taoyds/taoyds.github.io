@@ -225,7 +225,7 @@ schedule:
     week: Week 10
     topic:
       - title: Coding tutorial
-        slides:
+        slides: /assets/courses/COMP3361-tut02.pdf
     material:
       - description: Readings
         list:
