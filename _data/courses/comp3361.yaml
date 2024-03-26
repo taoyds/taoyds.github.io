@@ -236,7 +236,7 @@ schedule:
   - date: Mar 22
     week:
     topic:
-      - title: Natural language generation with LLMs
+      - title: Natural language generation with LLMs 1
         slides: /assets/courses/COMP3361-lec14.pdf
     material:
       - description: Others
@@ -247,12 +247,9 @@ schedule:
   - date: Mar 26
     week: Week 11
     topic:
-      - title: Instruction tuning for LLMs 
-        slides:
+      - title: Natural language generation with LLMs 2
+        slides: /assets/courses/COMP3361-lec15.pdf
     material:
-      - description: Readings
-        list:
-          - <a href="https://arxiv.org/abs/2109.01652">Finetuned Language Models Are Zero-Shot Learners</a>
     event:
     due:
   - date: Mar 29
@@ -274,9 +271,12 @@ schedule:
   - date: Apr 5
     week:
     topic:
-      - title: LM agent, language grounding
+      - title: Instruction tuning for LLMs 
         slides:
     material:
+      - description: Readings
+        list:
+          - <a href="https://arxiv.org/abs/2109.01652">Finetuned Language Models Are Zero-Shot Learners</a>
     event:
     due:
   - date: Apr 9
