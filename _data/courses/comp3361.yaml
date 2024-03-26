@@ -242,7 +242,7 @@ schedule:
       - description: Others
         list:
           - <a href="https://arxiv.org/abs/1904.09751">The Curious Case of Neural Text Degeneration</a>
-    event: <a href="">Course project</a> out
+    event:
     due: A2 <font color="red"><b>due</b></font>
   - date: Mar 26
     week: Week 11
@@ -250,7 +250,7 @@ schedule:
       - title: Natural language generation with LLMs 2
         slides: /assets/courses/COMP3361-lec15.pdf
     material:
-    event:
+    event: <a href="https://github.com/ranpox/comp3361-spring2024/tree/main/assignments/A3">A3 (originally the course project)</a> out
     due:
   - date: Mar 29
     week:
