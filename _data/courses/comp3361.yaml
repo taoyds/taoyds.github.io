@@ -271,7 +271,7 @@ schedule:
   - date: Apr 5
     week:
     topic:
-      - title: 'Retrieval-augmented LMs' (by Weijia Shi, UW)
+      - title: 'Retrieval-augmented LMs (by Weijia Shi, UW)'
         slides:
       - title: Code language models (by Ansong Ni, Yale)
         slides:
