@@ -271,9 +271,9 @@ schedule:
   - date: Apr 5
     week:
     topic:
-      - title: 'Retrieval-augmented LMs' by <a href="https://swj0419.github.io/">Weijia Shi</a>
+      - title: 'Retrieval-augmented LMs' (by Weijia Shi, UW)
         slides:
-      - title: Code language models by <a href="https://niansong1996.github.io">Ansong Ni</a>
+      - title: Code language models (by Ansong Ni, Yale)
         slides:
     material:
       - description: Readings
@@ -290,7 +290,7 @@ schedule:
   - date: Apr 9
     week: Week 13
     topic:
-      - title: Efficient LM methods by <a href="https://berlino.github.io/">Bailin Wang</a>
+      - title: Efficient LM methods (by Bailin Wang, MIT)
         slides:
     material:
     event:
@@ -298,7 +298,7 @@ schedule:
   - date: Apr 12
     week:
     topic:
-      - title: Instruction tuning for LLMs by <a href="https://homes.cs.washington.edu/~yizhongw">Yizhong Wang</a>
+      - title: Instruction tuning for LLMs (by Yizhong Wang, UW)
         slides:
     material:
       - description: Readings
@@ -319,7 +319,7 @@ schedule:
   - date: Apr 19
     week:
     topic:
-      - title: LLM alignment by <a href="https://ruiqi-zhong.github.io">Ruiqi Zhong</a>
+      - title: LLM alignment (by Ruiqi Zhong, UC Berkeley)
         slides:
     material:
     event:
