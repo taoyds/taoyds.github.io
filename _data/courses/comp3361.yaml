@@ -335,7 +335,7 @@ schedule:
   - date: Apr 26
     week:
     topic:
-      - title: LLM parallel pretreating
+      - title: LLM parallel pretraining
         slides:
     material:
     event:
