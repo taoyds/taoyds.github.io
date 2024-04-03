@@ -264,7 +264,7 @@ schedule:
     week: Week 12
     topic:
       - title: Intro to advanced topics
-        slides:
+        slides: /assets/courses/COMP3361-lec15.pdf
     material:
     event:
     due:
