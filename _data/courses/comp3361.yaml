@@ -322,6 +322,11 @@ schedule:
       - title: LLM alignment (by Ruiqi Zhong, UC Berkeley)
         slides:
     material:
+      - description: Readings
+        list:
+          - <a href="https://arxiv.org/abs/2211.03540">Measuring Progress on Scalable Oversight for Large Language Models</a>
+          - <a href="https://arxiv.org/abs/2206.05802">Self-critiquing models for assisting human evaluators</a>
+          - <a href="https://arxiv.org/abs/2109.10862">Recursively Summarizing Books with Human Feedback</a> 
     event:
     due:
   - date: Apr 23
