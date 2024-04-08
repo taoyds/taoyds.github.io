@@ -290,14 +290,20 @@ schedule:
   - date: Apr 9
     week: Week 13
     topic:
-      - title: Efficient LM methods (by Bailin Wang, MIT)
-        slides:
+      - title: LLMs/VLMs as agents
+        slides: /assets/courses/COMP3361-lec17.pdf
     material:
+      - description: Readings
+        list:
+          - <a href="https://lilianweng.github.io/posts/2023-06-23-agent/">LLM Powered Autonomous Agents</a>
+          - <a href="">OSWorld&#58; Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments</a>
     event:
     due:
   - date: Apr 12
     week:
     topic:
+      - title: Solving Real-World Tasks with AI Agents (by Shuyan Zhou, CMU)
+        slides:
       - title: Instruction tuning for LLMs (by Yizhong Wang, UW)
         slides:
     material:
@@ -306,14 +312,19 @@ schedule:
           - <a href="https://arxiv.org/abs/2109.01652">Finetuned Language Models Are Zero-Shot Learners</a>
           - <a href="https://arxiv.org/abs/2212.10560">Self-Instruct&#58; Aligning Language Model with Self-Generated Instructions</a>
           - <a href="https://arxiv.org/abs/2203.02155">Training language models to follow instructions with human feedback</a> 
+          - <a href="https://arxiv.org/abs/2307.13854">WebArena&#58; A Realistic Web Environment for Building Autonomous Agents</a> 
     event:
     due:
   - date: Apr 16
     week: Week 14
     topic:
-      - title: LLMs/VLMs as agents
+      - title: Efficient LM methods (by Bailin Wang, MIT)
         slides:
     material:
+      - description: Readings
+        list:
+          - <a href="https://arxiv.org/abs/2106.09685">LoRA&#58; Low-Rank Adaptation of Large Language Models</a> (A)
+          - <a href="https://arxiv.org/abs/2205.14135">FlashAttention&#58; Fast and Memory-Efficient Exact Attention with IO-Awareness</a> (B)
     event:
     due:
   - date: Apr 19
@@ -327,6 +338,10 @@ schedule:
           - <a href="https://arxiv.org/abs/2211.03540">Measuring Progress on Scalable Oversight for Large Language Models</a>
           - <a href="https://arxiv.org/abs/2206.05802">Self-critiquing models for assisting human evaluators</a>
           - <a href="https://arxiv.org/abs/2109.10862">Recursively Summarizing Books with Human Feedback</a> 
+      - description: Others
+        list:
+          - <a href="https://ruiqizhong.substack.com/p/explaining-ai-alignment-as-an-nlper">Explaining AI Alignment as an NLPer and Why I am Working on It</a> 
+          - <a href="https://www.anthropic.com/news/core-views-on-ai-safety">Core Views on AI Safety&#58; When, Why, What, and How</a> 
     event:
     due:
   - date: Apr 23
