@@ -312,6 +312,10 @@ schedule:
           - <a href="https://arxiv.org/abs/2109.01652">Finetuned Language Models Are Zero-Shot Learners</a>
           - <a href="https://arxiv.org/abs/2212.10560">Self-Instruct&#58; Aligning Language Model with Self-Generated Instructions</a>
           - <a href="https://arxiv.org/abs/2203.02155">Training language models to follow instructions with human feedback</a> 
+          - <a href="https://arxiv.org/abs/2211.10435">PAL&#58; Program-aided Language Models</a> 
+          - <a href="https://arxiv.org/abs/2211.10435">DocPrompting&#58; Generating Code by Retrieving the Docs</a> 
+     - description: Others
+        list:
           - <a href="https://arxiv.org/abs/2307.13854">WebArena&#58; A Realistic Web Environment for Building Autonomous Agents</a> 
     event:
     due:
