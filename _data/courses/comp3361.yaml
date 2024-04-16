@@ -323,7 +323,7 @@ schedule:
     week: Week 14
     topic:
       - title: Efficient LM methods (by Bailin Wang, MIT)
-        slides: /assets/courses/COMP3361-talk04.pdf
+        slides: /assets/courses/COMP3361-talk05.pdf
     material:
       - description: Readings
         list:
