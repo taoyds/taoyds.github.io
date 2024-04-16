@@ -93,7 +93,7 @@ schedule:
     due:
   - date: Feb 9
     week:
-    topic: 
+    topic:
       - title: <a href="https://drive.google.com/file/d/1mRKeIkqyir7tDQVnCo3NgSyJf0ARp3hu/view?usp=sharing">Tutorial on PyTorch and Transformers</a>
         slides: https://colab.research.google.com/drive/1VHyYjDPzO-5fqJuyBzBThwr_no6vV0J_?usp=sharing
     material:
@@ -106,14 +106,14 @@ schedule:
     due:
   - date: Feb 13
     week: Week 5
-    topic: 
+    topic:
       - title: No class
         slides:
     material:
     event:
     due:
   - date: Feb 16
-    week: 
+    week:
     topic:
       - title: No class
         slides:
@@ -135,7 +135,7 @@ schedule:
     due: A1 <font color="red"><b>due</b></font>
   - date: Feb 23
     week:
-    topic: 
+    topic:
       - title: 'Neural language models: Transformers'
         slides: /assets/courses/COMP3361-lec09.pdf
     material:
@@ -185,7 +185,7 @@ schedule:
     event:
     due:
   - date: Mar 8
-    week: 
+    week:
     topic:
       - title: No class
         slides:
@@ -280,11 +280,11 @@ schedule:
         list:
           - <a href="https://instructor-embedding.github.io/">One Embedder, Any Task&#58; Instruction-Finetuned Text Embeddings</a>
           - <a href="https://arxiv.org/abs/2301.12652">REPLUG&#58; Retrieval-Augmented Black-Box Language Models</a>
-          - <a href="https://arxiv.org/abs/2107.03374">Evaluating Large Language Models Trained on Code</a> 
-          - <a href="https://arxiv.org/abs/2308.12950">Code Llama&#58; Open Foundation Models for Code</a> 
+          - <a href="https://arxiv.org/abs/2107.03374">Evaluating Large Language Models Trained on Code</a>
+          - <a href="https://arxiv.org/abs/2308.12950">Code Llama&#58; Open Foundation Models for Code</a>
       - description: Others
         list:
-          - <a href="https://acl2023-retrieval-lm.github.io/">Tutorial&#58; Retrieval-based Language Models and Applications</a> 
+          - <a href="https://acl2023-retrieval-lm.github.io/">Tutorial&#58; Retrieval-based Language Models and Applications</a>
     event:
     due:
   - date: Apr 9
@@ -311,12 +311,12 @@ schedule:
         list:
           - <a href="https://arxiv.org/abs/2109.01652">Finetuned Language Models Are Zero-Shot Learners</a>
           - <a href="https://arxiv.org/abs/2212.10560">Self-Instruct&#58; Aligning Language Model with Self-Generated Instructions</a>
-          - <a href="https://arxiv.org/abs/2203.02155">Training language models to follow instructions with human feedback</a> 
-          - <a href="https://arxiv.org/abs/2211.10435">PAL&#58; Program-aided Language Models</a> 
-          - <a href="https://arxiv.org/abs/2211.10435">DocPrompting&#58; Generating Code by Retrieving the Docs</a> 
-     - description: Others
+          - <a href="https://arxiv.org/abs/2203.02155">Training language models to follow instructions with human feedback</a>
+          - <a href="https://arxiv.org/abs/2211.10435">PAL&#58; Program-aided Language Models</a>
+          - <a href="https://arxiv.org/abs/2211.10435">DocPrompting&#58; Generating Code by Retrieving the Docs</a>
+      - description: Others
         list:
-          - <a href="https://arxiv.org/abs/2307.13854">WebArena&#58; A Realistic Web Environment for Building Autonomous Agents</a> 
+          - <a href="https://arxiv.org/abs/2307.13854">WebArena&#58; A Realistic Web Environment for Building Autonomous Agents</a>
     event:
     due:
   - date: Apr 16
@@ -335,7 +335,7 @@ schedule:
     week:
     topic:
       - title: Principles of Reasoning&#58; Designing Compositional and Collaborative Generative AIs (by William Wang, UCSB, on Apr 18)
-        slides: 
+        slides:
       - title: LLM alignment (by Ruiqi Zhong, UC Berkeley)
         slides:
     material:
@@ -343,11 +343,11 @@ schedule:
         list:
           - <a href="https://arxiv.org/abs/2211.03540">Measuring Progress on Scalable Oversight for Large Language Models</a>
           - <a href="https://arxiv.org/abs/2206.05802">Self-critiquing models for assisting human evaluators</a>
-          - <a href="https://arxiv.org/abs/2109.10862">Recursively Summarizing Books with Human Feedback</a> 
+          - <a href="https://arxiv.org/abs/2109.10862">Recursively Summarizing Books with Human Feedback</a>
       - description: Others
         list:
-          - <a href="https://ruiqizhong.substack.com/p/explaining-ai-alignment-as-an-nlper">Explaining AI Alignment as an NLPer and Why I am Working on It</a> 
-          - <a href="https://www.anthropic.com/news/core-views-on-ai-safety">Core Views on AI Safety&#58; When, Why, What, and How</a> 
+          - <a href="https://ruiqizhong.substack.com/p/explaining-ai-alignment-as-an-nlper">Explaining AI Alignment as an NLPer and Why I am Working on It</a>
+          - <a href="https://www.anthropic.com/news/core-views-on-ai-safety">Core Views on AI Safety&#58; When, Why, What, and How</a>
     event:
     due:
   - date: Apr 23
@@ -368,7 +368,7 @@ schedule:
     due:
   - date: Apr 30
     week: Week 16
-    topic: 
+    topic:
       - title: 'No class (Revision)'
         slides:
     material:
