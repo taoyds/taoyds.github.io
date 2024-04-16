@@ -323,7 +323,7 @@ schedule:
     week: Week 14
     topic:
       - title: Efficient LM methods (by Bailin Wang, MIT)
-        slides:
+        slides: /assets/courses/COMP3361-talk04.pdf
     material:
       - description: Readings
         list:
@@ -334,7 +334,7 @@ schedule:
   - date: Apr 19
     week:
     topic:
-      - title: Principles of Reasoning: Designing Compositional and Collaborative Generative AIs (by William Wang, UCSB, on Apr 18)
+      - title: Principles of Reasoning&#58; Designing Compositional and Collaborative Generative AIs (by William Wang, UCSB, on Apr 18)
         slides: 
       - title: LLM alignment (by Ruiqi Zhong, UC Berkeley)
         slides:
