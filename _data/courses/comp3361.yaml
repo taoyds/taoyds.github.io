@@ -298,11 +298,12 @@ schedule:
           - <a href="https://lilianweng.github.io/posts/2023-06-23-agent/">LLM Powered Autonomous Agents</a>
           - <a href="">OSWorld&#58; Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments</a>
     event:
+    due:
   - date: Apr 12
     week:
     topic:
       - title: Solving Real-World Tasks with AI Agents (by Shuyan Zhou, CMU)
-        slides:
+        slides: /assets/courses/COMP3361-talk03.pdf
       - title: Instruction tuning for LLMs (by Yizhong Wang, UW)
         slides: /assets/courses/COMP3361-talk04.pdf
     material:
@@ -322,7 +323,7 @@ schedule:
     week: Week 14
     topic:
       - title: Efficient LM methods (by Bailin Wang, MIT)
-        slides:
+        slides: /assets/courses/COMP3361-talk05.pdf
     material:
       - description: Readings
         list:
@@ -333,6 +334,8 @@ schedule:
   - date: Apr 19
     week:
     topic:
+      - title: Principles of Reasoning&#58; Designing Compositional and Collaborative Generative AIs (by William Wang, UCSB, on Apr 18)
+        slides: 
       - title: LLM alignment (by Ruiqi Zhong, UC Berkeley)
         slides:
     material:
