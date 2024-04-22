@@ -353,17 +353,29 @@ schedule:
   - date: Apr 23
     week: Week 15
     topic:
-      - title: LLMs in robotics and embodied interaction
+      - title: Multimodal language models/VLMs (by Yushi Hu, UW)
         slides:
     material:
+      - description: Readings
+        list:
+          - <a href="https://openai.com/research/clip">CLIP&#58; Connecting text and images</a>
+          - <a href="https://huggingface.co/blog/vision_language_pretraining">A Dive into Vision-Language Models</a>
     event:
     due:
   - date: Apr 26
     week:
     topic:
-      - title: LLM parallel pretraining
+      - title: Robotics in the era of LLM/VLMs (by Ted Xiao, Google DeepMind, 2-3pm, 4/26)
         slides:
     material:
+      - description: Readings
+        list:
+          - <a href="https://say-can.github.io/">Do As I Can, Not As I Say&#58; Grounding Language in Robotic Affordances</a>
+          - <a href="https://robotics-transformer1.github.io/">RT-1&#58; Robotics Transformer for Real-World Control at Scale</a>
+      - description: Others
+        list:
+          - <a href="https://robotics-transformer2.github.io/">RT-2&#58; Vision-Language-Action Models</a>
+          - <a href="https://arxiv.org/abs/2311.14379">Robot Learning in the Era of Foundation Models&#58; A Survey</a>
     event:
     due:
   - date: Apr 30
