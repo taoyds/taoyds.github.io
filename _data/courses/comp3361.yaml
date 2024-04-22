@@ -337,7 +337,7 @@ schedule:
       - title: Principles of Reasoning&#58; Designing Compositional and Collaborative Generative AIs (by William Wang, UCSB, on Apr 18)
         slides:
       - title: LLM alignment (by Ruiqi Zhong, UC Berkeley)
-        slides:
+        slides: /assets/courses/COMP3361-talk06.pdf
     material:
       - description: Readings
         list:
