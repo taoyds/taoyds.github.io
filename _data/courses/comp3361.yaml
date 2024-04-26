@@ -365,8 +365,8 @@ schedule:
   - date: Apr 26
     week:
     topic:
-      - title: Robotics in the era of LLM/VLMs (by Ted Xiao, Google DeepMind, 2-3pm, 4/26)
-        slides:
+      - title: Robotics in the era of LLM/VLMs (by Ted Xiao, Google DeepMind)
+        slides: https://docs.google.com/presentation/d/1UuRtZzoY_jq6z98gMwW-SGfCpVYK0UnVnP1OZdzHLEI/edit?usp=sharing
     material:
       - description: Readings
         list:
