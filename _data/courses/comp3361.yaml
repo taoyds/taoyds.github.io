@@ -354,7 +354,7 @@ schedule:
     week: Week 15
     topic:
       - title: Multimodal language models/VLMs (by Yushi Hu, UW)
-        slides:
+        slides: /assets/courses/COMP3361-talk07.pdf
     material:
       - description: Readings
         list:
