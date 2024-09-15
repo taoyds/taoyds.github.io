@@ -12,7 +12,7 @@ schedule:
     week: Week 2
     topic:
       - title: Introduction (Tao Yu)
-        slides:
+        slides: /assets/courses/DATA8005-24fall-lec01.pdf
     material:
     event:
     due:
