@@ -22,7 +22,7 @@ schedule:
       - title: 
         slides: 
     material:
-    event:
+    event: <a href="https://docs.google.com/spreadsheets/d/1Cb531jMBokaOoUT807h3E8Rp3EWgYTu5zQehoAc3bVs/edit?usp=sharing"> Registration</a> Out
     due:
   - date: Sep 27
     week: Week 4
