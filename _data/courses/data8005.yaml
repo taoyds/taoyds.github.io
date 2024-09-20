@@ -14,14 +14,31 @@ schedule:
       - title: Introduction (Tao Yu)
         slides: /assets/courses/DATA8005-24fall-lec01.pdf
     material:
+      - description: Readings
+        list:
+          - <a href="https://www.amacad.org/publication/human-language-understanding-reasoning">Human Language Understanding & Reasoning</a>
+          - <a href="https://www.cs.columbia.edu/~mcollins/lm-spring2013.pdf">M. Collins, Notes 1</a>
     event:
     due:
   - date: Sep 20
     week: Week 3
     topic:
-      - title: 
-        slides: 
+      - title: Introduction to LLMs (Tao Yu)
+        slides: /assets/courses/DATA8005-24fall-lec02.pdf
     material:
+      - description: Readings
+        list:
+          - <a href="https://web.stanford.edu/~jurafsky/slp3/7.pdf">J & M 7.3-7.5</a>
+          - <a href="https://arxiv.org/abs/1508.07909">Byte-pair encoding paper</a>
+          - <a href="https://arxiv.org/pdf/1706.03762.pdf">Attention Is All You Need</a>
+          - <a href="https://arxiv.org/pdf/2005.14165.pdf">Language Models are Few-Shot Learners (GPT-3)</a>
+      - description: Others
+        list:
+          - <a href="https://www.youtube.com/watch?v=zduSFxRajkE">Talk on the GPT Tokenizer by Andrej Karpathy</a>
+          - <a href="https://nlp.seas.harvard.edu/2018/04/03/attention.html">The Annotated Transformer</a>
+          - <a href="https://arxiv.org/abs/2001.08361">Scaling Laws for Neural Language Models</a>
+          - <a href="https://arxiv.org/abs/2201.11903">Chain-of-Thought Prompting Elicits Reasoning in Large Language Models</a>
+          - <a href="https://www.youtube.com/watch?v=kCc8FmEb1nY">Talk on building GPT&#58; from scratch, in code, spelled out by Andrej Karpathy</a>
     event: <a href="https://docs.google.com/spreadsheets/d/1Cb531jMBokaOoUT807h3E8Rp3EWgYTu5zQehoAc3bVs/edit?usp=sharing"> Registration</a> Out
     due:
   - date: Sep 27
