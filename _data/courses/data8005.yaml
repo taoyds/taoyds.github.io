@@ -44,9 +44,15 @@ schedule:
   - date: Sep 27
     week: Week 4
     topic:
-      - title:
-        slides:
+      - title: Introduction to LLMs (Tao Yu)
+        slides: 
+      - title: The Llama 3 Herd of Models
+        slides: 
     material:
+      - description: Readings
+        list:
+          - <a href="https://arxiv.org/abs/2407.21783">The Llama 3 Herd of Models</a>
+          - <a href="https://arxiv.org/abs/2408.00118">Gemma 2&#58; Improving Open Language Models at a Practical Size</a>
     event:
     due:
   - date: Oct 4
