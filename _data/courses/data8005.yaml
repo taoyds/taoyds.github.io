@@ -45,9 +45,9 @@ schedule:
     week: Week 4
     topic:
       - title: Introduction to LLMs (Tao Yu)
-        slides: 
+        slides: /assets/courses/DATA8005-24fall-lec03-1.pdf
       - title: The Llama 3 Herd of Models
-        slides: 
+        slides: /assets/courses/DATA8005-24fall-lec03-2.pdf
     material:
       - description: Readings
         list:
@@ -63,6 +63,14 @@ schedule:
       - title: LM data and evaluation (Jianrui Wu, Tianle Li)
         slides:
     material:
+      - description: Readings
+        list:
+          - <a href="https://arxiv.org/abs/2407.21783">The Llama 3 Herd of Models</a> (post-training part only)
+          - <a href="https://arxiv.org/abs/2212.10560">Self-Instruct 2&#58; Aligning Language Model with Self-Generated Instructions</a>
+          - <a href="https://arxiv.org/abs/2110.08207">Multitask Prompted Training Enables Zero-Shot Task Generalization</a>
+          - <a href="https://arxiv.org/abs/2406.17557">The FineWeb Datasets 2&#58; Decanting the Web for the Finest Text Data at Scale</a>
+          - <a href="https://arxiv.org/abs/2305.10429">DoReMi 2&#58; Optimizing Data Mixtures Speeds Up Language Model Pretraining</a>
+          - <a href="https://arxiv.org/abs/2403.04132">Chatbot Arena 2&#58; An Open Platform for Evaluating LLMs by Human Preference</a>
     event:
     due:
   - date: Oct 11
