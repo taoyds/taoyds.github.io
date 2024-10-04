@@ -58,7 +58,9 @@ schedule:
   - date: Oct 4
     week: Week 5
     topic:
-      - title:
+      - title: LM post-training 2&#58; SFT, instruction tuning (Sihui Ji, Tianzhe Chu)
+        slides:
+      - title: LM data and evaluation (Jianrui Wu, Tianle Li)
         slides:
     material:
     event:
@@ -82,7 +84,9 @@ schedule:
   - date: Oct 25
     week: Week 8
     topic:
-      - title:
+      - title: LM safety, bias, and privacy (Yifeng Lin, Pinglu Gong, Fengyi Xu)
+        slides:
+      - title: LM post-training 2&#58; alignment, RLHF/DPO (Runhui Huang, Yiyang Wang)
         slides:
     event:
     due:
