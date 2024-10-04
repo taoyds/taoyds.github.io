@@ -72,7 +72,7 @@ schedule:
           - <a href="https://arxiv.org/abs/2305.10429">DoReMi 2&#58; Optimizing Data Mixtures Speeds Up Language Model Pretraining</a>
           - <a href="https://arxiv.org/abs/2403.04132">Chatbot Arena 2&#58; An Open Platform for Evaluating LLMs by Human Preference</a>
     event:
-    due:
+    due: <a href="https://docs.google.com/spreadsheets/d/1Cb531jMBokaOoUT807h3E8Rp3EWgYTu5zQehoAc3bVs/edit?usp=sharing">Project registration</a> <font color="red"><b>Due</b></font>
   - date: Oct 11
     week: Week 6
     topic:
