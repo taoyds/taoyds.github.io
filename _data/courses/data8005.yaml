@@ -96,6 +96,15 @@ schedule:
         slides:
       - title: LM post-training 2&#58; alignment, RLHF/DPO (Runhui Huang, Yiyang Wang)
         slides:
+    material:
+      - description: Readings
+        list:
+          - <a href="https://arxiv.org/abs/2310.08419">Jailbreaking Black Box Large Language Models in Twenty Queries</a>
+          - <a href="https://arxiv.org/abs/2012.07805">Extracting Training Data from Large Language Models</a>
+          - <a href="https://arxiv.org/abs/2307.15043">Universal and Transferable Adversarial Attacks on Aligned Language Models</a>
+          - <a href="https://arxiv.org/abs/2203.02155">Training language models to follow instructions with human feedback</a>
+          - <a href="https://arxiv.org/abs/1707.06347">Proximal Policy Optimization Algorithms</a>
+          - <a href="https://arxiv.org/abs/2305.18290">Direct Preference Optimization 2&#58; Your Language Model is Secretly a Reward Model</a>
     event:
     due:
   - date: Nov 1
