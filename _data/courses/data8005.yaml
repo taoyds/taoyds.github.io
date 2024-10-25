@@ -52,7 +52,7 @@ schedule:
       - description: Readings
         list:
           - <a href="https://arxiv.org/abs/2407.21783">The Llama 3 Herd of Models</a>
-          - <a href="https://arxiv.org/abs/2408.00118">Gemma 2&#58; Improving Open Language Models at a Practical Size</a>
+          - <a href="https://arxiv.org/abs/2408.00118">Gemma 2 &#58; Improving Open Language Models at a Practical Size</a>
     event:
     due:
   - date: Oct 4
@@ -66,11 +66,11 @@ schedule:
       - description: Readings
         list:
           - <a href="https://arxiv.org/abs/2407.21783">The Llama 3 Herd of Models</a> (post-training part only)
-          - <a href="https://arxiv.org/abs/2212.10560">Self-Instruct 2&#58; Aligning Language Model with Self-Generated Instructions</a>
+          - <a href="https://arxiv.org/abs/2212.10560">Self-Instruct &#58; Aligning Language Model with Self-Generated Instructions</a>
           - <a href="https://arxiv.org/abs/2110.08207">Multitask Prompted Training Enables Zero-Shot Task Generalization</a>
-          - <a href="https://arxiv.org/abs/2406.17557">The FineWeb Datasets 2&#58; Decanting the Web for the Finest Text Data at Scale</a>
-          - <a href="https://arxiv.org/abs/2305.10429">DoReMi 2&#58; Optimizing Data Mixtures Speeds Up Language Model Pretraining</a>
-          - <a href="https://arxiv.org/abs/2403.04132">Chatbot Arena 2&#58; An Open Platform for Evaluating LLMs by Human Preference</a>
+          - <a href="https://arxiv.org/abs/2406.17557">The FineWeb Datasets &#58; Decanting the Web for the Finest Text Data at Scale</a>
+          - <a href="https://arxiv.org/abs/2305.10429">DoReMi &#58; Optimizing Data Mixtures Speeds Up Language Model Pretraining</a>
+          - <a href="https://arxiv.org/abs/2403.04132">Chatbot Arena &#58; An Open Platform for Evaluating LLMs by Human Preference</a>
     event:
     due: <a href="https://docs.google.com/spreadsheets/d/1Cb531jMBokaOoUT807h3E8Rp3EWgYTu5zQehoAc3bVs/edit?usp=sharing">Project registration</a> <font color="red"><b>Due</b></font>
   - date: Oct 11
@@ -117,11 +117,11 @@ schedule:
     material:
       - description: Readings
         list:
-          - <a href="https://arxiv.org/abs/2106.09685">LoRA 2&#58; Low-Rank Adaptation of Large Language Models</a>
-          - <a href="https://arxiv.org/abs/2305.14314">QLoRA 2&#58; Efficient Finetuning of Quantized LLMs</a>
+          - <a href="https://arxiv.org/abs/2106.09685">LoRA &#58; Low-Rank Adaptation of Large Language Models</a>
+          - <a href="https://arxiv.org/abs/2305.14314">QLoRA &#58; Efficient Finetuning of Quantized LLMs</a>
           - <a href="https://arxiv.org/abs/2405.09673">LoRA Learns Less and Forgets Less</a>
-          - <a href="https://arxiv.org/abs/2205.14135">FlashAttention 2&#58; Fast and Memory-Efficient Exact Attention with IO-Awareness</a>
-          - <a href="https://arxiv.org/abs/2312.00752">Mamba 2&#58; Linear-Time Sequence Modeling with Selective State Spaces</a>
+          - <a href="https://arxiv.org/abs/2205.14135">FlashAttention &#58; Fast and Memory-Efficient Exact Attention with IO-Awareness</a>
+          - <a href="https://arxiv.org/abs/2312.00752">Mamba &#58; Linear-Time Sequence Modeling with Selective State Spaces</a>
           - <a href="https://github.com/stanford-cs336/spring2024-lectures/blob/main/nonexecutable/Lecture%204%20-%20details%20%2B%20MoEs.pdf">Overview on Mixture of Experts</a>
     event:
     due:
