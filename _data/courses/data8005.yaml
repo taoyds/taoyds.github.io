@@ -59,9 +59,9 @@ schedule:
     week: Week 5
     topic:
       - title: LM post-training 2&#58; SFT, instruction tuning (Sihui Ji, Tianzhe Chu)
-        slides:
+        slides: /assets/courses/DATA8005-24fall-lec04-1.pdf
       - title: LM data and evaluation (Jianrui Wu, Tianle Li)
-        slides:
+        slides: /assets/courses/DATA8005-24fall-lec04-2.pdf
     material:
       - description: Readings
         list:
