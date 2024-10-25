@@ -106,13 +106,23 @@ schedule:
           - <a href="https://arxiv.org/abs/1707.06347">Proximal Policy Optimization Algorithms</a>
           - <a href="https://arxiv.org/abs/2305.18290">Direct Preference Optimization 2&#58; Your Language Model is Secretly a Reward Model</a>
     event:
-    due:
+    due: Project proposal<font color="red"><b>Due</b></font>
   - date: Nov 1
     week: Week 9
     topic:
-      - title:
+      - title: Efficient LM adaptation (Sidi Yang, Yatai Ji, Jing Xiong)
+        slides:
+      - title: Efficient LM training (Qi Guicheng, Shen Che, Zijian Ye)
         slides:
     material:
+      - description: Readings
+        list:
+          - <a href="https://arxiv.org/abs/2106.09685">LoRA 2&#58; Low-Rank Adaptation of Large Language Models</a>
+          - <a href="https://arxiv.org/abs/2305.14314">QLoRA 2&#58; Efficient Finetuning of Quantized LLMs</a>
+          - <a href="https://arxiv.org/abs/2405.09673">LoRA Learns Less and Forgets Less</a>
+          - <a href="https://arxiv.org/abs/2205.14135">FlashAttention 2&#58; Fast and Memory-Efficient Exact Attention with IO-Awareness</a>
+          - <a href="https://arxiv.org/abs/2312.00752">Mamba 2&#58; Linear-Time Sequence Modeling with Selective State Spaces</a>
+          - <a href="https://github.com/stanford-cs336/spring2024-lectures/blob/main/nonexecutable/Lecture%204%20-%20details%20%2B%20MoEs.pdf">Overview on Mixture of Experts</a>
     event:
     due:
   - date: Nov 8
