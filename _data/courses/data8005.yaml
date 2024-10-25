@@ -106,7 +106,7 @@ schedule:
           - <a href="https://arxiv.org/abs/1707.06347">Proximal Policy Optimization Algorithms</a>
           - <a href="https://arxiv.org/abs/2305.18290">Direct Preference Optimization 2&#58; Your Language Model is Secretly a Reward Model</a>
     event:
-    due: Project proposal<font color="red"><b>Due</b></font>
+    due: Project proposal <font color="red"><b>Due</b></font>
   - date: Nov 1
     week: Week 9
     topic:
