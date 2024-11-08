@@ -93,9 +93,9 @@ schedule:
     week: Week 8
     topic:
       - title: LM safety, bias, and privacy (Yifeng Lin, Pinglu Gong, Fengyi Xu)
-        slides:
+        slides: /assets/courses/DATA8005-24fall-lec05-1.pdf
       - title: LM post-training 2&#58; alignment, RLHF/DPO (Runhui Huang, Yiyang Wang)
-        slides:
+        slides: /assets/courses/DATA8005-24fall-lec05-2.pdf
     material:
       - description: Readings
         list:
@@ -113,7 +113,7 @@ schedule:
       - title: Efficient LM adaptation (Sidi Yang, Yatai Ji, Jing Xiong)
         slides:
       - title: Efficient LM training (Qi Guicheng, Shen Che, Zijian Ye)
-        slides:
+        slides: /assets/courses/DATA8005-24fall-lec06-2.pdf
     material:
       - description: Readings
         list:
@@ -128,9 +128,19 @@ schedule:
   - date: Nov 8
     week: Week 10
     topic:
-      - title:
-        slides:
+      - title: Multimodal LMs 1 (Chenming Zhu, Pei Zhou, Yi Zhang)
+        slides: /assets/courses/DATA8005-24fall-lec07-1.pdf
+      - title: Multimodal LMs 2 (Mengzhao Chen, Tianshuo Yang, Chengqi Duan)
+        slides: /assets/courses/DATA8005-24fall-lec07-2.pdf
     material:
+      - description: Readings
+        list:
+          - <a href="https://arxiv.org/abs/2103.00020">Learning Transferable Visual Models From Natural Language Supervision</a>
+          - <a href="https://arxiv.org/abs/2204.14198">Flamingo &#58; a Visual Language Model for Few-Shot Learning</a>
+          - <a href="https://arxiv.org/abs/2304.08485">Visual Instruction Tuning</a>
+          - <a href="https://arxiv.org/abs/2409.12191">Qwen2-VL &#58; Enhancing Vision-Language Model Perception of the World at Any Resolution</a>
+          - <a href="https://arxiv.org/abs/2405.09818">Chameleon &#58; Mixed-Modal Early-Fusion Foundation Models</a>
+          - <a href="https://arxiv.org/abs/2112.10741">GLIDE &#58; Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models</a>
     event:
     due:
   - date: Nov 15
