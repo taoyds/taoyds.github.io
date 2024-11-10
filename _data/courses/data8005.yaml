@@ -111,7 +111,7 @@ schedule:
     week: Week 9
     topic:
       - title: Efficient LM adaptation (Sidi Yang, Yatai Ji, Jing Xiong)
-        slides:
+        slides: /assets/courses/DATA8005-24fall-lec06-1.pdf
       - title: Efficient LM training (Qi Guicheng, Shen Che, Zijian Ye)
         slides: /assets/courses/DATA8005-24fall-lec06-2.pdf
     material:
