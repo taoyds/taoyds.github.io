@@ -146,9 +146,26 @@ schedule:
   - date: Nov 15
     week: Week 11
     topic:
-      - title:
+      - title: LLM/VLMs + Robotics 1 (Feng Chen, Ruizhe Liu)
+        slides: 
+      - title: LLM/VLMs + Robotics 2 (Yi Chen, Lu Qiu)
         slides:
     material:
+      - description: Readings
+        list:
+          - <a href="https://gen-sim.github.io/">GenSim &#58; Generating Robotic Simulation Tasks via Large Language Models</a>
+          - <a href="https://arxiv.org/abs/2311.01455">RoboGen &#58; Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation</a>
+          - <a href="https://rlvlmf2024.github.io/">RL-VLM-F &#58; Reinforcement Learning from Vision Language Foundation Model Feedback</a>
+          - <a href="https://openvla.github.io/">OpenVLA &#58; An Open-Source Vision-Language-Action Model</a>
+          - <a href="https://latentactionpretraining.github.io/">LAPA &#58; Latent Action Pretraining from Videos</a>
+          - <a href="https://say-can.github.io/">Do As I Can, Not As I Say &#58; Grounding Language in Robotic Affordances</a>
+          - <a href="https://arxiv.org/abs/2402.15391">Genie &#58; Generative Interactive Environments</a>
+          - <a href="https://arxiv.org/abs/2307.15818">RT-2 &#58; Vision-Language-Action Models Transfer Web Knowledge to Robotic Control</a>
+          - <a href="https://generative-value-learning.github.io/">Vision Language Models are In-Context Value Learners</a>
+      - description: Others
+        list:
+          - <a href="https://arxiv.org/abs/2312.08782">Toward General-Purpose Robots via Foundation Models &#58; A Survey and Meta-Analysis</a>
+          - <a href="https://www.youtube.com/live/Qhxr0uVT2zs">Project GR00T &#58; A Blueprint for Generalist Robotics - Jim Fan, NVIDIA </a>
     event:
     due:
   - date: Nov 22
