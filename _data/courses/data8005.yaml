@@ -147,9 +147,9 @@ schedule:
     week: Week 11
     topic:
       - title: LLM/VLMs + Robotics 1 (Feng Chen, Ruizhe Liu)
-        slides: 
+        slides: /assets/courses/DATA8005-24fall-lec08-1.pdf
       - title: LLM/VLMs + Robotics 2 (Yi Chen, Lu Qiu)
-        slides:
+        slides: /assets/courses/DATA8005-24fall-lec08-2.pdf
     material:
       - description: Readings
         list:
@@ -171,15 +171,25 @@ schedule:
   - date: Nov 22
     week: Week 12
     topic:
-      - title:
-        slides:
+      - title: LLM/VLMs as Agents (Xinyuan Wang, Bowen Wang)
+        slides: /assets/courses/DATA8005-24fall-lec09-1.pdf
+      - title: Agents in the digital and physical world (Tao Yu)
+        slides: 
     material:
+      - description: Readings
+        list:
+          - <a href="https://arxiv.org/abs/2210.03629">ReAct &#58; Synergizing Reasoning and Acting in Language Models</a>
+          - <a href="https://os-world.github.io/">OSWorld &#58; Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments</a>
+          - <a href="https://arxiv.org/abs/2411.02391">Attacking Vision-Language Computer Agents via Pop-ups</a>
+          - <a href="https://arxiv.org/abs/2206.11795">Video PreTraining (VPT) &#58; Learning to Act by Watching Unlabeled Online Videos</a>
+          - <a href="https://language-agent-tutorial.github.io/">EMNLP 2024 Tutorial on Language Agents &#58; Foundations, Prospects, and Risks</a>
+          - <a href="https://arxiv.org/abs/2407.01502">AI Agents That Matter</a>
     event:
     due:
   - date: Nov 29
     week: Week 13
     topic:
-      - title:
+      - title: Embodied AI (Guest lecture: Yanchao Yang)
         slides: 
     material:
     event:
