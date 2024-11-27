@@ -2,19 +2,70 @@ papers:
 
   - title: "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments"
     authors: "Tianbao Xie, Danyang Zhang, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao, Toh Jing Hua, Zhoujun Cheng, Dongchan Shin, Fangyu Lei, Yitao Liu, Yiheng Xu, Shuyan Zhou, Silvio Savarese, Caiming Xiong, Victor Zhong, <b>Tao Yu</b>"
-    venue: "<b>Preprint 2024</b>"
+    venue: "<b>NeurIPS 2024</b>", ~1.5k GitHub stars
     paper_pdf: "https://arxiv.org/abs/2404.07972"
     code: "https://github.com/xlang-ai/OSWorld"
     poster: "https://os-world.github.io/"
     selected: y
+
+  - title: "Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows"
+    authors: "Fangyu Lei, Jixuan Chen, Yuxiao Ye, Ruisheng Cao, Dongchan Shin, Hongjin Su, Zhaoqing Suo, Hongcheng Gao, Wenjing Hu, Pengcheng Yin, Victor Zhong, Caiming Xiong, Ruoxi Sun, Qian Liu, Sida Wang, <b>Tao Yu</b>"
+    venue: "<b>Preprint 2024</b>"
+    paper_pdf: "https://www.arxiv.org/abs/2411.07763"
+    code: "https://github.com/xlang-ai/Spider2"
+    poster: "https://spider2-sql.github.io/"
+    selected: y
+
+  - title: "Attacking Vision-Language Computer Agents via Pop-ups"
+    authors: "Yanzhe Zhang, <b>Tao Yu</b>, Diyi Yang"
+    venue: "<b>Preprint 2024</b>"
+    paper_pdf: "https://arxiv.org/abs/2411.02391"
+    selected: y
+
+  - title: "BRIGHT: A Realistic and Challenging Benchmark for Reasoning-Intensive Retrieval"
+    authors: "Hongjin Su, Howard Yen, Mengzhou Xia, Weijia Shi, Niklas Muennighoff, Han-yu Wang, Haisu Liu, Quan Shi, Zachary S. Siegel, Michael Tang, Ruoxi Sun, Jinsung Yoon, Sercan O. Arik, Danqi Chen, <b>Tao Yu</b>"
+    venue: "<b>Preprint 2024</b>"
+    paper_pdf: "https://arxiv.org/abs/2407.12883"
+    code: "https://github.com/xlang-ai/BRIGHT"
+    poster: "https://brightbenchmark.github.io/"
+    selected: y
+
+  - title: "Generative Representational Instruction Tuning"
+    authors: "Niklas Muennighoff, Hongjin Su, Liang Wang, Nan Yang, Furu Wei, <b>Tao Yu</b>, Amanpreet Singh, Douwe Kiela"
+    venue: "<b>Preprint 2024</b>"
+    paper_pdf: "https://arxiv.org/abs/2402.09906"
+    code: "https://github.com/ContextualAI/gritlm"
+    selected: y
+    
+ - title: "Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?"
+    authors: "Ruisheng Cao, Fangyu Lei, Haoyuan Wu, Jixuan Chen, Yeqiao Fu, Hongcheng Gao, Xinzhuang Xiong, Hanchong Zhang, Yuchen Mao, Wenjing Hu, Tianbao Xie, Hongshen Xu, Danyang Zhang, Sida Wang, Ruoxi Sun, Pengcheng Yin, Caiming Xiong, Ansong Ni, Qian Liu, Victor Zhong, Lu Chen, Kai Yu, <b>Tao Yu</b>"
+    venue: "<b>NeurIPS 2024, Spotlight</b>"
+    paper_pdf: "https://arxiv.org/abs/2407.10956"
+    code: "https://github.com/xlang-ai/Spider2-V"
+    poster: "https://spider2-v.github.io/"
+    selected: y
     
   - title: "OpenAgents: An Open Platform for Language Agents in the Wild"
     authors: "Tianbao Xie*, Fan Zhou*, Zhoujun Cheng*, Peng Shi*, Luoxuan Weng*, Yitao Liu*, Toh Jing Hua, Junning Zhao, Qian Liu, Che Liu, Leo Z. Liu, Yiheng Xu, Hongjin Su, Dongchan Shin, Caiming Xiong, <b>Tao Yu</b>"
-    venue: "<b>Preprint 2023</b>"
+    venue: "<b>COLM 2024</b>", ~4k GitHub stars
     paper_pdf: "https://arxiv.org/abs/2310.10634"
     code: "https://github.com/xlang-ai/OpenAgents"
     poster: "https://www.xlang.ai/blog/xlang-intro"
     selected: y
+    
+  - title: "Does Collaborative Human-LM Dialogue Generation Help Information Extraction from Human Dialogues?"
+    authors: "Bo-Ru Lu, Nikita Haduong, Chia-Hsuan Lee, Zeqiu Wu, Hao Cheng, Paul Koester, Jean Utke, <b>Tao Yu</b>, Noah A. Smith, Mari Ostendorf"
+    venue: "<b>EMNLP 2024, Findings</b>"
+    paper_pdf: "https://arxiv.org/abs/2402.12317"
+    selected: n
+    
+  - title: "EvoR: Evolving Retrieval for Code Generation"
+    authors: "Hongjin Su, Shuyang Jiang, Yuhang Lai, Haoyuan Wu, Boao Shi, Che Liu, Qian Liu, <b>Tao Yu</b>"
+    venue: "<b>COLM 2024</b>"
+    paper_pdf: "https://arxiv.org/abs/2307.07047"
+    code: "https://github.com/xlang-ai/arks"
+    poster: "https://arks-codegen.github.io/"
+    selected: n
 
   - title: "Lemur: Harmonizing Natural Language and Code for Language Agents"
     authors: "Yiheng Xu*, Hongjin Su*, Chen Xing*, Boyu Mi, Qian Liu, Weijia Shi, Binyuan Hui, Fan Zhou, Yitao Liu, Tianbao Xie, Zhoujun Cheng, Siheng Zhao, Lingpeng Kong, Bailin Wang, Caiming Xiong, <b>Tao Yu</b>"
@@ -34,7 +85,7 @@ papers:
 
   - title: "One Embedder, Any Task: Instruction-Finetuned Text Embeddings"
     authors: "Hongjin Su*, Weijia Shi*, Jungo Kasai, Yizhong Wang, Yushi Hu, Mari Ostendorf, Wen-tau Yih, Noah A Smith, Luke Zettlemoyer, <b>Tao Yu</b>"
-    venue: "<b>ACL Findings 2023</b>"
+    venue: "<b>ACL Findings 2023</b>", ~4.5M downloads on HuggingFace, ~2k GitHub stars
     paper_pdf: "https://arxiv.org/abs/2212.09741"
     code: "https://github.com/HKUNLP/instructor-embedding"
     poster: "https://instructor-embedding.github.io"
@@ -79,10 +130,17 @@ papers:
     code: "https://github.com/HKUNLP/icl-selective-annotation"
     poster: "https://twitter.com/wittgen_ball/status/1568302230490730497"
     selected: y
+
+  - title: "Automated Self-Supervised Learning for Recommendation"
+    authors: "Lianghao Xia, Chao Huang, Chunzhen Huang, Kangyi Lin, <b>Tao Yu</b>, Ben Kao"
+    venue: "<b>WWW 2023</b>"
+    paper_pdf: "https://arxiv.org/abs/2303.07797"
+    code: "https://github.com/HKUDS/AutoCF"
+    selected: n
     
   - title: "UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models"
     authors: "Tianbao Xie*, Chen Henry Wu*, Peng Shi, Ruiqi Zhong, Torsten Scholak, Michihiro Yasunaga, Chien-Sheng Wu, Ming Zhong, Pengcheng Yin, Sida Wang, Victor Zhong, Bailin Wang, Chengzu Li, Connor Boyle, Ansong Ni, Ziyu Yao, Dragomir Radev, Caiming Xiong, Lingpeng Kong, Rui Zhang, Noah A. Smith, Luke Zettlemoyer, <b>Tao Yu</b>"
-    venue: "<b>EMNLP 2022</b>"
+    venue: "<b>EMNLP 2022, Oral</b>"
     paper_pdf: "https://arxiv.org/abs/2201.05966"
     code: "https://github.com/hkunlp/unifiedskg"
     poster: "https://unifiedskg.com/"
