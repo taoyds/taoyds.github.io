@@ -2,7 +2,7 @@ papers:
 
   - title: "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments"
     authors: "Tianbao Xie, Danyang Zhang, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao, Toh Jing Hua, Zhoujun Cheng, Dongchan Shin, Fangyu Lei, Yitao Liu, Yiheng Xu, Shuyan Zhou, Silvio Savarese, Caiming Xiong, Victor Zhong, <b>Tao Yu</b>"
-    venue: "<b>NeurIPS 2024</b>", ~1.5k GitHub stars
+    venue: "<b>NeurIPS 2024</b>, ~1.5k GitHub stars"
     paper_pdf: "https://arxiv.org/abs/2404.07972"
     code: "https://github.com/xlang-ai/OSWorld"
     poster: "https://os-world.github.io/"
@@ -47,7 +47,7 @@ papers:
     
   - title: "OpenAgents: An Open Platform for Language Agents in the Wild"
     authors: "Tianbao Xie*, Fan Zhou*, Zhoujun Cheng*, Peng Shi*, Luoxuan Weng*, Yitao Liu*, Toh Jing Hua, Junning Zhao, Qian Liu, Che Liu, Leo Z. Liu, Yiheng Xu, Hongjin Su, Dongchan Shin, Caiming Xiong, <b>Tao Yu</b>"
-    venue: "<b>COLM 2024</b>", ~4k GitHub stars
+    venue: "<b>COLM 2024</b>, ~4k GitHub stars"
     paper_pdf: "https://arxiv.org/abs/2310.10634"
     code: "https://github.com/xlang-ai/OpenAgents"
     poster: "https://www.xlang.ai/blog/xlang-intro"
@@ -85,7 +85,7 @@ papers:
 
   - title: "One Embedder, Any Task: Instruction-Finetuned Text Embeddings"
     authors: "Hongjin Su*, Weijia Shi*, Jungo Kasai, Yizhong Wang, Yushi Hu, Mari Ostendorf, Wen-tau Yih, Noah A Smith, Luke Zettlemoyer, <b>Tao Yu</b>"
-    venue: "<b>ACL Findings 2023</b>", ~4.5M downloads on HuggingFace, ~2k GitHub stars
+    venue: "<b>ACL Findings 2023</b>, ~4.5M downloads on HuggingFace, ~2k GitHub stars"
     paper_pdf: "https://arxiv.org/abs/2212.09741"
     code: "https://github.com/HKUNLP/instructor-embedding"
     poster: "https://instructor-embedding.github.io"
@@ -203,7 +203,7 @@ papers:
 
   - title: "An Exploratory Study on Long Dialogue Summarization: What Works and What's Next"
     authors: "Yusen Zhang*, Ansong Ni*, <b>Tao Yu</b>, Rui Zhang, Chenguang Zhu, Budhaditya Deb, Asli Celikyilmaz, Ahmed Hassan Awadallah, Dragomir Radev"
-    venue: "<b>EMNLP Findings 2021</b>. Short Paper"
+    venue: "<b>EMNLP Findings 2021</b>, Short Paper"
     paper_pdf: "https://arxiv.org/abs/2109.04609"
     code: "https://github.com/chatc/LongDialSumm"
     selected: n
@@ -303,7 +303,7 @@ papers:
 
   - title: "<i>Spider</i>: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task"
     authors: "<b>Tao Yu</b>, Rui Zhang, Kai Yang, Michihiro Yasunaga, Dongxu Wang, Zifan Li, James Ma, Irene Li, Qingning Yao, Shanelle Roman, Zilin Zhang and Dragomir Radev"
-    venue: "<b>EMNLP 2018</b>"
+    venue: "<b>EMNLP 2018</b>, ~300 submissions, ~1k Github stars"
     paper_pdf: "https://arxiv.org/abs/1809.08887"
     code: "https://github.com/taoyds/spider"
     data: "https://yale-lily.github.io/spider"
@@ -319,7 +319,7 @@ papers:
 
   - title: "<i>TypeSQL</i>: Knowledge-based Type-Aware Neural Text-to-SQL Generation"
     authors: "<b>Tao Yu</b>, Zifan Li, Zilin Zhang, Rui Zhang, Dragomir Radev"
-    venue: "<b>NAACL 2018</b>. Short Paper"
+    venue: "<b>NAACL 2018</b>, Short Paper"
     paper_pdf: "https://arxiv.org/abs/1804.09769"
     code: "https://github.com/taoyds/typesql"
     selected: n
