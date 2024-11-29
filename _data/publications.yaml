@@ -2,7 +2,7 @@ papers:
 
   - title: "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments"
     authors: "Tianbao Xie, Danyang Zhang, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao, Toh Jing Hua, Zhoujun Cheng, Dongchan Shin, Fangyu Lei, Yitao Liu, Yiheng Xu, Shuyan Zhou, Silvio Savarese, Caiming Xiong, Victor Zhong, <b>Tao Yu</b>"
-    venue: "<b>NeurIPS 2024</b>, 1.5k GitHub stars"
+    venue: "<b>Preprint 2024</b>"
     paper_pdf: "https://arxiv.org/abs/2404.07972"
     code: "https://github.com/xlang-ai/OSWorld"
     poster: "https://os-world.github.io/"
