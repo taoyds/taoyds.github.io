@@ -1,0 +1,43 @@
+.course {
+  font-size: 14px;
+  margin-top: 40px;
+}
+
+.course h1 {
+  font-size: 30px;
+  font-weight: bold;
+  color: rgb(1, 86, 172);
+}
+
+.course h2 {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.course p {
+  margin: 8px 0 16px 0;
+}
+
+.course li {
+  margin: 0;
+}
+
+.course ul {
+  list-style-type: disc;
+}
+
+.course table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.course th,
+td {
+  text-align: left;
+  vertical-align: top;
+  padding: 10px;
+}
+
+.course thead tr {
+  background: rgba(0, 56, 113, 0.3);
+}

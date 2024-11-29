@@ -37,7 +37,7 @@ papers:
     code: "https://github.com/ContextualAI/gritlm"
     selected: y
     
- - title: "Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?"
+  - title: "Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?"
     authors: "Ruisheng Cao, Fangyu Lei, Haoyuan Wu, Jixuan Chen, Yeqiao Fu, Hongcheng Gao, Xinzhuang Xiong, Hanchong Zhang, Yuchen Mao, Wenjing Hu, Tianbao Xie, Hongshen Xu, Danyang Zhang, Sida Wang, Ruoxi Sun, Pengcheng Yin, Caiming Xiong, Ansong Ni, Qian Liu, Victor Zhong, Lu Chen, Kai Yu, <b>Tao Yu</b>"
     venue: "<b>NeurIPS 2024, Spotlight</b>"
     paper_pdf: "https://arxiv.org/abs/2407.10956"
