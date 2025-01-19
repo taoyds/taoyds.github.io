@@ -9,11 +9,27 @@ papers:
     selected: y
 
   - title: "Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows"
-    authors: "Fangyu Lei, Jixuan Chen, Yuxiao Ye, Ruisheng Cao, Dongchan Shin, Hongjin Su, Zhaoqing Suo, Hongcheng Gao, Wenjing Hu, Pengcheng Yin, Victor Zhong, Caiming Xiong, Ruoxi Sun, Qian Liu, Sida Wang, <b>Tao Yu</b>"
+    authors: "Fangyu Lei*, Jixuan Chen*, Yuxiao Ye, Ruisheng Cao, Dongchan Shin, Hongjin Su, Zhaoqing Suo, Hongcheng Gao, Wenjing Hu, Pengcheng Yin, Victor Zhong, Caiming Xiong, Ruoxi Sun, Qian Liu, Sida Wang, <b>Tao Yu</b>"
     venue: "<b>Preprint 2024</b>"
     paper_pdf: "https://www.arxiv.org/abs/2411.07763"
     code: "https://github.com/xlang-ai/Spider2"
     poster: "https://spider2-sql.github.io/"
+    selected: y
+
+- title: "Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction"
+    authors: "Yiheng Xu*, Zekun Wang*, Junli Wang*, Dunjie Lu, Tianbao Xie, Amrita Saha, Doyen Sahoo, <b>Tao Yu</b>, Caiming Xiong"
+    venue: "<b>Preprint 2024</b>"
+    paper_pdf: "https://arxiv.org/abs/2412.04454"
+    code: "https://github.com/xlang-ai/aguvis"
+    poster: "hhttps://aguvis-project.github.io"
+    selected: y
+
+- title: "AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials"
+    authors: "Yiheng Xu*, Dunjie Lu*, Zhennan Shen*, Junli Wang, Zekun Wang, Yuchen Mao, Caiming Xiong, <b>Tao Yu</b>"
+    venue: "<b>Preprint 2024</b>"
+    paper_pdf: "https://arxiv.org/abs/2412.09605"
+    code: "https://github.com/xlang-ai"
+    poster: "https://agenttrek.github.io"
     selected: y
 
   - title: "Attacking Vision-Language Computer Agents via Pop-ups"
@@ -61,7 +77,7 @@ papers:
     
   - title: "EvoR: Evolving Retrieval for Code Generation"
     authors: "Hongjin Su, Shuyang Jiang, Yuhang Lai, Haoyuan Wu, Boao Shi, Che Liu, Qian Liu, <b>Tao Yu</b>"
-    venue: "<b>COLM 2024</b>"
+    venue: "<b>EMNLP 2024</b>"
     paper_pdf: "https://arxiv.org/abs/2307.07047"
     code: "https://github.com/xlang-ai/arks"
     poster: "https://arks-codegen.github.io/"
@@ -151,7 +167,7 @@ papers:
     venue: "<b>EMNLP Findings 2022</b>"
     paper_pdf: "https://arxiv.org/abs/2203.08568"
     code: "https://github.com/Yushi-Hu/IC-DST"
-    selected: y
+    selected: n
     
   - title: "ZeroGen: Efficient Zero-shot Learning via Dataset Generation"
     authors: "Jiacheng Ye*, Jiahui Gao*, Qintong Li, Hang Xu, Jiangtao Feng, Zhiyong Wu, <b>Tao Yu</b>, Lingpeng Kong"
@@ -255,14 +271,14 @@ papers:
     venue: "<b>ICLR 2021</b>"
     paper_pdf: "https://arxiv.org/abs/2009.13845"
     code: "https://github.com/taoyds/grappa"
-    selected: y
+    selected: n
 
   - title: "Semantic Evaluation for Text-to-SQL with Distilled Test Suites"
     authors: "Ruiqi Zhong, <b>Tao Yu</b>, Dan Klein"
     venue: "<b>EMNLP 2020</b>"
     paper_pdf: "https://arxiv.org/abs/2010.02840"
     code: "https://github.com/ruiqi-zhong/TestSuiteEval"
-    selected: y
+    selected: n
 
   - title: "Did You Ask a Good Question? A Cross-Domain Question Intention Classification Benchmark for Text-to-SQL"
     authors: "Yusen Zhang, Xiangyu Dong, Shuaichen Chang, <b>Tao Yu</b>, Peng Shi, Rui Zhang"
