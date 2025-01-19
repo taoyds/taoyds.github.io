@@ -16,7 +16,7 @@ papers:
     poster: "https://spider2-sql.github.io/"
     selected: y
 
-- title: "Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction"
+  - title: "Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction"
     authors: "Yiheng Xu*, Zekun Wang*, Junli Wang*, Dunjie Lu, Tianbao Xie, Amrita Saha, Doyen Sahoo, <b>Tao Yu</b>, Caiming Xiong"
     venue: "<b>Preprint 2024</b>"
     paper_pdf: "https://arxiv.org/abs/2412.04454"
@@ -24,7 +24,7 @@ papers:
     poster: "hhttps://aguvis-project.github.io"
     selected: y
 
-- title: "AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials"
+  - title: "AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials"
     authors: "Yiheng Xu*, Dunjie Lu*, Zhennan Shen*, Junli Wang, Zekun Wang, Yuchen Mao, Caiming Xiong, <b>Tao Yu</b>"
     venue: "<b>Preprint 2024</b>"
     paper_pdf: "https://arxiv.org/abs/2412.09605"
