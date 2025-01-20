@@ -1,0 +1,23 @@
+schedule:
+  - date: Jan 21
+    week: Week 1
+    topic:
+      - title: Introduction
+        slides:
+    material:
+      - description: Readings
+        list:
+          - <a href="https://www.amacad.org/publication/human-language-understanding-reasoning">Human Language Understanding & Reasoning</a>
+          - <a href="https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf">DeepSeek-R1 Tech Report</a>
+    event:
+    due:
+  - date: Jan 24
+    week:
+    topic:
+      - title: 
+        slides: 
+    material:
+      - description: Readings
+        list:
+    event:
+    due:
