@@ -3,7 +3,7 @@ layout: course
 title: COMP3361
 description: Natural Language Processing
 style: course
-data_file_name: comp3361
+data_file_name: comp3361-24spring
 ---
 
 # COMP3361: Natural Language Processing
