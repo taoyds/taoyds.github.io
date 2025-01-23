@@ -13,8 +13,8 @@ schedule:
     due:
   - date: Jan 24
     week:
-    topic: Language modeling (n-gram language models)
-      - title: 
+    topic:
+      - title: Language modeling (n-gram language models)
         slides: /assets/courses/COMP3361-25spring-lec02.pdf
     material:
       - description: Readings
