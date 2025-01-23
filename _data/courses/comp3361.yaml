@@ -8,16 +8,34 @@ schedule:
       - description: Readings
         list:
           - <a href="https://www.amacad.org/publication/human-language-understanding-reasoning">Human Language Understanding & Reasoning</a>
-          - <a href="https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf">DeepSeek-R1 Tech Report</a>
+          - <a href="https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf">DeepSeek-R1 Tech Report (quick skim only)</a>
     event:
     due:
   - date: Jan 24
     week:
-    topic:
+    topic: Language modeling (n-gram language models)
       - title: 
-        slides: 
+        slides: /assets/courses/COMP3361-25spring-lec02.pdf
     material:
       - description: Readings
         list:
+          - <a href="https://www.cs.columbia.edu/~mcollins/lm-spring2013.pdf">M. Collins, Notes 1</a>
+          - <a href="https://web.stanford.edu/~jurafsky/slp3/7.pdf">J&M Ch. 7</a>
+    event:
+    due:
+  - date: Jan 28
+    week: Week 2
+    topic:
+      - title: 
+        slides:
+    material:
+    event:
+    due:
+  - date: Jan 31
+    week:
+    topic:
+      - title:
+        slides:
+    material:
     event:
     due:
