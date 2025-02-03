@@ -9,7 +9,7 @@ talks:
       time: ""
       title: "Keynote, LLM Agents Workshop"
       category: "current"
-      link: ""
+      link: "https://realm-workshop.github.io"
     - name: "<br/> ACL 2025"
       time: ""
       title: "Keynote, Table Representation Learning Workshop"
