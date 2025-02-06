@@ -26,7 +26,7 @@ schedule:
   - date: Jan 28
     week: Week 2
     topic:
-      - title: 
+      - title: TBD
         slides:
     material:
     event:
@@ -34,8 +34,224 @@ schedule:
   - date: Jan 31
     week:
     topic:
+      - title: No class
+        slides:
+    material:
+    event:
+    due:
+  - date: Feb 4
+    week: Week 3
+    topic:
+      - title: No class
+        slides:
+    material:
+    event: 
+    due:
+  - date: Feb 7
+    week:
+    topic:
+      - title:
+        slides:
+    material:
+    event: A1 out
+    due:
+  - date: Feb 11
+    week: Week 4
+    topic:
+      - title: 
+        slides:
+    material:
+    event:
+    due:
+  - date: Feb 14
+    week:
+    topic:
       - title:
         slides:
     material:
     event:
     due:
+  - date: Feb 18
+    week: Week 5
+    topic:
+      - title: 
+        slides:
+    material:
+    event:
+    due:
+  - date: Feb 21
+    week:
+    topic:
+      - title:
+        slides:
+    material:
+    event:
+    due:
+  - date: Feb 25
+    week: Week 6
+    topic:
+      - title: 
+        slides:
+    material:
+    event:
+    due:
+  - date: Feb 28
+    week:
+    topic:
+      - title:
+        slides:
+    material:
+    event:
+    due:
+  - date: Mar 4
+    week: Week 7
+    topic:
+      - title: 
+        slides:
+    material:
+    event: A2 out
+    due: A1 <font color="red"><b>due</b></font>
+  - date: Mar 7
+    week:
+    topic:
+      - title:
+        slides:
+    material:
+    event:
+    due: 
+  - date: Mar 11
+    week: Week 8
+    topic:
+      - title: No class
+        slides:
+    material:
+    event:
+    due:
+  - date: Mar 14
+    week:
+    topic:
+      - title: No class
+        slides:
+    material:
+    event:
+    due:
+  - date: Mar 18
+    week: Week 9
+    topic:
+      - title: 
+        slides:
+    material:
+    event:
+    due:
+  - date: Mar 21
+    week:
+    topic:
+      - title:
+        slides:
+    material:
+    event:
+    due:
+  - date: Mar 25
+    week: Week 10
+    topic:
+      - title: 
+        slides:
+    material:
+    event:
+    due:
+  - date: Mar 28
+    week:
+    topic:
+      - title:
+        slides:
+    material:
+    event:
+    due:
+  - date: Apr 1
+    week: Week 11
+    topic:
+      - title: 
+        slides:
+    material:
+    event:
+    due:
+  - date: Apr 4
+    week:
+    topic:
+      - title: No class
+        slides:
+    material:
+    event: A3 out
+    due: A2 <font color="red"><b>due</b></font>
+  - date: Apr 8
+    week: Week 12
+    topic:
+      - title: 
+        slides:
+    material:
+    event:
+    due:
+  - date: Apr 11
+    week:
+    topic:
+      - title:
+        slides:
+    material:
+    event:
+    due:
+  - date: Apr 15
+    week: Week 13
+    topic:
+      - title: 
+        slides:
+    material:
+    event:
+    due:
+  - date: Apr 18
+    week:
+    topic:
+      - title: No class
+        slides:
+    material:
+    event:
+    due:
+  - date: Apr 22
+    week: Week 14
+    topic:
+      - title: 
+        slides:
+    material:
+    event:
+    due:
+  - date: Apr 25
+    week:
+    topic:
+      - title:
+        slides:
+    material:
+    event:
+    due:
+  - date: Apr 29
+    week: Week 15
+    topic:
+      - title: 
+        slides:
+    material:
+    event:
+    due:
+  - date: May 2
+    week:
+    topic:
+      - title:
+        slides:
+    material:
+    event:
+    due:
+  - date: May 6
+    week: Week 16
+    topic:
+      - title: No class
+        slides:
+    material:
+    event:
+    due: A3 <font color="red"><b>due</b></font>
