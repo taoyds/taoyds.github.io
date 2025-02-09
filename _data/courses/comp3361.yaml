@@ -53,7 +53,7 @@ schedule:
       - title:
         slides:
     material:
-    event: A1 out
+    event: <a href="https://github.com/ranpox/comp3361-spring2025/tree/main/assignments/A1">A1</a> out 
     due:
   - date: Feb 11
     week: Week 4
