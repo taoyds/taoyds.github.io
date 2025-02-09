@@ -14,7 +14,7 @@ schedule:
   - date: Jan 24
     week:
     topic:
-      - title: Language modeling (n-gram language models)
+      - title: Language modeling (n-gram language models) 1
         slides: /assets/courses/COMP3361-25spring-lec02.pdf
     material:
       - description: Readings
@@ -50,17 +50,30 @@ schedule:
   - date: Feb 7
     week:
     topic:
-      - title:
-        slides:
+      - title: Language modeling (n-gram language models) 2
+        slides: /assets/courses/COMP3361-25spring-lec03.pdf
     material:
+      - description: Readings
+        list:
+          - <a href="https://www.cs.columbia.edu/~mcollins/lm-spring2013.pdf">M. Collins, Notes 1</a>
+          - <a href="https://web.stanford.edu/~jurafsky/slp3/7.pdf">J&M Ch. 7</a>
     event: <a href="https://github.com/ranpox/comp3361-spring2025/tree/main/assignments/A1">A1</a> out 
     due:
   - date: Feb 11
     week: Week 4
     topic:
-      - title: 
+      - title: Text classification
         slides:
     material:
+      - description: Readings
+        list:
+          - <a href="https://web.stanford.edu/~jurafsky/slp3/4.pdf">J&M Ch. 4.1-4.6</a>
+          - <a href="https://web.stanford.edu/~jurafsky/slp3/5.pdf">J&M Ch. 5.1-5.8</a>
+          - <a href="https://www.cs.columbia.edu/~mcollins/ff2.pdf">M. Collins, Notes 2</a>
+          - <a href="https://web.stanford.edu/~jurafsky/slp3/6.pdf">J&M Ch. 6</a>
+      - description: Others
+        list:
+          - <a href="https://docs.google.com/document/d/1LlnXoOblXwW3YX-0yG_5seTXJsb3kRdMMRYqs8Qqum4/edit?usp=sharing">Working with Google Colab</a>
     event:
     due:
   - date: Feb 14
