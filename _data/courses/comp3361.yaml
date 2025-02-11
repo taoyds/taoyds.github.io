@@ -63,7 +63,7 @@ schedule:
     week: Week 4
     topic:
       - title: Text classification
-        slides:
+        slides: /assets/courses/COMP3361-25spring-lec04.pdf
     material:
       - description: Readings
         list:
