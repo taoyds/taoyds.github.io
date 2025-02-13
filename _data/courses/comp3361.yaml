@@ -79,17 +79,25 @@ schedule:
   - date: Feb 14
     week:
     topic:
-      - title:
+      - title: Word embeddings 1
         slides:
     material:
+      - description: Readings
+        list:
+          - <a href="https://web.stanford.edu/~jurafsky/slp3/6.pdf">J & M 6.2-6.4, 6.6</a>
+          - <a href="https://papers.nips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf">word2vec paper</a>
+          - <a href="https://aclanthology.org/D14-1162/">GloVe paper</a>
     event:
     due:
   - date: Feb 18
     week: Week 5
     topic:
-      - title: 
+      - title: Word embeddings 2
         slides:
     material:
+      - description: Readings
+        list:
+          - <a href="https://web.stanford.edu/~jurafsky/slp3/6.pdf">J & M 6.8, 6.10-6.12</a>
     event:
     due:
   - date: Feb 21
