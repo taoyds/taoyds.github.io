@@ -10,7 +10,7 @@ papers:
 
   - title: "Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows"
     authors: "Fangyu Lei*, Jixuan Chen*, Yuxiao Ye, Ruisheng Cao, Dongchan Shin, Hongjin Su, Zhaoqing Suo, Hongcheng Gao, Wenjing Hu, Pengcheng Yin, Victor Zhong, Caiming Xiong, Ruoxi Sun, Qian Liu, Sida Wang, <b>Tao Yu</b>"
-    venue: "<b>ICLR 2025</b>"
+    venue: "<b>ICLR 2025, Oral</b>"
     paper_pdf: "https://www.arxiv.org/abs/2411.07763"
     code: "https://github.com/xlang-ai/Spider2"
     poster: "https://spider2-sql.github.io/"
@@ -26,7 +26,7 @@ papers:
 
   - title: "AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials"
     authors: "Yiheng Xu*, Dunjie Lu*, Zhennan Shen*, Junli Wang, Zekun Wang, Yuchen Mao, Caiming Xiong, <b>Tao Yu</b>"
-    venue: "<b>ICLR 2025</b>"
+    venue: "<b>ICLR 2025, Spotlight</b>"
     paper_pdf: "https://arxiv.org/abs/2412.09605"
     code: "https://github.com/xlang-ai"
     poster: "https://agenttrek.github.io"
@@ -48,7 +48,7 @@ papers:
 
   - title: "BRIGHT: A Realistic and Challenging Benchmark for Reasoning-Intensive Retrieval"
     authors: "Hongjin Su, Howard Yen, Mengzhou Xia, Weijia Shi, Niklas Muennighoff, Han-yu Wang, Haisu Liu, Quan Shi, Zachary S. Siegel, Michael Tang, Ruoxi Sun, Jinsung Yoon, Sercan O. Arik, Danqi Chen, <b>Tao Yu</b>"
-    venue: "<b>ICLR 2025</b>"
+    venue: "<b>ICLR 2025, Spotlight</b>"
     paper_pdf: "https://arxiv.org/abs/2407.12883"
     code: "https://github.com/xlang-ai/BRIGHT"
     poster: "https://brightbenchmark.github.io/"
