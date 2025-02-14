@@ -80,7 +80,7 @@ schedule:
     week:
     topic:
       - title: Word embeddings 1
-        slides:
+        slides: /assets/courses/COMP3361-25spring-lec05.pdf
     material:
       - description: Readings
         list:
