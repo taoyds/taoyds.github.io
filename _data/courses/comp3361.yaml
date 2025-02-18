@@ -93,7 +93,7 @@ schedule:
     week: Week 5
     topic:
       - title: Word embeddings 2
-        slides:
+        slides: /assets/courses/COMP3361-25spring-lec06.pdf
     material:
       - description: Readings
         list:
