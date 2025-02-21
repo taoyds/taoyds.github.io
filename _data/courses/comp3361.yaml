@@ -109,7 +109,7 @@ schedule:
     week:
     topic:
       - title: 'Neural language models: Overview'
-        slides: /assets/courses/COMP3361-25spring-lec06.pdf
+        slides: /assets/courses/COMP3361-25spring-lec07.pdf
     material:
       - description: Readings
         list:
