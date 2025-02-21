@@ -26,9 +26,14 @@ schedule:
   - date: Jan 28
     week: Week 2
     topic:
-      - title: TBD
-        slides:
+      - title: <a href="https://drive.google.com/file/d/1mRKeIkqyir7tDQVnCo3NgSyJf0ARp3hu/view?usp=sharing">Tutorial on PyTorch and Transformers</a>
+        slides: https://colab.research.google.com/drive/1VHyYjDPzO-5fqJuyBzBThwr_no6vV0J_?usp=sharing
     material:
+      - description: Other resources
+        list:
+          - <a href="https://colab.research.google.com/drive/13HGy3-uIIy1KD_WFhG4nVrxJC-3nUUkP?usp=sharing">Stanford CS224N PyTorch Tutorial</a>
+          - <a href="https://huggingface.co/learn/nlp-course/chapter1/1">HuggingFace NLP Course</a>
+          - <a href="https://huggingface.co/docs/transformers/en/notebooks">Transformers Notebooks</a>
     event:
     due:
   - date: Jan 31
@@ -103,17 +108,26 @@ schedule:
   - date: Feb 21
     week:
     topic:
-      - title:
-        slides:
+      - title: 'Neural language models: Overview'
+        slides: /assets/courses/COMP3361-25spring-lec06.pdf
     material:
+      - description: Readings
+        list:
+          - <a href="https://web.stanford.edu/~jurafsky/slp3/7.pdf">J & M 7.3-7.5</a>
+          - <a href="https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/">Running example of using BERT</a>
     event:
     due:
   - date: Feb 25
     week: Week 6
     topic:
-      - title: 
+      - title: 'Neural language models: Tokenization'
         slides:
     material:
+      - description: Readings
+        list:
+          - <a href="https://arxiv.org/abs/1508.07909">Byte-pair encoding paper</a>
+          - <a href="https://www.youtube.com/watch?v=zduSFxRajkE">Talk on the GPT Tokenizer by Andrej Karpathy</a>
+          - <a href="https://huggingface.co/docs/transformers/tokenizer_summary">Summary of the tokenizers with HuggingFace</a>
     event:
     due:
   - date: Feb 28
