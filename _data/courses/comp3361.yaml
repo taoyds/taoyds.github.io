@@ -216,16 +216,16 @@ schedule:
       - title: 
         slides:
     material:
-    event:
-    due:
+    event: A3 out
+    due: A2 <font color="red"><b>due</b></font>
   - date: Apr 4
     week:
     topic:
       - title: No class
         slides:
     material:
-    event: A3 out
-    due: A2 <font color="red"><b>due</b></font>
+    event:
+    due:
   - date: Apr 8
     week: Week 12
     topic:
