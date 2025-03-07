@@ -157,9 +157,15 @@ schedule:
   - date: Mar 7
     week:
     topic:
-      - title:
-        slides:
+      - title: 'Neural language models: Transformers'
+        slides: /assets/courses/COMP3361-25spring-lec11.pdf
     material:
+      - description: Readings
+        list:
+          - <a href="https://web.stanford.edu/~jurafsky/slp3/10.pdf">J & M 10.1</a>
+          - <a href="https://arxiv.org/pdf/1706.03762.pdf">Attention Is All You Need</a>
+          - <a href="https://nlp.seas.harvard.edu/2018/04/03/attention.html">The Annotated Transformer</a>
+          - <a href="https://jalammar.github.io/illustrated-transformer/">The Illustrated Transformer</a>
     event:
     due: 
   - date: Mar 11
