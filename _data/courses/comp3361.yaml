@@ -201,9 +201,15 @@ schedule:
   - date: Mar 21
     week:
     topic:
-      - title:
-        slides:
+      - title: 'Neural language models: Pretraining'
+        slides: /assets/courses/COMP3361-25spring-lec13.pdf
     material:
+      - description: Readings
+        list:
+          - <a href="https://arxiv.org/pdf/1810.04805.pdf">BERT&#58; Pre-training of Deep Bidirectional Transformers for Language Understanding</a>
+          - <a href="https://jalammar.github.io/illustrated-bert/">The Illustrated BERT, ELMo, and co.</a>
+          - <a href="https://arxiv.org/pdf/1910.10683.pdf">Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (T5)</a>
+          - <a href="https://arxiv.org/pdf/2005.14165.pdf">Language Models are Few-Shot Learners (GPT-3)</a>
     event:
     due:
   - date: Mar 25
