@@ -201,7 +201,7 @@ schedule:
   - date: Mar 21
     week:
     topic:
-      - title: 'Neural language models: Pretraining'
+      - title: 'Neural language models: Pretraining 1'
         slides: /assets/courses/COMP3361-25spring-lec13.pdf
     material:
       - description: Readings
@@ -215,9 +215,13 @@ schedule:
   - date: Mar 25
     week: Week 10
     topic:
-      - title: 
-        slides:
+      - title: 'Neural language models: Pretraining 2'
+        slides: /assets/courses/COMP3361-25spring-lec14.pdf
     material:
+      - description: Readings
+        list:
+          - <a href="https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing#scrollTo=Q3k1Czf7LuA9">Colab on building GPT&#58; from scratch, in code, spelled out by Andrej Karpathy</a>
+          - <a href="https://jalammar.github.io/illustrated-gpt2/">The Illustrated GPT-2</a>
     event:
     due:
   - date: Mar 28
