@@ -227,17 +227,28 @@ schedule:
   - date: Mar 28
     week:
     topic:
-      - title:
-        slides:
+      - title: Coding tutorial 2
+        slides: /assets/courses/COMP3361-25spring-tutorial2.pdf
+      - title: LLM prompting, in-context learning, scaling laws
+        slides: /assets/courses/COMP3361-25spring-lec15.pdf
     material:
+      - description: Readings
+        list:
+          - <a href="https://arxiv.org/abs/2201.11903">Chain-of-Thought Prompting Elicits Reasoning in Large Language Models</a>
+          - <a href="https://arxiv.org/abs/2001.08361">Scaling Laws for Neural Language Models</a>
+          - <a href="https://nlp.seas.harvard.edu/2018/04/03/attention.html">The Annotated Transformer</a>
+          - <a href="https://www.youtube.com/watch?v=kCc8FmEb1nY">Talk on building GPT&#58; from scratch, in code, spelled out by Andrej Karpathy</a>
     event:
     due:
   - date: Apr 1
     week: Week 11
     topic:
-      - title: 
-        slides:
+      - title: Natural language generation with LLMs 1
+        slides: /assets/courses/COMP3361-lec16.pdf
     material:
+      - description: Others
+        list:
+          - <a href="https://arxiv.org/abs/1904.09751">The Curious Case of Neural Text Degeneration</a>
     event: A3 out
     due: A2 <font color="red"><b>due</b></font>
   - date: Apr 4
