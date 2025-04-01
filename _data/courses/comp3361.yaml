@@ -249,7 +249,7 @@ schedule:
       - description: Others
         list:
           - <a href="https://arxiv.org/abs/1904.09751">The Curious Case of Neural Text Degeneration</a>
-    event: A3 out
+    event: 
     due: A2 <font color="red"><b>due</b></font>
   - date: Apr 4
     week:
@@ -257,7 +257,7 @@ schedule:
       - title: No class
         slides:
     material:
-    event:
+    event: A3 out
     due:
   - date: Apr 8
     week: Week 12
@@ -325,6 +325,14 @@ schedule:
     due:
   - date: May 6
     week: Week 16
+    topic:
+      - title: No class
+        slides:
+    material:
+    event:
+    due: 
+  - date: May 9
+    week:
     topic:
       - title: No class
         slides:
