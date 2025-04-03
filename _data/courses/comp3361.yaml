@@ -244,7 +244,7 @@ schedule:
     week: Week 11
     topic:
       - title: Natural language generation with LLMs 1
-        slides: /assets/courses/COMP3361-lec16.pdf
+        slides: /assets/courses/COMP3361-25spring-lec16.pdf
     material:
       - description: Others
         list:
