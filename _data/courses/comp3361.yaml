@@ -262,8 +262,8 @@ schedule:
   - date: Apr 8
     week: Week 12
     topic:
-      - title: 
-        slides:
+      - title: Natural language generation with LLMs 2
+        slides: /assets/courses/COMP3361-25spring-lec17.pdf
     material:
     event:
     due:
