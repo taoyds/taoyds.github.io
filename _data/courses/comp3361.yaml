@@ -270,8 +270,8 @@ schedule:
   - date: Apr 11
     week:
     topic:
-      - title:
-        slides:
+      - title: LLM/VLM benchmarks and evaluation
+        slides: /assets/courses/COMP3361-25spring-lec18.pdf
     material:
     event:
     due:
