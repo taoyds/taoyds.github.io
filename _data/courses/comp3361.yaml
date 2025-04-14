@@ -278,8 +278,8 @@ schedule:
   - date: Apr 15
     week: Week 13
     topic:
-      - title: 
-        slides:
+      - title: Intro to advanced topics
+        slides: /assets/courses/COMP3361-25spring-lec19.pdf
     material:
     event:
     due:
