@@ -294,7 +294,7 @@ schedule:
   - date: Apr 22
     week: Week 14
     topic:
-      - title: Multimodal LLMs (by Chen Wu, CMU)
+      - title: Coding tutorial 3
         slides:
     material:
     event:
@@ -304,13 +304,20 @@ schedule:
     topic:
       - title: LLM Alignment - Scalable Alignment of Large Language Models Towards Truth Seeking, Complex Reasoning, and Human Values (by Zhiqing Sun, OpenAI)
         slides:
+      - title: Multimodal language models/VLMs (by Chen Wu, CMU)
+        slides:
     material:
       - description: Readings
         list:
           - <a href="https://arxiv.org/abs/2504.12516">BrowseComp&#58; A Simple Yet Challenging Benchmark for Browsing Agents</a>
           - <a href="https://arxiv.org/abs/2407.10040">Lean-STaR&#58; Learning to Interleave Thinking and Proving</a>
           - <a href="https://arxiv.org/abs/2404.06474">Easy-to-Hard Generalization&#58; Scalable Alignment Beyond Human Supervision</a>
+          - <a href="https://arxiv.org/abs/2502.13923">Qwen2.5-VL Technical Report</a>
+          - <a href="https://arxiv.org/abs/2103.00020">Learning Transferable Visual Models From Natural Language Supervision</a>
+      - description: Others
+        list:
           - <a href="https://openai.com/index/introducing-deep-research/">Introducing deep research - OpenAI</a>
+          - <a href="https://arxiv.org/abs/2307.01952">SDXL&#58; Improving Latent Diffusion Models for High-Resolution Image Synthesis</a>
     event:
     due:
   - date: Apr 29
@@ -328,7 +335,7 @@ schedule:
   - date: May 2
     week:
     topic:
-      - title: Scaling LLMs via RL - Scaling Language Models via Reinforcement Learning: From Reasoning to Agents (by Jiaqi Pan, UC Berkeley)
+      - title: Scaling LLMs via RL - Scaling Language Models via Reinforcement Learning&#58; From Reasoning to Agents (by Jiaqi Pan, UC Berkeley)
         slides:
     material:
       - description: Readings
