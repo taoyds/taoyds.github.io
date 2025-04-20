@@ -294,7 +294,7 @@ schedule:
   - date: Apr 22
     week: Week 14
     topic:
-      - title: 
+      - title: Multimodal LLMs (by Chen Wu, CMU)
         slides:
     material:
     event:
@@ -302,25 +302,41 @@ schedule:
   - date: Apr 25
     week:
     topic:
-      - title:
+      - title: LLM Alignment - Scalable Alignment of Large Language Models Towards Truth Seeking, Complex Reasoning, and Human Values (by Zhiqing Sun, OpenAI)
         slides:
     material:
+      - description: Readings
+        list:
+          - <a href="https://arxiv.org/abs/2504.12516">BrowseComp&#58; A Simple Yet Challenging Benchmark for Browsing Agents</a>
+          - <a href="https://arxiv.org/abs/2407.10040">Lean-STaR&#58; Learning to Interleave Thinking and Proving</a>
+          - <a href="https://arxiv.org/abs/2404.06474">Easy-to-Hard Generalization&#58; Scalable Alignment Beyond Human Supervision</a>
+          - <a href="https://openai.com/index/introducing-deep-research/">Introducing deep research - OpenAI</a>
     event:
     due:
   - date: Apr 29
     week: Week 15
     topic:
-      - title: 
+      - title: LLMs/VLMs as agents - AI agents for coding (by John Yang, Stanford)
         slides:
     material:
+      - description: Readings
+        list:
+          - <a href="https://arxiv.org/abs/2504.12516">SWE-Bench&#58; Can Language Models Resolve Real-World GitHub Issues?</a>
+          - <a href="https://arxiv.org/abs/2405.15793">SWE-agent&#58; Agent-Computer Interfaces Enable Automated Software Engineering</a>
     event:
     due:
   - date: May 2
     week:
     topic:
-      - title:
+      - title: Scaling LLMs via RL - Scaling Language Models via Reinforcement Learning: From Reasoning to Agents (by Jiaqi Pan, UC Berkeley)
         slides:
     material:
+      - description: Readings
+        list:
+          - <a href="https://arxiv.org/abs/2501.12948">DeepSeek-R1&#58; Incentivizing Reasoning Capability in LLMs via Reinforcement Learning</a>
+          - <a href="https://arxiv.org/abs/2412.21139">Training Software Engineering Agents and Verifiers with SWE-Gym</a>
+          - <a href="https://arxiv.org/abs/2404.06474">Autonomous Evaluation and Refinement of Digital Agents</a>
+          - <a href="https://github.com/volcengine/verl">verl&#58; Volcano Engine Reinforcement Learning for LLMs</a>
     event:
     due:
   - date: May 6
