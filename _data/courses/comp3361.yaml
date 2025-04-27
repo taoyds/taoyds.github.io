@@ -323,13 +323,13 @@ schedule:
   - date: Apr 29
     week: Week 15
     topic:
-      - title: LLMs/VLMs as agents - AI agents for coding (by John Yang, Stanford)
+      - title: Efficient LM methods (by Bailin Wang, Apple)
         slides:
     material:
       - description: Readings
         list:
-          - <a href="https://arxiv.org/abs/2504.12516">SWE-Bench&#58; Can Language Models Resolve Real-World GitHub Issues?</a>
-          - <a href="https://arxiv.org/abs/2405.15793">SWE-agent&#58; Agent-Computer Interfaces Enable Automated Software Engineering</a>
+          - <a href="https://arxiv.org/abs/2106.09685">LoRA&#58; Low-Rank Adaptation of Large Language Models</a>
+          - <a href="https://arxiv.org/abs/2205.14135">FlashAttention&#58; Fast and Memory-Efficient Exact Attention with IO-Awareness</a>
     event:
     due:
   - date: May 2
