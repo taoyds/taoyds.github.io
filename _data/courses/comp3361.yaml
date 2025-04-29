@@ -302,10 +302,10 @@ schedule:
   - date: Apr 25
     week:
     topic:
-      - title: LLM Alignment - Scalable Alignment of Large Language Models Towards Truth Seeking, Complex Reasoning, and Human Values (by Zhiqing Sun, OpenAI)
-        slides:
+      - title: Learning to Reason in Agents (by Zhiqing Sun, OpenAI)
+        slides: /assets/courses/COMP3361-25spring-talk01.pdf
       - title: Multimodal language models/VLMs (by Chen Wu, CMU)
-        slides:
+        slides: /assets/courses/COMP3361-25spring-talk02.pdf
     material:
       - description: Readings
         list:
@@ -324,7 +324,7 @@ schedule:
     week: Week 15
     topic:
       - title: Efficient LM methods (by Bailin Wang, Apple)
-        slides:
+        slides: /assets/courses/COMP3361-25spring-talk03.pdf
     material:
       - description: Readings
         list:
