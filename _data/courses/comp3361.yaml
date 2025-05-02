@@ -295,7 +295,7 @@ schedule:
     week: Week 14
     topic:
       - title: Coding tutorial 3
-        slides:
+        slides: /assets/courses/COMP3361-25spring-tutorial3.pdf
     material:
     event:
     due:
