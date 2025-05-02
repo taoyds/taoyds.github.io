@@ -336,13 +336,14 @@ schedule:
     week:
     topic:
       - title: Scaling LLMs via RL - Scaling Language Models via Reinforcement Learning&#58; From Reasoning to Agents (by Jiaqi Pan, UC Berkeley)
-        slides:
+        slides: /assets/courses/COMP3361-25spring-talk04.pdf
     material:
       - description: Readings
         list:
           - <a href="https://arxiv.org/abs/2501.12948">DeepSeek-R1&#58; Incentivizing Reasoning Capability in LLMs via Reinforcement Learning</a>
           - <a href="https://arxiv.org/abs/2412.21139">Training Software Engineering Agents and Verifiers with SWE-Gym</a>
           - <a href="https://arxiv.org/abs/2404.06474">Autonomous Evaluation and Refinement of Digital Agents</a>
+          - <a href="https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf">Welcome to the Era of Experience</a>
           - <a href="https://github.com/volcengine/verl">verl&#58; Volcano Engine Reinforcement Learning for LLMs</a>
     event:
     due:
