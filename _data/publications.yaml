@@ -1,57 +1,41 @@
 papers:
 
-  - title: "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments"
-    authors: "Tianbao Xie, Danyang Zhang, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao, Toh Jing Hua, Zhoujun Cheng, Dongchan Shin, Fangyu Lei, Yitao Liu, Yiheng Xu, Shuyan Zhou, Silvio Savarese, Caiming Xiong, Victor Zhong, <b>Tao Yu</b>"
-    venue: "<b><b>NeurIPS 2024</b>, ~1.5k GitHub stars</b>"
-    paper_pdf: "https://arxiv.org/abs/2404.07972"
-    code: "https://github.com/xlang-ai/OSWorld"
-    poster: "https://os-world.github.io/"
+  - title: "Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction"
+    authors: "Yiheng Xu*, Zekun Wang*, Junli Wang*, Dunjie Lu, Tianbao Xie, Amrita Saha, Doyen Sahoo, <b>Tao Yu</b>, Caiming Xiong"
+    venue: "<b>ICML 2025</b>"
+    paper_pdf: "https://arxiv.org/abs/2412.04454"
+    code: "https://github.com/xlang-ai/aguvis"
+    poster: "hhttps://aguvis-project.github.io"
     selected: y
-
+  
   - title: "Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows"
     authors: "Fangyu Lei*, Jixuan Chen*, Yuxiao Ye, Ruisheng Cao, Dongchan Shin, Hongjin Su, Zhaoqing Suo, Hongcheng Gao, Wenjing Hu, Pengcheng Yin, Victor Zhong, Caiming Xiong, Ruoxi Sun, Qian Liu, Sida Wang, <b>Tao Yu</b>"
-    venue: "<b>ICLR 2025, Oral</b>"
+    venue: "<b>ICLR 2025 </b> <font color="red">(Oral, top 2%)</font>"
     paper_pdf: "https://www.arxiv.org/abs/2411.07763"
     code: "https://github.com/xlang-ai/Spider2"
     poster: "https://spider2-sql.github.io/"
     selected: y
 
-  - title: "Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction"
-    authors: "Yiheng Xu*, Zekun Wang*, Junli Wang*, Dunjie Lu, Tianbao Xie, Amrita Saha, Doyen Sahoo, <b>Tao Yu</b>, Caiming Xiong"
-    venue: "<b>Preprint 2024</b>"
-    paper_pdf: "https://arxiv.org/abs/2412.04454"
-    code: "https://github.com/xlang-ai/aguvis"
-    poster: "hhttps://aguvis-project.github.io"
-    selected: y
-
   - title: "AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials"
     authors: "Yiheng Xu*, Dunjie Lu*, Zhennan Shen*, Junli Wang, Zekun Wang, Yuchen Mao, Caiming Xiong, <b>Tao Yu</b>"
-    venue: "<b>ICLR 2025, Spotlight</b>"
+    venue: "<b>ICLR 2025 </b> <font color="red">(Spotlight, top 5%)</font>"
     paper_pdf: "https://arxiv.org/abs/2412.09605"
-    code: "https://github.com/xlang-ai"
+    code: "https://github.com/xlang-ai/AgentTrek"
     poster: "https://agenttrek.github.io"
+    selected: y
+
+  - title: "BRIGHT: A Realistic and Challenging Benchmark for Reasoning-Intensive Retrieval"
+    authors: "Hongjin Su*, Howard Yen*, Mengzhou Xia*, Weijia Shi, Niklas Muennighoff, Han-yu Wang, Haisu Liu, Quan Shi, Zachary S. Siegel, Michael Tang, Ruoxi Sun, Jinsung Yoon, Sercan O. Arik, Danqi Chen, <b>Tao Yu</b>"
+    venue: "<b>ICLR 2025 </b> <font color="red">(Spotlight, top 5%)</font>"
+    paper_pdf: "https://arxiv.org/abs/2407.12883"
+    code: "https://github.com/xlang-ai/BRIGHT"
+    poster: "https://brightbenchmark.github.io/"
     selected: y
 
   - title: "Learn-by-interact: A Data-Centric Framework for Self-Adaptive Agents in Realistic Environments"
     authors: "Hongjin Su, Ruoxi Sun, Jinsung Yoon, Pengcheng Yin, <b>Tao Yu</b>, Sercan Ö. Arık"
     venue: "<b>ICLR 2025</b>"
     paper_pdf: "https://arxiv.org/abs/2501.10893"
-    code: ""
-    poster: ""
-    selected: y
-
-  - title: "Attacking Vision-Language Computer Agents via Pop-ups"
-    authors: "Yanzhe Zhang, <b>Tao Yu</b>, Diyi Yang"
-    venue: "<b>Preprint 2024</b>"
-    paper_pdf: "https://arxiv.org/abs/2411.02391"
-    selected: y
-
-  - title: "BRIGHT: A Realistic and Challenging Benchmark for Reasoning-Intensive Retrieval"
-    authors: "Hongjin Su, Howard Yen, Mengzhou Xia, Weijia Shi, Niklas Muennighoff, Han-yu Wang, Haisu Liu, Quan Shi, Zachary S. Siegel, Michael Tang, Ruoxi Sun, Jinsung Yoon, Sercan O. Arik, Danqi Chen, <b>Tao Yu</b>"
-    venue: "<b>ICLR 2025, Spotlight</b>"
-    paper_pdf: "https://arxiv.org/abs/2407.12883"
-    code: "https://github.com/xlang-ai/BRIGHT"
-    poster: "https://brightbenchmark.github.io/"
     selected: y
 
   - title: "Generative Representational Instruction Tuning"
@@ -60,10 +44,25 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2402.09906"
     code: "https://github.com/ContextualAI/gritlm"
     selected: y
+
+  - title: "Attacking Vision-Language Computer Agents via Pop-ups"
+    authors: "Yanzhe Zhang, <b>Tao Yu</b>, Diyi Yang"
+    venue: "<b>ACL 2025</b>"
+    paper_pdf: "https://arxiv.org/abs/2411.02391"
+    code: "https://github.com/SALT-NLP/PopupAttack"
+    selected: y
+    
+  - title: "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments"
+    authors: "Tianbao Xie, Danyang Zhang, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao, Toh Jing Hua, Zhoujun Cheng, Dongchan Shin, Fangyu Lei, Yitao Liu, Yiheng Xu, Shuyan Zhou, Silvio Savarese, Caiming Xiong, Victor Zhong, <b>Tao Yu</b>"
+    venue: "<b>NeurIPS 2024, </b> <font color="red">followed and used by OpenAI & Anthropic, ~2k GitHub stars</font>"
+    paper_pdf: "https://arxiv.org/abs/2404.07972"
+    code: "https://github.com/xlang-ai/OSWorld"
+    poster: "https://os-world.github.io/"
+    selected: y
     
   - title: "Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?"
     authors: "Ruisheng Cao, Fangyu Lei, Haoyuan Wu, Jixuan Chen, Yeqiao Fu, Hongcheng Gao, Xinzhuang Xiong, Hanchong Zhang, Yuchen Mao, Wenjing Hu, Tianbao Xie, Hongshen Xu, Danyang Zhang, Sida Wang, Ruoxi Sun, Pengcheng Yin, Caiming Xiong, Ansong Ni, Qian Liu, Victor Zhong, Lu Chen, Kai Yu, <b>Tao Yu</b>"
-    venue: "<b>NeurIPS 2024, Spotlight</b>"
+    venue: "<b>NeurIPS 2024 </b> <font color="red">(Spotlight, top 3%)</font>"
     paper_pdf: "https://arxiv.org/abs/2407.10956"
     code: "https://github.com/xlang-ai/Spider2-V"
     poster: "https://spider2-v.github.io/"
@@ -71,7 +70,7 @@ papers:
     
   - title: "OpenAgents: An Open Platform for Language Agents in the Wild"
     authors: "Tianbao Xie*, Fan Zhou*, Zhoujun Cheng*, Peng Shi*, Luoxuan Weng*, Yitao Liu*, Toh Jing Hua, Junning Zhao, Qian Liu, Che Liu, Leo Z. Liu, Yiheng Xu, Hongjin Su, Dongchan Shin, Caiming Xiong, <b>Tao Yu</b>"
-    venue: "<b>COLM 2024</b>, ~4k GitHub stars"
+    venue: "<b>COLM 2024, </b> <font color="red">~4k GitHub stars</font>"
     paper_pdf: "https://arxiv.org/abs/2310.10634"
     code: "https://github.com/xlang-ai/OpenAgents"
     poster: "https://www.xlang.ai/blog/xlang-intro"
@@ -79,21 +78,13 @@ papers:
     
   - title: "Does Collaborative Human-LM Dialogue Generation Help Information Extraction from Human Dialogues?"
     authors: "Bo-Ru Lu, Nikita Haduong, Chia-Hsuan Lee, Zeqiu Wu, Hao Cheng, Paul Koester, Jean Utke, <b>Tao Yu</b>, Noah A. Smith, Mari Ostendorf"
-    venue: "<b>EMNLP 2024, Findings</b>"
+    venue: "<b>COLM 2024</b>"
     paper_pdf: "https://arxiv.org/abs/2402.12317"
-    selected: n
-    
-  - title: "EvoR: Evolving Retrieval for Code Generation"
-    authors: "Hongjin Su, Shuyang Jiang, Yuhang Lai, Haoyuan Wu, Boao Shi, Che Liu, Qian Liu, <b>Tao Yu</b>"
-    venue: "<b>EMNLP 2024</b>"
-    paper_pdf: "https://arxiv.org/abs/2307.07047"
-    code: "https://github.com/xlang-ai/arks"
-    poster: "https://arks-codegen.github.io/"
     selected: n
 
   - title: "Lemur: Harmonizing Natural Language and Code for Language Agents"
     authors: "Yiheng Xu*, Hongjin Su*, Chen Xing*, Boyu Mi, Qian Liu, Weijia Shi, Binyuan Hui, Fan Zhou, Yitao Liu, Tianbao Xie, Zhoujun Cheng, Siheng Zhao, Lingpeng Kong, Bailin Wang, Caiming Xiong, <b>Tao Yu</b>"
-    venue: "<b>ICLR 2024, Spotlight</b>"
+    venue: "<b>ICLR 2024 </b> <font color="red">(Spotlight, top 5%)</font>"
     paper_pdf: "https://arxiv.org/abs/2310.06830"
     code: "https://github.com/OpenLemur/lemur"
     poster: "https://www.xlang.ai/blog/openlemur"
@@ -101,17 +92,39 @@ papers:
 
   - title: "Text2Reward: Automated Dense Reward Function Generation for Reinforcement Learning"
     authors: "Tianbao Xie*, Siheng Zhao*, Chen Henry Wu, Yitao Liu, Qian Luo, Victor Zhong, Yanchao Yang, <b>Tao Yu</b>"
-    venue: "<b>ICLR 2024, Spotlight</b>"
+    venue: "<b>ICLR 2024 </b> <font color="red">(Spotlight, top 5%)</font>"
     paper_pdf: "https://arxiv.org/abs/2309.11489"
     code: "https://github.com/xlang-ai/text2reward"
     poster: "https://text-to-reward.github.io/"
     selected: y
+    
+  - title: "EvoR: Evolving Retrieval for Code Generation"
+    authors: "Hongjin Su, Shuyang Jiang, Yuhang Lai, Haoyuan Wu, Boao Shi, Che Liu, Qian Liu, <b>Tao Yu</b>"
+    venue: "<b>EMNLP Findings 2024</b>"
+    paper_pdf: "https://arxiv.org/abs/2307.07047"
+    code: "https://github.com/xlang-ai/arks"
+    poster: "https://arks-codegen.github.io/"
+    selected: n
+
+  - title: "FOLIO: Natural Language Reasoning with First-Order Logic"
+    authors: "with Simeng Han, Rui Zhang, Alexander R Fabbri, Xi Victoria Lin, Caiming Xiong, Dragomir Radev and many authors"
+    venue: "EMNLP, 2024"
+    paper_pdf: "https://arxiv.org/abs/2209.00840"
+    code: "https://github.com/Yale-LILY/FOLIO"
+    selected: n
+
+  - title: "Beyond the Imitation Game: Quantifying and Extrapolating the Capabilities of Language Models"
+    authors: "The BIG-bench Team"
+    venue: "<b>Transactions on Machine Learning Research 2024 </b> <font color="red">(Outstanding Award Finalist)</font>"
+    paper_pdf: "https://arxiv.org/abs/2206.04615"
+    code: "https://github.com/google/BIG-bench"
+    selected: n
 
   - title: "One Embedder, Any Task: Instruction-Finetuned Text Embeddings"
     authors: "Hongjin Su*, Weijia Shi*, Jungo Kasai, Yizhong Wang, Yushi Hu, Mari Ostendorf, Wen-tau Yih, Noah A Smith, Luke Zettlemoyer, <b>Tao Yu</b>"
-    venue: "<b>ACL Findings 2023</b>, ~4.5M downloads on HuggingFace, ~2k GitHub stars"
+    venue: "<b>ACL Findings 2023, </b> <font color="red">~6M downloads on HuggingFace, ~2k GitHub stars</font>"
     paper_pdf: "https://arxiv.org/abs/2212.09741"
-    code: "https://github.com/HKUNLP/instructor-embedding"
+    code: "https://github.com/xlang-ai/instructor-embedding"
     poster: "https://instructor-embedding.github.io"
     data: "https://huggingface.co/hkunlp/instructor-large"
     selected: y
@@ -141,7 +154,7 @@ papers:
     
   - title: "Binding Language Models in Symbolic Languages"
     authors: "Zhoujun Cheng*, Tianbao Xie*, Peng Shi, Chengzu Li, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A Smith, <b>Tao Yu</b>"
-    venue: "<b>ICLR 2023, Spotlight</b>"
+    venue: "<b>ICLR 2023 </b> <font color="red">(Spotlight, top 5%)</font>"
     paper_pdf: "https://arxiv.org/abs/2210.02875"
     code: "https://lm-code-binder.github.io/"
     poster: "https://lm-code-binder.github.io/"
@@ -164,7 +177,7 @@ papers:
     
   - title: "UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models"
     authors: "Tianbao Xie*, Chen Henry Wu*, Peng Shi, Ruiqi Zhong, Torsten Scholak, Michihiro Yasunaga, Chien-Sheng Wu, Ming Zhong, Pengcheng Yin, Sida Wang, Victor Zhong, Bailin Wang, Chengzu Li, Connor Boyle, Ansong Ni, Ziyu Yao, Dragomir Radev, Caiming Xiong, Lingpeng Kong, Rui Zhang, Noah A. Smith, Luke Zettlemoyer, <b>Tao Yu</b>"
-    venue: "<b>EMNLP 2022, Oral</b>"
+    venue: "<b>EMNLP 2022</b> <font color="red">(Oral, top 4%)</font>"
     paper_pdf: "https://arxiv.org/abs/2201.05966"
     code: "https://github.com/hkunlp/unifiedskg"
     poster: "https://unifiedskg.com/"
@@ -202,20 +215,6 @@ papers:
     authors: "Yiru Chen, Ryan Li, Austin Mac, Tianbao Xie, <b>Tao Yu</b>, Eugene Wu"
     venue: "IEEE Visualization Conference NLVIZ Workshop, 2022"
     paper_pdf: "https://arxiv.org/abs/2209.08834"
-    selected: n
-      
-  - title: "Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models"
-    authors: "with the BIG-bench team (442 authors)"
-    venue: "<b>TMLR 2023</b>"
-    paper_pdf: "https://arxiv.org/abs/2206.04615"
-    code: "https://github.com/google/BIG-bench"
-    selected: n
-
-  - title: "FOLIO: Natural Language Reasoning with First-Order Logic"
-    authors: "with Simeng Han, Rui Zhang, Alexander R Fabbri, Xi Victoria Lin, Caiming Xiong, Dragomir Radev and many authors"
-    venue: "Preprint, 2022"
-    paper_pdf: "https://arxiv.org/abs/2209.00840"
-    code: "https://github.com/Yale-LILY/FOLIO"
     selected: n
       
   - title: "DYLE: Dynamic Latent Extraction for Abstractive Long-Input Summarization"
@@ -327,7 +326,7 @@ papers:
 
   - title: "<i>Spider</i>: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task"
     authors: "<b>Tao Yu</b>, Rui Zhang, Kai Yang, Michihiro Yasunaga, Dongxu Wang, Zifan Li, James Ma, Irene Li, Qingning Yao, Shanelle Roman, Zilin Zhang and Dragomir Radev"
-    venue: "<b>EMNLP 2018</b>, ~300 submissions, ~1k Github stars"
+    venue: "<b>EMNLP 2018, </b> <font color="red">~300 submissions, ~1k Github stars</font>"
     paper_pdf: "https://arxiv.org/abs/1809.08887"
     code: "https://github.com/taoyds/spider"
     data: "https://yale-lily.github.io/spider"
