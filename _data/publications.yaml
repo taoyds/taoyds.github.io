@@ -10,7 +10,7 @@ papers:
   
   - title: "Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows"
     authors: "Fangyu Lei*, Jixuan Chen*, Yuxiao Ye, Ruisheng Cao, Dongchan Shin, Hongjin Su, Zhaoqing Suo, Hongcheng Gao, Wenjing Hu, Pengcheng Yin, Victor Zhong, Caiming Xiong, Ruoxi Sun, Qian Liu, Sida Wang, <b>Tao Yu</b>"
-    venue: "<b>ICLR 2025 </b> <font color="red">(Oral, top 2%)</font>"
+    venue: "<b>ICLR 2025 </b> <font color=\"red\">(Oral, top 2%)</font>"
     paper_pdf: "https://www.arxiv.org/abs/2411.07763"
     code: "https://github.com/xlang-ai/Spider2"
     poster: "https://spider2-sql.github.io/"
@@ -18,7 +18,7 @@ papers:
 
   - title: "AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials"
     authors: "Yiheng Xu*, Dunjie Lu*, Zhennan Shen*, Junli Wang, Zekun Wang, Yuchen Mao, Caiming Xiong, <b>Tao Yu</b>"
-    venue: "<b>ICLR 2025 </b> <font color="red">(Spotlight, top 5%)</font>"
+    venue: "<b>ICLR 2025 </b> <font color=\"red\">(Spotlight, top 5%)</font>"
     paper_pdf: "https://arxiv.org/abs/2412.09605"
     code: "https://github.com/xlang-ai/AgentTrek"
     poster: "https://agenttrek.github.io"
@@ -26,7 +26,7 @@ papers:
 
   - title: "BRIGHT: A Realistic and Challenging Benchmark for Reasoning-Intensive Retrieval"
     authors: "Hongjin Su*, Howard Yen*, Mengzhou Xia*, Weijia Shi, Niklas Muennighoff, Han-yu Wang, Haisu Liu, Quan Shi, Zachary S. Siegel, Michael Tang, Ruoxi Sun, Jinsung Yoon, Sercan O. Arik, Danqi Chen, <b>Tao Yu</b>"
-    venue: "<b>ICLR 2025 </b> <font color="red">(Spotlight, top 5%)</font>"
+    venue: "<b>ICLR 2025 </b> <font color=\"red\">(Spotlight, top 5%)</font>"
     paper_pdf: "https://arxiv.org/abs/2407.12883"
     code: "https://github.com/xlang-ai/BRIGHT"
     poster: "https://brightbenchmark.github.io/"
@@ -54,7 +54,7 @@ papers:
     
   - title: "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments"
     authors: "Tianbao Xie, Danyang Zhang, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao, Toh Jing Hua, Zhoujun Cheng, Dongchan Shin, Fangyu Lei, Yitao Liu, Yiheng Xu, Shuyan Zhou, Silvio Savarese, Caiming Xiong, Victor Zhong, <b>Tao Yu</b>"
-    venue: "<b>NeurIPS 2024, </b> <font color="red">followed and used by OpenAI & Anthropic, ~2k GitHub stars</font>"
+    venue: "<b>NeurIPS 2024, </b> <font color=\"red\">followed and used by OpenAI & Anthropic, ~2k GitHub stars</font>"
     paper_pdf: "https://arxiv.org/abs/2404.07972"
     code: "https://github.com/xlang-ai/OSWorld"
     poster: "https://os-world.github.io/"
@@ -62,7 +62,7 @@ papers:
     
   - title: "Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?"
     authors: "Ruisheng Cao, Fangyu Lei, Haoyuan Wu, Jixuan Chen, Yeqiao Fu, Hongcheng Gao, Xinzhuang Xiong, Hanchong Zhang, Yuchen Mao, Wenjing Hu, Tianbao Xie, Hongshen Xu, Danyang Zhang, Sida Wang, Ruoxi Sun, Pengcheng Yin, Caiming Xiong, Ansong Ni, Qian Liu, Victor Zhong, Lu Chen, Kai Yu, <b>Tao Yu</b>"
-    venue: "<b>NeurIPS 2024 </b> <font color="red">(Spotlight, top 3%)</font>"
+    venue: "<b>NeurIPS 2024 </b> <font color=\"red\">(Spotlight, top 3%)</font>"
     paper_pdf: "https://arxiv.org/abs/2407.10956"
     code: "https://github.com/xlang-ai/Spider2-V"
     poster: "https://spider2-v.github.io/"
@@ -70,7 +70,7 @@ papers:
     
   - title: "OpenAgents: An Open Platform for Language Agents in the Wild"
     authors: "Tianbao Xie*, Fan Zhou*, Zhoujun Cheng*, Peng Shi*, Luoxuan Weng*, Yitao Liu*, Toh Jing Hua, Junning Zhao, Qian Liu, Che Liu, Leo Z. Liu, Yiheng Xu, Hongjin Su, Dongchan Shin, Caiming Xiong, <b>Tao Yu</b>"
-    venue: "<b>COLM 2024, </b> <font color="red">~4k GitHub stars</font>"
+    venue: "<b>COLM 2024, </b> <font color=\"red\">~4k GitHub stars</font>"
     paper_pdf: "https://arxiv.org/abs/2310.10634"
     code: "https://github.com/xlang-ai/OpenAgents"
     poster: "https://www.xlang.ai/blog/xlang-intro"
@@ -84,7 +84,7 @@ papers:
 
   - title: "Lemur: Harmonizing Natural Language and Code for Language Agents"
     authors: "Yiheng Xu*, Hongjin Su*, Chen Xing*, Boyu Mi, Qian Liu, Weijia Shi, Binyuan Hui, Fan Zhou, Yitao Liu, Tianbao Xie, Zhoujun Cheng, Siheng Zhao, Lingpeng Kong, Bailin Wang, Caiming Xiong, <b>Tao Yu</b>"
-    venue: "<b>ICLR 2024 </b> <font color="red">(Spotlight, top 5%)</font>"
+    venue: "<b>ICLR 2024 </b> <font color=\"red\">(Spotlight, top 5%)</font>"
     paper_pdf: "https://arxiv.org/abs/2310.06830"
     code: "https://github.com/OpenLemur/lemur"
     poster: "https://www.xlang.ai/blog/openlemur"
@@ -92,7 +92,7 @@ papers:
 
   - title: "Text2Reward: Automated Dense Reward Function Generation for Reinforcement Learning"
     authors: "Tianbao Xie*, Siheng Zhao*, Chen Henry Wu, Yitao Liu, Qian Luo, Victor Zhong, Yanchao Yang, <b>Tao Yu</b>"
-    venue: "<b>ICLR 2024 </b> <font color="red">(Spotlight, top 5%)</font>"
+    venue: "<b>ICLR 2024 </b> <font color=\"red\">(Spotlight, top 5%)</font>"
     paper_pdf: "https://arxiv.org/abs/2309.11489"
     code: "https://github.com/xlang-ai/text2reward"
     poster: "https://text-to-reward.github.io/"
@@ -115,14 +115,14 @@ papers:
 
   - title: "Beyond the Imitation Game: Quantifying and Extrapolating the Capabilities of Language Models"
     authors: "The BIG-bench Team"
-    venue: "<b>Transactions on Machine Learning Research 2024 </b> <font color="red">(Outstanding Award Finalist)</font>"
+    venue: "<b>Transactions on Machine Learning Research 2024 </b> <font color=\"red\">(Outstanding Award Finalist)</font>"
     paper_pdf: "https://arxiv.org/abs/2206.04615"
     code: "https://github.com/google/BIG-bench"
     selected: n
 
   - title: "One Embedder, Any Task: Instruction-Finetuned Text Embeddings"
     authors: "Hongjin Su*, Weijia Shi*, Jungo Kasai, Yizhong Wang, Yushi Hu, Mari Ostendorf, Wen-tau Yih, Noah A Smith, Luke Zettlemoyer, <b>Tao Yu</b>"
-    venue: "<b>ACL Findings 2023, </b> <font color="red">~6M downloads on HuggingFace, ~2k GitHub stars</font>"
+    venue: "<b>ACL Findings 2023, </b> <font color=\"red\">~6M downloads on HuggingFace, ~2k GitHub stars</font>"
     paper_pdf: "https://arxiv.org/abs/2212.09741"
     code: "https://github.com/xlang-ai/instructor-embedding"
     poster: "https://instructor-embedding.github.io"
@@ -154,7 +154,7 @@ papers:
     
   - title: "Binding Language Models in Symbolic Languages"
     authors: "Zhoujun Cheng*, Tianbao Xie*, Peng Shi, Chengzu Li, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A Smith, <b>Tao Yu</b>"
-    venue: "<b>ICLR 2023 </b> <font color="red">(Spotlight, top 5%)</font>"
+    venue: "<b>ICLR 2023 </b> <font color=\"red\">(Spotlight, top 5%)</font>"
     paper_pdf: "https://arxiv.org/abs/2210.02875"
     code: "https://lm-code-binder.github.io/"
     poster: "https://lm-code-binder.github.io/"
@@ -177,7 +177,7 @@ papers:
     
   - title: "UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models"
     authors: "Tianbao Xie*, Chen Henry Wu*, Peng Shi, Ruiqi Zhong, Torsten Scholak, Michihiro Yasunaga, Chien-Sheng Wu, Ming Zhong, Pengcheng Yin, Sida Wang, Victor Zhong, Bailin Wang, Chengzu Li, Connor Boyle, Ansong Ni, Ziyu Yao, Dragomir Radev, Caiming Xiong, Lingpeng Kong, Rui Zhang, Noah A. Smith, Luke Zettlemoyer, <b>Tao Yu</b>"
-    venue: "<b>EMNLP 2022</b> <font color="red">(Oral, top 4%)</font>"
+    venue: "<b>EMNLP 2022</b> <font color=\"red\">(Oral, top 4%)</font>"
     paper_pdf: "https://arxiv.org/abs/2201.05966"
     code: "https://github.com/hkunlp/unifiedskg"
     poster: "https://unifiedskg.com/"
@@ -326,7 +326,7 @@ papers:
 
   - title: "<i>Spider</i>: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task"
     authors: "<b>Tao Yu</b>, Rui Zhang, Kai Yang, Michihiro Yasunaga, Dongxu Wang, Zifan Li, James Ma, Irene Li, Qingning Yao, Shanelle Roman, Zilin Zhang and Dragomir Radev"
-    venue: "<b>EMNLP 2018, </b> <font color="red">~300 submissions, ~1k Github stars</font>"
+    venue: "<b>EMNLP 2018, </b> <font color=\"red\">~300 submissions, ~1k Github stars</font>"
     paper_pdf: "https://arxiv.org/abs/1809.08887"
     code: "https://github.com/taoyds/spider"
     data: "https://yale-lily.github.io/spider"
