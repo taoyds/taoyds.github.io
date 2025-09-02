@@ -34,7 +34,7 @@ schedule:
   - date: Oct 1
     week: Week 5
     topic:
-      - title: No class (General Holiday)
+      - title: No class
         slides:
     material:
     event:
@@ -50,7 +50,7 @@ schedule:
   - date: Oct 15
     week: Week 7
     topic:
-      - title: No class (Reading/Field Trip Week)
+      - title: No class
         slides:
     material:
     event:
@@ -66,7 +66,7 @@ schedule:
   - date: Oct 29
     week: Week 9
     topic:
-      - title: No class (General Holiday)
+      - title: No class
         slides:
     material:
     event:
@@ -106,7 +106,7 @@ schedule:
   - date: Dec 3
     week: Week 14
     topic:
-      - title: No class (Revision Period)
+      - title: No class
         slides:
     material:
     event:
