@@ -3,7 +3,7 @@ layout: course
 title: DATA8005
 description: Advanced Natural Language Processing
 style: course
-data_file_name: data8005
+data_file_name: data8005-24fall
 ---
 
 # DATA8005: Advanced Natural Language Processing
