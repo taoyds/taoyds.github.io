@@ -2,17 +2,28 @@ schedule:
   - date: Sep 3
     week: Week 1
     topic:
-      - title: 
-        slides:
+      - title: Introduction (Tao Yu)
+        slides: https://docs.google.com/presentation/d/1n38WQ4R35oBuEzr8Agqaz4RL4Lcszib6nGVyWVO1utE/edit?usp=sharing
     material:
+      - description: Readings
+        list:
+          - <a href="https://www.amacad.org/publication/human-language-understanding-reasoning">Human Language Understanding & Reasoning</a>
+          - <a href="https://www.cs.columbia.edu/~mcollins/lm-spring2013.pdf">M. Collins, Notes 1</a>
     event:
     due:
   - date: Sep 10
     week: Week 2
     topic:
-      - title: 
-        slides:
+      - title: Introduction to LLMs (Tao Yu)
+        slides: https://drive.google.com/file/d/1Gqxf9ofCCNCR1se3kjcngkHTelErFJTz/view?usp=sharing
     material:
+      - description: Readings
+        list:
+          - <a href="https://stanford-cs336.github.io/spring2025-lectures/?trace=var/traces/lecture_01.json">CS336&#58; Overview, tokenization</a>
+      - description: Others
+        list:
+          - <a href="https://www.youtube.com/watch?v=zduSFxRajkE">Talk on the GPT Tokenizer by Andrej Karpathy</a>
+          - <a href="https://nlp.seas.harvard.edu/2018/04/03/attention.html">The Annotated Transformer</a>
     event:
     due:
   - date: Sep 17
