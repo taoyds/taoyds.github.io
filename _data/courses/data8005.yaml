@@ -53,7 +53,7 @@ schedule:
   - date: Oct 8
     week: Week 6
     topic:
-      - title: 
+      - title: No class
         slides:
     material:
     event:
@@ -77,7 +77,7 @@ schedule:
   - date: Oct 29
     week: Week 9
     topic:
-      - title: No class
+      - title: No class -> makeup class
         slides:
     material:
     event:
