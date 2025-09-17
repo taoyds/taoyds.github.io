@@ -29,9 +29,12 @@ schedule:
   - date: Sep 17
     week: Week 3
     topic:
-      - title: 
-        slides:
+      - title: Introduction to LLMs (Tao Yu)
+        slides: https://drive.google.com/file/d/190CBg86iIuaqXsqBAxJIk22uN9PYboIr/view?usp=sharing
     material:
+      - description: Readings
+        list:
+          - <a href="https://stanford-cs336.github.io/spring2025-lectures/?trace=var/traces/lecture_12.json">CS336&#58; Evaluation</a>
     event:
     due:
   - date: Sep 24
