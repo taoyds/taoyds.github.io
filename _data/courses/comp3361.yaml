@@ -335,7 +335,7 @@ schedule:
   - date: May 2
     week:
     topic:
-      - title: Scaling LLMs via RL - Scaling Language Models via Reinforcement Learning&#58; From Reasoning to Agents (by Jiaqi Pan, UC Berkeley)
+      - title: Scaling LLMs via RL - Scaling Language Models via Reinforcement Learning&#58; From Reasoning to Agents (by Jiayi Pan, UC Berkeley)
         slides: /assets/courses/COMP3361-25spring-talk04.pdf
     material:
       - description: Readings
