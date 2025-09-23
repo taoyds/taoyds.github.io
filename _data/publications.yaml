@@ -1,11 +1,27 @@
 papers:
 
+  - title: "OpenCUA: Open Foundations for Computer-Use Agents"
+    authors: "Xinyuan Wang*, Bowen Wang*, Dunjie Lu*, Junlin Yang*, Tianbao Xie*, Junli Wang*, Jiaqi Deng, Xiaole Guo, Yiheng Xu, Chen Henry Wu, Zhennan Shen, Zhuokai Li, Ryan Li, Xiaochuan Li, Junda Chen, Boyuan Zheng, Peihang Li, Fangyu Lei, Ruisheng Cao, Yeqiao Fu, Dongchan Shin, Martin Shin, Jiarui Hu, Yuyan Wang, Jixuan Chen, Yuxiao Ye, Danyang Zhang, Dikang Du, Hao Hu, Huarong Chen, Zaida Zhou, Haotian Yao, Ziwei Chen, Qizheng Gu, Yipu Wang, Heng Wang, Diyi Yang, Victor Zhong, Flood Sung, Y.Charles, Zhilin Yang, <b>Tao Yu</b>"
+    venue: "<b>NeurIPS 2025</b> <font color=\"red\">(Spotlight, top 3%)</font>"
+    paper_pdf: "https://arxiv.org/abs/2508.09123"
+    code: "https://github.com/xlang-ai/OpenCUA"
+    poster: "https://opencua.xlang.ai/"
+    selected: y
+
+  - title: "Scaling Computer-Use Grounding via User Interface Decomposition and Synthesis"
+    authors: "Tianbao Xie*, Jiaqi Deng*, Xiaochuan Li*, Junlin Yang*, Haoyuan Wu, Jixuan Chen, Wenjing Hu, Xinyuan Wang, Yuhui Xu, Zekun Wang, Yiheng Xu, Junli Wang, Doyen Sahoo, <b>Tao Yu</b>, Caiming Xiong"
+    venue: "<b>NeurIPS 2025</b> <font color=\"red\">(Spotlight, top 3%)</font>"
+    paper_pdf: "https://arxiv.org/abs/2505.13227"
+    code: "https://github.com/xlang-ai/OSWorld-G"
+    poster: "https://osworld-grounding.github.io/"
+    selected: n
+    
   - title: "Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction"
     authors: "Yiheng Xu*, Zekun Wang*, Junli Wang*, Dunjie Lu, Tianbao Xie, Amrita Saha, Doyen Sahoo, <b>Tao Yu</b>, Caiming Xiong"
     venue: "<b>ICML 2025</b>"
     paper_pdf: "https://arxiv.org/abs/2412.04454"
     code: "https://github.com/xlang-ai/aguvis"
-    poster: "hhttps://aguvis-project.github.io"
+    poster: "https://aguvis-project.github.io"
     selected: y
   
   - title: "Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows"
@@ -22,7 +38,7 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2412.09605"
     code: "https://github.com/xlang-ai/AgentTrek"
     poster: "https://agenttrek.github.io"
-    selected: y
+    selected: n
 
   - title: "BRIGHT: A Realistic and Challenging Benchmark for Reasoning-Intensive Retrieval"
     authors: "Hongjin Su*, Howard Yen*, Mengzhou Xia*, Weijia Shi, Niklas Muennighoff, Han-yu Wang, Haisu Liu, Quan Shi, Zachary S. Siegel, Michael Tang, Ruoxi Sun, Jinsung Yoon, Sercan O. Arik, Danqi Chen, <b>Tao Yu</b>"
@@ -36,21 +52,21 @@ papers:
     authors: "Hongjin Su, Ruoxi Sun, Jinsung Yoon, Pengcheng Yin, <b>Tao Yu</b>, Sercan Ö. Arık"
     venue: "<b>ICLR 2025</b>"
     paper_pdf: "https://arxiv.org/abs/2501.10893"
-    selected: y
+    selected: n
 
   - title: "Generative Representational Instruction Tuning"
     authors: "Niklas Muennighoff, Hongjin Su, Liang Wang, Nan Yang, Furu Wei, <b>Tao Yu</b>, Amanpreet Singh, Douwe Kiela"
     venue: "<b>ICLR 2025</b>"
     paper_pdf: "https://arxiv.org/abs/2402.09906"
     code: "https://github.com/ContextualAI/gritlm"
-    selected: y
+    selected: n
 
   - title: "Attacking Vision-Language Computer Agents via Pop-ups"
     authors: "Yanzhe Zhang, <b>Tao Yu</b>, Diyi Yang"
     venue: "<b>ACL 2025</b>"
     paper_pdf: "https://arxiv.org/abs/2411.02391"
     code: "https://github.com/SALT-NLP/PopupAttack"
-    selected: y
+    selected: n
     
   - title: "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments"
     authors: "Tianbao Xie, Danyang Zhang, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao, Toh Jing Hua, Zhoujun Cheng, Dongchan Shin, Fangyu Lei, Yitao Liu, Yiheng Xu, Shuyan Zhou, Silvio Savarese, Caiming Xiong, Victor Zhong, <b>Tao Yu</b>"
@@ -66,7 +82,7 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2407.10956"
     code: "https://github.com/xlang-ai/Spider2-V"
     poster: "https://spider2-v.github.io/"
-    selected: y
+    selected: n
     
   - title: "OpenAgents: An Open Platform for Language Agents in the Wild"
     authors: "Tianbao Xie*, Fan Zhou*, Zhoujun Cheng*, Peng Shi*, Luoxuan Weng*, Yitao Liu*, Toh Jing Hua, Junning Zhao, Qian Liu, Che Liu, Leo Z. Liu, Yiheng Xu, Hongjin Su, Dongchan Shin, Caiming Xiong, <b>Tao Yu</b>"
@@ -134,7 +150,7 @@ papers:
     venue: "<b>ICML 2023</b>"
     paper_pdf: "https://arxiv.org/abs/2211.16490"
     code: "https://github.com/facebookresearch/coder_reviewer_reranking"
-    selected: y
+    selected: n
     
   - title: "DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation"
     authors: "Yuhang Lai*, Chengxi Li*, Yiming Wang*, Tianyi Zhang*, Ruiqi Zhong*, Luke Zettlemoyer, Scott Wen-tau Yih, Daniel Fried, Sida Wang, <b>Tao Yu</b>"
