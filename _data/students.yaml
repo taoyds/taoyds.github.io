@@ -51,8 +51,6 @@ students:
       category: "current"
       link: "https://jiacheng-ye.github.io/"
     - name: "Other interns/vistors@XLANG Lab"
-      time: ""
-      title: ""
       category: "current"
       link: "https://xlang.ai/team"
     # - name: "Siheng Zhao"
