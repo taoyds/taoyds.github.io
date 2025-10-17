@@ -84,7 +84,7 @@ schedule:
           - <a href="https://arxiv.org/abs/2412.19437">DeepSeek-V3 Technical Report</a>
           - <a href="https://arxiv.org/abs/2505.09388">Qwen3 Technical Report</a>
     event:
-    due:
+    due: <a href="https://docs.google.com/spreadsheets/d/15gGtqy6xP6M_Y8iMr7hRu9Cnw6UtXawSM9RvKaKnjfE/edit?usp=sharing">Presentation and project registration</a> <font color="red"><b>Due</b></font>
   - date: Oct 29
     week: Week 9
     topic:
@@ -113,7 +113,7 @@ schedule:
           - <a href="https://stanford-cs336.github.io/spring2025/">CS336 Lec 9, 11&#58; Scaling laws</a>
           - <a href="https://stanford-cs336.github.io/spring2025/">CS336 Lec 13-14&#58; Data</a>
           - <a href="">TBD</a>
-    event:
+    event: Project proposal <font color="red"><b>Due</b></font>
     due:
   - date: Nov 12
     week: Week 11
