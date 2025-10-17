@@ -113,8 +113,8 @@ schedule:
           - <a href="https://stanford-cs336.github.io/spring2025/">CS336 Lec 9, 11&#58; Scaling laws</a>
           - <a href="https://stanford-cs336.github.io/spring2025/">CS336 Lec 13-14&#58; Data</a>
           - <a href="">TBD</a>
-    event: Project proposal <font color="red"><b>Due</b></font>
-    due:
+    event: 
+    due: Project proposal <font color="red"><b>Due</b></font>
   - date: Nov 12
     week: Week 11
     topic:
