@@ -19,7 +19,7 @@ schedule:
     material:
       - description: Readings
         list:
-          - <a href="https://stanford-cs336.github.io/spring2025-lectures/?trace=var/traces/lecture_01.json">CS336&#58; Overview, tokenization</a>
+          - <a href="https://stanford-cs336.github.io/spring2025-lectures/?trace=var/traces/lecture_01.json">CS336 Lec 1&#58; Overview, tokenization</a>
       - description: Others
         list:
           - <a href="https://www.youtube.com/watch?v=zduSFxRajkE">Talk on the GPT Tokenizer by Andrej Karpathy</a>
@@ -34,13 +34,13 @@ schedule:
     material:
       - description: Readings
         list:
-          - <a href="https://stanford-cs336.github.io/spring2025-lectures/?trace=var/traces/lecture_12.json">CS336&#58; Evaluation</a>
+          - <a href="https://stanford-cs336.github.io/spring2025-lectures/?trace=var/traces/lecture_12.json">CS336 Lec 12&#58; Evaluation</a>
     event:
     due:
   - date: Sep 24
     week: Week 4
     topic:
-      - title: 
+      - title: Canceled due to bad weather
         slides:
     material:
     event:
@@ -72,49 +72,92 @@ schedule:
   - date: Oct 22
     week: Week 8
     topic:
-      - title: 
-        slides:
+      - title: Model architectures (Tianbao Xie, Yitao Liu)
+        slides: 
+      - title: Mixture of experts (Xusen Xiao, Haolun Wang)
+        slides: 
     material:
+      - description: Readings
+        list:
+          - <a href="https://stanford-cs336.github.io/spring2025/">CS336 Lec 3&#58; Architectures, hyperparameters</a>
+          - <a href="https://stanford-cs336.github.io/spring2025/">CS336 Lec 4&#58; Mixture of experts</a>
+          - <a href="https://arxiv.org/abs/2412.19437">DeepSeek-V3 Technical Report</a>
+          - <a href="https://arxiv.org/abs/2505.09388">Qwen3 Technical Report</a>
     event:
     due:
   - date: Oct 29
     week: Week 9
     topic:
-      - title: No class -> makeup class
-        slides:
+      - title: GPUs, Kernels 
+        slides: 
+      - title: Parallelism
+        slides: 
     material:
+      - description: Readings
+        list:
+          - <a href="https://stanford-cs336.github.io/spring2025/">CS336 Lec 5-6&#58; GPUs, Kernels, Triton</a>
+          - <a href="https://stanford-cs336.github.io/spring2025/">CS336 Lec 7-8&#58; Parallelism</a>
+          - <a href="">TBD</a>
     event:
     due:
   - date: Nov 5
     week: Week 10
     topic:
-      - title: 
-        slides:
+      - title: Scaling laws
+        slides: 
+      - title: LLM Data
+        slides: 
     material:
+      - description: Readings
+        list:
+          - <a href="https://stanford-cs336.github.io/spring2025/">CS336 Lec 9, 11&#58; Scaling laws</a>
+          - <a href="https://stanford-cs336.github.io/spring2025/">CS336 Lec 13-14&#58; Data</a>
+          - <a href="">TBD</a>
     event:
     due:
   - date: Nov 12
     week: Week 11
     topic:
-      - title: 
-        slides:
+      - title: Alignment - SFT/RLHF
+        slides: 
+      - title: Alignment - RL
+        slides: 
     material:
+      - description: Readings
+        list:
+          - <a href="https://stanford-cs336.github.io/spring2025/">CS336 Lec 15&#58; Alignment - SFT/RLHF</a>
+          - <a href="https://stanford-cs336.github.io/spring2025/">CS336 Lec 16-17&#58; Alignment - RL</a>
+          - <a href="">TBD</a>
     event:
     due:
   - date: Nov 19
     week: Week 12
     topic:
-      - title: 
-        slides:
+      - title: Multimodal LMs 1 - VLMs
+        slides: 
+      - title: Multimodal LMs 2 - diffusion models
+        slides: 
     material:
+      - description: Readings
+        list:
+          - <a href="https://github.com/QwenLM/Qwen3-VL">Qwen3-VL</a>
+          - <a href="">TBD</a>
     event:
     due:
   - date: Nov 26
     week: Week 13
     topic:
-      - title: 
-        slides:
+      - title: LLM/VLMs as Agents
+        slides: 
+      - title: Embodied AI (VLA)
+        slides: 
     material:
+      - description: Readings
+        list:
+          - <a href="https://os-world.github.io/">OSWorld&#58; Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments</a>
+          - <a href="https://opencua.xlang.ai/">OpenCUA&#58; Open Foundations for Computer-Use Agents</a>
+          - <a href="https://stanford-cs336.github.io/spring2025/">π0.5&#58; a Vision-Language-Action Model with Open-World Generalization</a>
+          - <a href="">TBD</a>
     event:
     due:
   - date: Dec 3
