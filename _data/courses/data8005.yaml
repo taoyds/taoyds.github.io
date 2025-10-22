@@ -88,54 +88,61 @@ schedule:
   - date: Oct 29
     week: Week 9
     topic:
-      - title: GPUs, Kernels 
+      - title: GPUs, Kernels (Haofeng Xu, Qingwen Bu, Bangjun Wang)
         slides: 
-      - title: Parallelism
+      - title: Parallelism (Qingquan Lin, Haochen Luo)
         slides: 
     material:
       - description: Readings
         list:
           - <a href="https://stanford-cs336.github.io/spring2025/">CS336 Lec 5-6&#58; GPUs, Kernels, Triton</a>
           - <a href="https://stanford-cs336.github.io/spring2025/">CS336 Lec 7-8&#58; Parallelism</a>
-          - <a href="">TBD</a>
+          - <a href="https://arxiv.org/abs/2205.14135">FlashAttention&#58; Fast and Memory-Efficient Exact Attention with IO-Awareness</a>
+          - <a href="https://arxiv.org/abs/2304.11277">PyTorch FSDP&#58; Experiences on Scaling Fully Sharded Data Parallel</a>
+          - <a href="https://arxiv.org/abs/1910.02054">ZeRO&#58; Memory Optimizations Toward Training Trillion Parameter Models</a>
     event:
     due:
   - date: Nov 5
     week: Week 10
     topic:
-      - title: Scaling laws
+      - title: Scaling laws (Kaixuan Wang, Liuao Pei)
         slides: 
-      - title: LLM Data
+      - title: LLM Data (Baiyue He, Shujie Li)
         slides: 
     material:
       - description: Readings
         list:
           - <a href="https://stanford-cs336.github.io/spring2025/">CS336 Lec 9, 11&#58; Scaling laws</a>
           - <a href="https://stanford-cs336.github.io/spring2025/">CS336 Lec 13-14&#58; Data</a>
-          - <a href="">TBD</a>
+          - <a href="https://arxiv.org/abs/2203.15556">Training Compute-Optimal Large Language Models</a>
+          - <a href="https://arxiv.org/abs/2001.08361">Scaling Laws for Neural Language Models</a>
     event: 
     due: Project proposal <font color="red"><b>Due</b></font>
   - date: Nov 12
     week: Week 11
     topic:
-      - title: Alignment - SFT/RLHF
+      - title: Alignment - SFT/RLHF (Yi Ji, Yao Li)
         slides: 
-      - title: Alignment - RL
+      - title: Alignment - RL (Jiangxuan Long, Bo Chen)
         slides: 
     material:
       - description: Readings
         list:
           - <a href="https://stanford-cs336.github.io/spring2025/">CS336 Lec 15&#58; Alignment - SFT/RLHF</a>
           - <a href="https://stanford-cs336.github.io/spring2025/">CS336 Lec 16-17&#58; Alignment - RL</a>
-          - <a href="">TBD</a>
+          - <a href="https://arxiv.org/abs/2203.02155">Training language models to follow instructions with human feedback</a>
+          - <a href="https://arxiv.org/abs/2305.18290">Direct Preference Optimization&#58; Your Language Model is Secretly a Reward Model</a>
+          - <a href="https://arxiv.org/abs/1707.06347">Proximal Policy Optimization Algorithms</a>
+          - <a href="https://arxiv.org/abs/2402.03300">DeepSeekMath&#58; Pushing the Limits of Mathematical Reasoning in Open Language Models</a>
+          - <a href="https://arxiv.org/abs/2501.12948">DeepSeek-R1&#58; Incentivizing Reasoning Capability in LLMs via Reinforcement Learning</a>
     event:
     due:
   - date: Nov 19
     week: Week 12
     topic:
-      - title: Multimodal LMs 1 - VLMs
+      - title: Multimodal LMs 1 - VLMs (Wenhao Yuan, Jian Chen)
         slides: 
-      - title: Multimodal LMs 2 - diffusion models
+      - title: Multimodal LMs 2 - diffusion models (Chen Xu, Zhihuan Jiang)
         slides: 
     material:
       - description: Readings
@@ -147,9 +154,9 @@ schedule:
   - date: Nov 26
     week: Week 13
     topic:
-      - title: LLM/VLMs as Agents
+      - title: LLM/VLMs as Agents (Junzhou Fang, Lingrui Xu)
         slides: 
-      - title: Embodied AI (VLA)
+      - title: Embodied AI - VLA (Jiwen Yu, Sijin Chen)
         slides: 
     material:
       - description: Readings
@@ -157,7 +164,7 @@ schedule:
           - <a href="https://os-world.github.io/">OSWorld&#58; Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments</a>
           - <a href="https://opencua.xlang.ai/">OpenCUA&#58; Open Foundations for Computer-Use Agents</a>
           - <a href="https://stanford-cs336.github.io/spring2025/">π0.5&#58; a Vision-Language-Action Model with Open-World Generalization</a>
-          - <a href="">TBD</a>
+          - <a href="https://arxiv.org/abs/2406.09246">OpenVLA&#58; An Open-Source Vision-Language-Action Model</a>
     event:
     due:
   - date: Dec 3
