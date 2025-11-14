@@ -147,8 +147,10 @@ schedule:
     material:
       - description: Readings
         list:
+          - <a href="https://arxiv.org/abs/2502.13923">Qwen2.5-VL Technical Report</a>
           - <a href="https://github.com/QwenLM/Qwen3-VL">Qwen3-VL</a>
-          - <a href="">TBD</a>
+          - <a href="https://arxiv.org/abs/2103.00020">Learning Transferable Visual Models From Natural Language Supervision</a>
+          - <a href="https://arxiv.org/abs/2510.11690">Diffusion Transformers with Representation Autoencoders</a>
     event:
     due:
   - date: Nov 26
