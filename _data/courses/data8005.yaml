@@ -166,7 +166,7 @@ schedule:
           - <a href="https://os-world.github.io/">OSWorld&#58; Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments</a>
           - <a href="https://opencua.xlang.ai/">OpenCUA&#58; Open Foundations for Computer-Use Agents</a>
           - <a href="https://stanford-cs336.github.io/spring2025/">π0.5&#58; a Vision-Language-Action Model with Open-World Generalization</a>
-          - <a href="https://arxiv.org/abs/2406.09246">OpenVLA&#58; An Open-Source Vision-Language-Action Model</a>
+          - <a href="https://www.physicalintelligence.company/download/pistar06.pdf">π0.6&#58; a VLA That Learns From Experience</a>
     event:
     due:
   - date: Dec 3
